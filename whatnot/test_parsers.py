@@ -121,7 +121,8 @@ def test_listing_search_schema():
 @pytest.mark.parametrize("schema,params,field", [
     (schemas.SearchListingsSchema, {}, "query"),
     (schemas.SearchListingsSchema, {"query": "x", "url": "y"}, "url"),
-    (schemas.SearchListingsSchema, {"query": "x", "limit": "500"}, "limit"),
+    (schemas.SearchListingsSchema, {"query": "x", "limit": "51"}, "limit"),      # feeds cap at 50
+    (schemas.SellerPageSchema, {"seller": "x", "limit": "101"}, "limit"),
     (schemas.SearchListingsSchema, {"query": "x", "seller_country": "zz"}, "seller_country"),
     (schemas.SearchListingsSchema, {"query": "x", "attributes": "Size"}, "attributes"),
     (schemas.SearchListingsSchema, {"query": "x", "min_price": "-1"}, "min_price"),

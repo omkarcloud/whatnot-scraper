@@ -59,6 +59,8 @@ def test_search():
     assert "available:" in call("/whatnot/search/listings", 400, query="jordan", attributes="Nope=1")["error"]
     assert call("/whatnot/search/listings", 400, query="jordan", min_price=50, max_price=5)
     assert call("/whatnot/search/listings", 400, query="jordan", url="x")
+    assert call("/whatnot/search/listings", query="charizard", limit=50)["count"] == 50
+    assert call("/whatnot/search/listings", 400, query="charizard", limit=51)
 
     filters = call("/whatnot/search/listings/filters", query="jordan")
     params = {f["param"] for f in filters["filters"]}
@@ -99,6 +101,7 @@ def test_sellers():
     assert reviews["count"] == 5 and reviews["total_count"] > 10_000 and reviews["next_cursor"]
     assert reviews["reviews"][0]["rating"] and reviews["reviews"][0]["reviewer"]["username"]
     assert call("/whatnot/sellers/reviews", seller="pokemonsuperstore", limit=5, cursor=reviews["next_cursor"])["reviews"]
+    assert call("/whatnot/sellers/reviews", seller="pokemonsuperstore", limit=100)["count"] == 100
 
     assert call("/whatnot/sellers/livestreams", seller="pokemonsuperstore", limit=5)["livestreams"]
     clips = call("/whatnot/sellers/clips", seller="pokemonsuperstore", limit=5)

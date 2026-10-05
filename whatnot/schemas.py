@@ -124,8 +124,11 @@ class TagIdsField(ValuesField):
         return items
 
 
-def _limit():
-    return LimitField(default=24, max_size=100)
+# Page sizes are spelled out per schema (the publishing tooling reads them
+# from the AST). Whatnot's feeds (search, shops, category and live-shop
+# feeds) answer an EMPTY page for a page size above 50 (51 is quietly served
+# as 50; 60+ comes back with zero rows and no total), so those lists cap at
+# 50. Plain connections (reviews, clips, a seller's shows) serve 100.
 
 
 # ---- schemas ---------------------------------------------------------------------------
@@ -163,7 +166,7 @@ class SearchListingsSchema(_AttributeFilters):
     min_seller_rating = ChoiceField(SELLER_RATINGS)
     is_premier_shop = Flag()
     seller_country = CountriesField()
-    limit = _limit()
+    limit = LimitField(default=24, max_size=50)
     cursor = CursorField()
 
 
@@ -175,7 +178,7 @@ class _LivestreamFilters(BaseSchema):
     min_seller_rating = ChoiceField(SELLER_RATINGS)
     is_premier_shop = Flag()
     seller_country = CountriesField()
-    limit = _limit()
+    limit = LimitField(default=24, max_size=50)
     cursor = CursorField()
 
 
@@ -186,7 +189,7 @@ class SearchLivestreamsSchema(_LivestreamFilters):
 
 class SearchSellersSchema(BaseSchema):
     query = QueryField(max_length=200)
-    limit = _limit()
+    limit = LimitField(default=24, max_size=50)
     cursor = CursorField()
 
 
@@ -195,7 +198,7 @@ class SellerSchema(BaseSchema):
 
 
 class SellerPageSchema(SellerSchema):
-    limit = _limit()
+    limit = LimitField(default=24, max_size=100)
     cursor = CursorField()
 
 
@@ -203,7 +206,7 @@ class SellerListingsSchema(_AttributeFilters):
     seller = SellerField()
     query = StrippedString(required=False, load_default=None)
     sort = ChoiceField(list(LISTING_SORTS), load_default="best_match")
-    limit = _limit()
+    limit = LimitField(default=24, max_size=50)
     cursor = CursorField()
 
 
@@ -216,7 +219,7 @@ class ListingSchema(BaseSchema):
 
 
 class ListingSimilarSchema(ListingSchema):
-    limit = _limit()
+    limit = LimitField(default=24, max_size=100)
 
 
 class LivestreamSchema(BaseSchema):
@@ -224,7 +227,7 @@ class LivestreamSchema(BaseSchema):
 
 
 class LivestreamListingsSchema(LivestreamSchema):
-    limit = _limit()
+    limit = LimitField(default=24, max_size=50)
     cursor = CursorField()
 
 
