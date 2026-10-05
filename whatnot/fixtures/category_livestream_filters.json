@@ -1,0 +1,872 @@
+{
+ "homeFeedFilterAndSortOptions": {
+  "id": "CATEGORY_FEED_V2:TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+  "title": "Pokémon Cards",
+  "filterAndSortOptions": {
+   "filters": [
+    {
+     "field": "status",
+     "displayField": "Time of Show",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Live",
+        "displaySublabelValue": null,
+        "value": "PLAYING",
+        "section": null,
+        "numResults": 270,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Upcoming",
+        "displaySublabelValue": null,
+        "value": "CREATED",
+        "section": null,
+        "numResults": 99196,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "showFormats.keyword",
+     "displayField": "Show Format",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Breaks",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_breaks",
+        "section": null,
+        "numResults": 20889,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Graded",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_graded",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Singles",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_singles",
+        "section": null,
+        "numResults": 64074,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Surprise Sets",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_mystery_bags",
+        "section": null,
+        "numResults": 14483,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "inferredAndExplicitTagIds",
+     "displayField": "Tag",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Pokémon",
+        "displaySublabelValue": null,
+        "value": "97",
+        "section": null,
+        "numResults": 44511,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$1 Starts",
+        "displaySublabelValue": null,
+        "value": "2290",
+        "section": null,
+        "numResults": 39836,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Sudden Death",
+        "displaySublabelValue": null,
+        "value": "2659",
+        "section": null,
+        "numResults": 26247,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Vintage",
+        "displaySublabelValue": null,
+        "value": "33",
+        "section": null,
+        "numResults": 26169,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Graded Cards",
+        "displaySublabelValue": null,
+        "value": "16",
+        "section": null,
+        "numResults": 14292,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pokemon 30th Anniversary",
+        "displaySublabelValue": null,
+        "value": "33124",
+        "section": null,
+        "numResults": 11913,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pokemon 151",
+        "displaySublabelValue": null,
+        "value": "1403",
+        "section": null,
+        "numResults": 10292,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Ascended Heroes",
+        "displaySublabelValue": null,
+        "value": "26056",
+        "section": null,
+        "numResults": 7864,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Slabs",
+        "displaySublabelValue": null,
+        "value": "1",
+        "section": null,
+        "numResults": 7001,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fan Art",
+        "displaySublabelValue": null,
+        "value": "637",
+        "section": null,
+        "numResults": 5109,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Prismatic Evolutions",
+        "displaySublabelValue": null,
+        "value": "19488",
+        "section": null,
+        "numResults": 4929,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Destined Rivals",
+        "displaySublabelValue": null,
+        "value": "19487",
+        "section": null,
+        "numResults": 3484,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Rip Till You Hit",
+        "displaySublabelValue": null,
+        "value": "13194",
+        "section": null,
+        "numResults": 2085,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Whatnot Card Show 9",
+        "displaySublabelValue": null,
+        "value": "2717",
+        "section": null,
+        "numResults": 1553,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Elite Trainer Box",
+        "displaySublabelValue": null,
+        "value": "20365",
+        "section": null,
+        "numResults": 1365,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Japanese",
+        "displaySublabelValue": null,
+        "value": "312",
+        "section": null,
+        "numResults": 1250,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pitch Black",
+        "displaySublabelValue": null,
+        "value": "31809",
+        "section": null,
+        "numResults": 981,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New Release",
+        "displaySublabelValue": null,
+        "value": "2661",
+        "section": null,
+        "numResults": 924,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Grails",
+        "displaySublabelValue": null,
+        "value": "6",
+        "section": null,
+        "numResults": 842,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "One Piece",
+        "displaySublabelValue": null,
+        "value": "4514",
+        "section": null,
+        "numResults": 792,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raw Cards",
+        "displaySublabelValue": null,
+        "value": "11",
+        "section": null,
+        "numResults": 727,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black Bolt & White Flare",
+        "displaySublabelValue": null,
+        "value": "20074",
+        "section": null,
+        "numResults": 663,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Chaos Rising",
+        "displaySublabelValue": null,
+        "value": "29802",
+        "section": null,
+        "numResults": 591,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Shop from Japan",
+        "displaySublabelValue": null,
+        "value": "32693",
+        "section": null,
+        "numResults": 544,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Playing Cards",
+        "displaySublabelValue": null,
+        "value": "33849",
+        "section": null,
+        "numResults": 480,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "PSA",
+        "displaySublabelValue": null,
+        "value": "21060",
+        "section": null,
+        "numResults": 369,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gemstones",
+        "displaySublabelValue": null,
+        "value": "223",
+        "section": null,
+        "numResults": 355,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gaming",
+        "displaySublabelValue": null,
+        "value": "3199",
+        "section": null,
+        "numResults": 333,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pikachu",
+        "displaySublabelValue": null,
+        "value": "21773",
+        "section": null,
+        "numResults": 330,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Phantasmal Flames",
+        "displaySublabelValue": null,
+        "value": "24462",
+        "section": null,
+        "numResults": 318,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Flash Sale",
+        "displaySublabelValue": null,
+        "value": "14226",
+        "section": null,
+        "numResults": 317,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mystery & Thriller",
+        "displaySublabelValue": null,
+        "value": "2403",
+        "section": null,
+        "numResults": 313,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Storm Emeralda",
+        "displaySublabelValue": null,
+        "value": "33023",
+        "section": null,
+        "numResults": 305,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mega Evolution",
+        "displaySublabelValue": null,
+        "value": "22863",
+        "section": null,
+        "numResults": 303,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Repacks",
+        "displaySublabelValue": null,
+        "value": "60",
+        "section": null,
+        "numResults": 300,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Perfect Order",
+        "displaySublabelValue": null,
+        "value": "28060",
+        "section": null,
+        "numResults": 271,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Charizard",
+        "displaySublabelValue": null,
+        "value": "21058",
+        "section": null,
+        "numResults": 267,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Halloween",
+        "displaySublabelValue": null,
+        "value": "2292",
+        "section": null,
+        "numResults": 249,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pokemon First Partner",
+        "displaySublabelValue": null,
+        "value": "28381",
+        "section": null,
+        "numResults": 236,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Lorcana",
+        "displaySublabelValue": null,
+        "value": "1769",
+        "section": null,
+        "numResults": 235,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pop Music",
+        "displaySublabelValue": null,
+        "value": "72",
+        "section": null,
+        "numResults": 233,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mega Dream",
+        "displaySublabelValue": null,
+        "value": "25274",
+        "section": null,
+        "numResults": 180,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Dragon Ball",
+        "displaySublabelValue": null,
+        "value": "2822",
+        "section": null,
+        "numResults": 132,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Stickers",
+        "displaySublabelValue": null,
+        "value": "5926",
+        "section": null,
+        "numResults": 132,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Anime",
+        "displaySublabelValue": null,
+        "value": "4",
+        "section": null,
+        "numResults": 125,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Case Breaks",
+        "displaySublabelValue": null,
+        "value": "2767",
+        "section": null,
+        "numResults": 124,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gengar",
+        "displaySublabelValue": null,
+        "value": "21062",
+        "section": null,
+        "numResults": 118,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "90s",
+        "displaySublabelValue": null,
+        "value": "2665",
+        "section": null,
+        "numResults": 118,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "DC Universe",
+        "displaySublabelValue": null,
+        "value": "10",
+        "section": null,
+        "numResults": 117,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Wrestling",
+        "displaySublabelValue": null,
+        "value": "5929",
+        "section": null,
+        "numResults": 113,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raid Train",
+        "displaySublabelValue": null,
+        "value": "2664",
+        "section": null,
+        "numResults": 112,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Naruto",
+        "displaySublabelValue": null,
+        "value": "20280",
+        "section": null,
+        "numResults": 108,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "My Little Pony",
+        "displaySublabelValue": null,
+        "value": "27179",
+        "section": null,
+        "numResults": 100,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Topps Flagship",
+        "displaySublabelValue": null,
+        "value": "34029",
+        "section": null,
+        "numResults": 96,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Stamps",
+        "displaySublabelValue": null,
+        "value": "922",
+        "section": null,
+        "numResults": 95,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Baby",
+        "displaySublabelValue": null,
+        "value": "517",
+        "section": null,
+        "numResults": 94,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Riftbound",
+        "displaySublabelValue": null,
+        "value": "23548",
+        "section": null,
+        "numResults": 90,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Loungewear",
+        "displaySublabelValue": null,
+        "value": "2534",
+        "section": null,
+        "numResults": 89,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Ninja Spinner",
+        "displaySublabelValue": null,
+        "value": "28059",
+        "section": null,
+        "numResults": 83,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Free Shipping",
+        "displaySublabelValue": null,
+        "value": "13190",
+        "section": null,
+        "numResults": 83,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Low-end",
+        "displaySublabelValue": null,
+        "value": "2773",
+        "section": null,
+        "numResults": 82,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Little People",
+        "displaySublabelValue": null,
+        "value": "19962",
+        "section": null,
+        "numResults": 81,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Live Demo",
+        "displaySublabelValue": null,
+        "value": "625",
+        "section": null,
+        "numResults": 76,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Topps Pristine",
+        "displaySublabelValue": null,
+        "value": "28098",
+        "section": null,
+        "numResults": 74,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Inferno X",
+        "displaySublabelValue": null,
+        "value": "22862",
+        "section": null,
+        "numResults": 73,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Abyss Eye",
+        "displaySublabelValue": null,
+        "value": "30125",
+        "section": null,
+        "numResults": 72,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Paldean Fates",
+        "displaySublabelValue": null,
+        "value": "21622",
+        "section": null,
+        "numResults": 68,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Blind Boxes",
+        "displaySublabelValue": null,
+        "value": "1436",
+        "section": null,
+        "numResults": 64,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Surging Sparks",
+        "displaySublabelValue": null,
+        "value": "19509",
+        "section": null,
+        "numResults": 64,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Delta Reign",
+        "displaySublabelValue": null,
+        "value": "33196",
+        "section": null,
+        "numResults": 63,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Journey Together",
+        "displaySublabelValue": null,
+        "value": "19499",
+        "section": null,
+        "numResults": 61,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Marvel",
+        "displaySublabelValue": null,
+        "value": "5",
+        "section": null,
+        "numResults": 55,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Movies",
+        "displaySublabelValue": null,
+        "value": "5937",
+        "section": null,
+        "numResults": 54,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Retro",
+        "displaySublabelValue": null,
+        "value": "44",
+        "section": null,
+        "numResults": 52,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Dungeons and Dragons",
+        "displaySublabelValue": null,
+        "value": "270",
+        "section": null,
+        "numResults": 51,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fairy Lamp",
+        "displaySublabelValue": null,
+        "value": "21061",
+        "section": null,
+        "numResults": 48,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "sellerRating",
+     "displayField": "Seller Rating",
+     "displayStyle": "LIST",
+     "selectionType": "SELLER_RATING",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "5 stars",
+        "displaySublabelValue": null,
+        "value": "5.0",
+        "section": null,
+        "numResults": 60306,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.5 & Up",
+        "displaySublabelValue": null,
+        "value": "4.5",
+        "section": null,
+        "numResults": 89919,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.0 & Up",
+        "displaySublabelValue": null,
+        "value": "4.0",
+        "section": null,
+        "numResults": 90127,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "isPremierShop",
+     "displayField": "Premier Shop",
+     "displayStyle": "TOP_LEVEL_CHECKBOX",
+     "selectionType": "SINGLE_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Premier Shop",
+        "displaySublabelValue": null,
+        "value": "true",
+        "section": null,
+        "numResults": 13781,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "userCountry.keyword",
+     "displayField": "Shipped From",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "United States",
+        "displaySublabelValue": null,
+        "value": "US",
+        "section": null,
+        "numResults": 67904,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "United Kingdom",
+        "displaySublabelValue": null,
+        "value": "GB",
+        "section": null,
+        "numResults": 16389,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Australia",
+        "displaySublabelValue": null,
+        "value": "AU",
+        "section": null,
+        "numResults": 4899,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "France",
+        "displaySublabelValue": null,
+        "value": "FR",
+        "section": null,
+        "numResults": 4121,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Canada",
+        "displaySublabelValue": null,
+        "value": "CA",
+        "section": null,
+        "numResults": 2245,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Netherlands",
+        "displaySublabelValue": null,
+        "value": "NL",
+        "section": null,
+        "numResults": 1492,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Germany",
+        "displaySublabelValue": null,
+        "value": "DE",
+        "section": null,
+        "numResults": 1448,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Japan",
+        "displaySublabelValue": null,
+        "value": "JP",
+        "section": null,
+        "numResults": 545,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Belgium",
+        "displaySublabelValue": null,
+        "value": "BE",
+        "section": null,
+        "numResults": 354,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Austria",
+        "displaySublabelValue": null,
+        "value": "AT",
+        "section": null,
+        "numResults": 68,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    }
+   ],
+   "sorts": [
+    {
+     "displayField": "Recommended",
+     "field": null,
+     "direction": null
+    },
+    {
+     "displayField": "Viewers: high to low",
+     "field": "VIEWER_COUNT",
+     "direction": "DESC"
+    },
+    {
+     "displayField": "Viewers: low to high",
+     "field": "VIEWER_COUNT",
+     "direction": "ASC"
+    }
+   ],
+   "defaultSort": {
+    "displayField": "Recommended",
+    "field": null,
+    "direction": null
+   }
+  }
+ }
+}

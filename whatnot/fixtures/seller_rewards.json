@@ -1,0 +1,247 @@
+{
+ "getUser": {
+  "id": "UHVibGljVXNlck5vZGU6MTE4NDg0OTU=",
+  "username": "pokemonsuperstore",
+  "loyaltyProgram": {
+   "id": "325499",
+   "status": "PUBLISHED",
+   "seasonInfo": {
+    "seasonName": "Season 9",
+    "seasonNumber": 9,
+    "seasonStartMs": 1788278400000.0,
+    "seasonEndMs": 1796144400000.0,
+    "seasonEndDescription": "Season 9 Ends December 1"
+   },
+   "brand": {
+    "status": "DRAFT",
+    "tierBrands": {
+     "bronze": {
+      "level": "BRONZE",
+      "displayName": null,
+      "bannerImage": null,
+      "largeBadgeImage": null
+     },
+     "silver": {
+      "level": "SILVER",
+      "displayName": null,
+      "bannerImage": null,
+      "largeBadgeImage": null
+     },
+     "gold": {
+      "level": "GOLD",
+      "displayName": null,
+      "bannerImage": null,
+      "largeBadgeImage": null
+     },
+     "platinum": {
+      "level": "PLATINUM",
+      "displayName": null,
+      "bannerImage": null,
+      "largeBadgeImage": null
+     },
+     "diamond": {
+      "level": "DIAMOND",
+      "displayName": null,
+      "bannerImage": null,
+      "largeBadgeImage": null
+     }
+    }
+   },
+   "tiers": [
+    {
+     "level": "BRONZE",
+     "achievementGroups": [
+      {
+       "achievements": [
+        {
+         "__typename": "MoneyLoyaltyAchievement",
+         "achievementType": "MONEY_AMOUNT_PURCHASED",
+         "moneyRequirement": {
+          "amount": 5000,
+          "currency": "USD"
+         }
+        }
+       ]
+      },
+      {
+       "achievements": [
+        {
+         "__typename": "NumberLoyaltyAchievement",
+         "achievementType": "NUM_PURCHASES",
+         "requirement": 5
+        }
+       ]
+      },
+      {
+       "achievements": [
+        {
+         "__typename": "NumberLoyaltyAchievement",
+         "achievementType": "SHOWS_WATCHED",
+         "requirement": 40
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "__typename": "CouponLoyaltyReward",
+       "id": "TG95YWx0eVJld2FyZDoxOTc2NjU5",
+       "description": "20% off next $10 (est. ₹963.26)+ purchase, up to $50 (est. ₹4,816.28) off",
+       "rewardType": "COUPON"
+      },
+      {
+       "__typename": "BasicLoyaltyReward",
+       "id": "LoyaltyReward:TIER_BADGE_BRONZE",
+       "description": "Tier 1 avatar badge",
+       "rewardType": "TIER_BADGE"
+      }
+     ]
+    },
+    {
+     "level": "SILVER",
+     "achievementGroups": [
+      {
+       "achievements": [
+        {
+         "__typename": "NumberLoyaltyAchievement",
+         "achievementType": "NUM_PURCHASES",
+         "requirement": 0
+        },
+        {
+         "__typename": "MoneyLoyaltyAchievement",
+         "achievementType": "MONEY_AMOUNT_PURCHASED",
+         "moneyRequirement": {
+          "amount": 0,
+          "currency": "USD"
+         }
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "__typename": "CouponLoyaltyReward",
+       "id": "TG95YWx0eVJld2FyZDoxOTc2NjYx",
+       "description": "$10 (est. ₹963.26) off next purchase",
+       "rewardType": "COUPON"
+      },
+      {
+       "__typename": "BasicLoyaltyReward",
+       "id": "LoyaltyReward:TIER_BADGE_SILVER",
+       "description": "Tier 2 avatar badge",
+       "rewardType": "TIER_BADGE"
+      }
+     ]
+    },
+    {
+     "level": "GOLD",
+     "achievementGroups": [
+      {
+       "achievements": [
+        {
+         "__typename": "NumberLoyaltyAchievement",
+         "achievementType": "NUM_PURCHASES",
+         "requirement": 0
+        },
+        {
+         "__typename": "MoneyLoyaltyAchievement",
+         "achievementType": "MONEY_AMOUNT_PURCHASED",
+         "moneyRequirement": {
+          "amount": 0,
+          "currency": "USD"
+         }
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "__typename": "CouponLoyaltyReward",
+       "id": "TG95YWx0eVJld2FyZDoxOTc2NjYy",
+       "description": "$20 (est. ₹1,926.51) off next purchase",
+       "rewardType": "COUPON"
+      },
+      {
+       "__typename": "BasicLoyaltyReward",
+       "id": "LoyaltyReward:TIER_BADGE_GOLD",
+       "description": "Tier 3 avatar badge",
+       "rewardType": "TIER_BADGE"
+      }
+     ]
+    },
+    {
+     "level": "PLATINUM",
+     "achievementGroups": [
+      {
+       "achievements": [
+        {
+         "__typename": "NumberLoyaltyAchievement",
+         "achievementType": "NUM_PURCHASES",
+         "requirement": 0
+        },
+        {
+         "__typename": "MoneyLoyaltyAchievement",
+         "achievementType": "MONEY_AMOUNT_PURCHASED",
+         "moneyRequirement": {
+          "amount": 0,
+          "currency": "USD"
+         }
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "__typename": "CouponLoyaltyReward",
+       "id": "TG95YWx0eVJld2FyZDoxOTc2NjYz",
+       "description": "$10 (est. ₹963.26) off next purchase",
+       "rewardType": "COUPON"
+      },
+      {
+       "__typename": "BasicLoyaltyReward",
+       "id": "LoyaltyReward:TIER_BADGE_PLATINUM",
+       "description": "Tier 4 avatar badge",
+       "rewardType": "TIER_BADGE"
+      }
+     ]
+    },
+    {
+     "level": "DIAMOND",
+     "achievementGroups": [
+      {
+       "achievements": [
+        {
+         "__typename": "MoneyLoyaltyAchievement",
+         "achievementType": "MONEY_AMOUNT_PURCHASED",
+         "moneyRequirement": {
+          "amount": 0,
+          "currency": "USD"
+         }
+        },
+        {
+         "__typename": "NumberLoyaltyAchievement",
+         "achievementType": "NUM_PURCHASES",
+         "requirement": 0
+        }
+       ]
+      }
+     ],
+     "rewards": [
+      {
+       "__typename": "CouponLoyaltyReward",
+       "id": "TG95YWx0eVJld2FyZDoxOTc2NjY0",
+       "description": "$20 (est. ₹1,926.51) off next purchase",
+       "rewardType": "COUPON"
+      },
+      {
+       "__typename": "BasicLoyaltyReward",
+       "id": "LoyaltyReward:TIER_BADGE_DIAMOND",
+       "description": "Tier 5 avatar badge",
+       "rewardType": "TIER_BADGE"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

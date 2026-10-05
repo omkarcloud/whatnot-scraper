@@ -1,0 +1,3303 @@
+{
+ "getUser": {
+  "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+  "username": "rare_finds",
+  "searchShop": {
+   "id": "BUYER_SHOP_SEARCH_FEED:eyJzZWFyY2hfcXVlcnkiOiBudWxsLCAicmVmZXJyaW5nX3NvdXJjZSI6IG51bGwsICJzZWFyY2hfZmlsdGVycyI6IG51bGwsICJzb3J0X2ZpZWxkIjogbnVsbCwgInNvcnRfZGlyZWN0aW9uIjogbnVsbCwgInNlbGxlcl91c2VyX2lkIjogMTIwMTc5LCAic2VhcmNoX2xvY2F0aW9uIjogbnVsbCwgImNhdGVnb3J5X2lkcyI6IG51bGwsICJxdWVyeV9yZWNvbW1lbmRhdGlvbl9pZCI6IG51bGwsICJ1c2VzX2NhdGVnb3JpemF0aW9uX3RhZ3MiOiBmYWxzZSwgInZpZXdpbmdfZmVlZF9pZCI6IG51bGx9",
+   "objects": {
+    "totalCount": 4499,
+    "pageInfo": {
+     "endCursor": "YXJyYXljb25uZWN0aW9uOjc=",
+     "hasNextPage": true
+    },
+    "edges": [
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNTcyOTMzNQ==",
+        "title": "BEEDRILL - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "BEEDRILL - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 23:38:51 GMT",
+        "updatedAtMs": 1790033932275.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyNDcxODQ=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtNmVmY2U1ODYtMjA1NS00YmRkLTg5ZGEtOWY0ZmZhNWRlZjZiLTdjODViNGM1LTA0MGUtNDkyZi1iNjcwLWFmYTQ0ZTk4YzYzNy5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=8258acafe7e7f2ca52520e23d5948d3fb044135cbfbbafcb522ac854a6a75188",
+          "label": "6efce586-2055-4bdd-89da-9f4ffa5def6b"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyNDcxODI=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtMjlhZDcyN2ItYmRlYy00OWQ3LWE4NzktODc2ODUxMGQ5OGY2LWRlOTJmMTg4LTE3YWItNGEwYS05ODcxLWFjYjgyOGE5MjQzYi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=7564934fc214a6c119ff18bfc95f16930990e276a7caef1c0d3fbb2eb5b0f615",
+          "label": "29ad727b-bdec-49d7-a879-8768510d98f6"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0NjUzMDkx",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNTcyNjg4OA==",
+        "title": "BANETTE - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "BANETTE - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 23:38:14 GMT",
+        "updatedAtMs": 1790033894764.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyNDUwODg=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtZjAyZGY4ZGMtYjQ4Yi00NDQ2LWI4YWYtOWJmY2I4N2U2ZTNiLWYxZThiZDY4LTllODktNDdiNy04YmJlLWFkMDNiMmM5ZjFlNi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=444c230ec5f317a0870b2eb6eb4a0180b16df63e4333b6ec1f5531c10099c294",
+          "label": "f02df8dc-b48b-4446-b8af-9bfcb87e6e3b"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyNDUwODI=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtMjJiOGJiZTktYjY2MC00NjExLThhNTMtZjU3ZmY4MmRkMjRhLWY4MDIxMmQ5LTE0Y2YtNDE2Zi1hN2UxLWViM2Q3MGExMzZhYi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=33f66bb64406eeb7bc290e89eef379c172de6a1adec53b632a1207db7cf44ca8",
+          "label": "22b8bbe9-b660-4611-8a53-f57ff82dd24a"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0NjUyNTAx",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNTcxOTk3Mw==",
+        "title": "SCIZOR - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "SCIZOR - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 23:36:30 GMT",
+        "updatedAtMs": 1790033790773.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyMzU3MTc=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtZWMwYmExYjEtN2VkYy00YmY1LWI5YjEtMWIxN2YwMzVhOGYwLWE2OTcwY2UwLWNmMGMtNGU2OS04NzE0LWI0MDg1ZTg2MzBiOC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=89b65396a7ac7ca3b2996199e098680978b5e1cc02c02e00d13072751741aaff",
+          "label": "ec0ba1b1-7edc-4bf5-b9b1-1b17f035a8f0"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyMzU3MTg=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtNzg4ZDAyNDUtMGE5Mi00MmNhLWJjNzYtZTBkYjJmODBlOTM3LTI1YjliNDVkLTQxNTAtNDQzYS05ZmUzLTdiM2M4N2FiZmE5My5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=90ce9c7427141db684fb361274d080bab229497662c77c8b34e43f4b629b4dde",
+          "label": "788d0245-0a92-42ca-bc76-e0db2f80e937"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0NjUwMTI0",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNTcxNTUyNw==",
+        "title": "STEELIX - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "STEELIX - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 23:35:20 GMT",
+        "updatedAtMs": 1790033720584.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyMzM0OTM=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtOTE5YzBmZDgtY2VkYy00ZTA0LWE4MDEtNmFlMzA2MDEyOTVlLTE2NTdlMTVmLWY0YTItNGQxYy05MzNlLWE0YWEyZDBkYjk2MC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=0343e8530312e6687cd4a9e5238242914f04cebbee639a05481db6f806f37a1f",
+          "label": "919c0fd8-cedc-4e04-a801-6ae30601295e"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyMzM0OTA=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtMzAxMGY5OGItZDhmYy00NmYyLWJhNTItN2Q0MzJmMDU4ZjQ3LTUxZjVmMzcyLTRhMDEtNDk0NS05ZmZmLWIxMjY0NGE4Mjg3Mi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=e9ad5d63eeef87cbfc7eddb8185a019ea5afab276806a0c2aaa8879f63352a15",
+          "label": "3010f98b-d8fc-46f2-ba52-7d432f058f47"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0NjQ4NzI3",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNTcxMzQyMg==",
+        "title": "HERACROSS - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "HERACROSS - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 23:34:45 GMT",
+        "updatedAtMs": 1790033685854.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyMzE1MjY=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtNDRmODk3OWMtYmQ3ZC00ZDViLWFlZmEtMDRhYzYyNDEyNmRjLTRmYWRiY2I5LWQ1NzAtNGQ2MS05ZGE1LTZlYjJjYjI3ZDYxOS5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=ae59c803a932ef9dfa92e6ecff73aa694438ec429d9fd72cdc3ffbdd997cf7de",
+          "label": "44f8979c-bd7d-4d5b-aefa-04ac624126dc"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTUyMzE1MTA=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtODZmOWFhZmYtNGEzZC00MmY1LWJjNTctZDU1MWExNmU2OTczLTZjMjRjODgzLWQyZDktNDQ2Mi1iNGU2LTQwYmY3OTA1ZjAxZS5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=5d5aa2210873ed6ec7192dda46fe46f5d6b66fee7ff05c76e5c9c2cb8250a8d6",
+          "label": "86f9aaff-4a3d-42f5-bc57-d551a16e6973"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0NjQ4MTAw",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNDE3MzE0OQ==",
+        "title": "GLALIE - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "GLALIE - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 15:37:38 GMT",
+        "updatedAtMs": 1790005059169.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTMzMDczMjU=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtNzI3OTY2NDItZDQzNC00OTY3LWFjZDctMzM0NjA1NTRlNWZiLTFlNjRhOTZlLTUwM2EtNGExNi04YzFkLTAyZGVlNjU3ODc0NC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=c643fbf15e6778cac69840be35de9d858b1f2e9d8b1a8ff26846aaaf071a7bfe",
+          "label": "72796642-d434-4967-acd7-33460554e5fb"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTMzMDcyNTc=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtOTEzOWE5NDUtN2Y3Ny00MDc1LTgwMjItY2IwYzJjOGZmMzVkLWM5NmU5N2Q0LTkxNzEtNGFjYi1iMDRmLTNjYmY5Mjg4MjZkNy5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=1defa3c1cc0b1748ca93b08b6a27363186643d61545786d865c98bdba0c64fd5",
+          "label": "9139a945-7f77-4075-8022-cb0c2c8ff35d"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0MTY4ODQz",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNDE3MTgxNg==",
+        "title": "LATIAS - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "LATIAS - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 15:37:08 GMT",
+        "updatedAtMs": 1790005029217.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTMzMDU0MjA=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtYTllODFjZDAtODM2Zi00MGQzLWEzYzYtMTEzYWZiM2MwMzkyLWQ5MGM0OTNiLWQwNDktNDYzNi1hYTIzLWM5ZWRmZTZmODllZC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=3f2b61d6406a9e786f2c140b59160c4eef4ec5cd8515c97ec45538ee8fef9a96",
+          "label": "a9e81cd0-836f-40d3-a3c6-113afb3c0392"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTMzMDU0NzI=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtZmJjZWM5NjgtYjViZC00M2I2LTliYzYtODVhNzE0MDVhOTNjLTNiODMxNmVkLWYxNmUtNDUwMC1iOWMxLTEwMDQ3YjAzMjQ4Ny5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=70a85f0495f87eb4707985f6d2a4477df44954e0508fe6c0a53dc6593e5971b6",
+          "label": "fbcec968-b5bd-43b6-9bc6-85a71405a93c"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0MTY4MzQ1",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MjMzNDE3MDI3NA==",
+        "title": "LATIOS - CARD DATABASE SHINY - POKEMON",
+        "subtitle": "",
+        "description": "LATIOS - CARD DATABASE SHINY - POKEMON",
+        "publicStatus": "ACTIVE",
+        "transactionType": "BUY_IT_NOW",
+        "quantity": 1,
+        "price": {
+         "amount": 700,
+         "currency": "USD"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": false,
+        "livestreamStartTime": null,
+        "activeLivestreamId": null,
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Mon, 21 Sep 2026 15:36:31 GMT",
+        "updatedAtMs": 1790004991513.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTMzMDMwNzg=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtOTRiYWY3MzktYTY1Zi00YjFkLThlNDQtM2NmZTA3NTdjNTVkLWM3ZDFlZjQ3LTdhYWMtNDExNy04Nzk0LWZlMGM0NDc5NDJlMS5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=27e5680d1b942f7babca4b552f1dbb233e61dce2858fcae8897fce7e9e5c7a01",
+          "label": "94baf739-a65f-4b1d-8e44-3cfe0757c55d"
+         },
+         {
+          "id": "UHJvZHVjdEltYWdlOjE4MTMzMDMxNjM=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtMjY4M2NkMzgtMzM4MC00NjUzLTliM2YtZTQzN2QzMTE1NWVhLTEzMDc0Nzg3LWQ1MzMtNDA5YS05ZDYyLTRkY2ZlMzFkYWEyYy5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=da02e0aff8172a5aea5d9b717157114ece83cd595667a4df4d16acf6e6180254",
+          "label": "2683cd38-3380-4653-9b3f-e437d31155ea"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTIwMTc5",
+         "username": "rare_finds",
+         "isLive": false,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.9,
+          "numReviews": 243
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzEyMDE3OS84NjcwN2I1NS04ODYwLTRhMmUtOWZjYy1lYjg3ZWU5YTdiNDMuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IG51bGwsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvbnRhaW4iLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19fQ==?signature=9c593d8ea6e7fa9baae4b250f8631ceac60904343d5978f03b1115d0ae6eab0f"
+         },
+         "premierShopStatus": null,
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NjE0MTY3ODYx",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "rare_finds",
+          "channelId": "rare_finds",
+          "meta": null
+         }
+        ],
+        "category": {
+         "id": "Q2F0ZWdvcnlOb2RlOjI=",
+         "type": "pokemon_cards",
+         "label": "Pokémon Cards"
+        }
+       }
+      }
+     }
+    ]
+   },
+   "filterAndSortOptions": {
+    "filters": [
+     {
+      "field": "category.keyword",
+      "displayField": "Category",
+      "displayStyle": "NESTED_LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Trading Card Games",
+         "displaySublabelValue": null,
+         "value": "trading_card_games",
+         "section": null,
+         "numResults": 4452,
+         "directDescendantValues": [
+          "pokemon_cards",
+          "tcg_other",
+          "union_arena",
+          "tcg_accessories",
+          "flesh_and_blood",
+          "dc_cards",
+          "dragonball_cards",
+          "akora",
+          "sorcery_contested_realm",
+          "lorcana_cards",
+          "veefriends",
+          "kryptik_cards",
+          "one_piece_cards",
+          "my_hero_academia",
+          "naruto_cards",
+          "metazoo",
+          "weiß_schwarz",
+          "digimon_cards",
+          "magic_cards",
+          "yugioh_cards",
+          "palworld",
+          "gundam_cards",
+          "riftbound_cards"
+         ]
+        },
+        {
+         "displayValue": "Pokémon Cards",
+         "displaySublabelValue": null,
+         "value": "pokemon_cards",
+         "section": null,
+         "numResults": 4301,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Kickstarter & Other Cards",
+         "displaySublabelValue": null,
+         "value": "tcg_other",
+         "section": null,
+         "numResults": 151,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Toys & Hobbies",
+         "displaySublabelValue": null,
+         "value": "toys",
+         "section": null,
+         "numResults": 12,
+         "directDescendantValues": [
+          "toys_other",
+          "pop_mart_toys",
+          "designer_toys",
+          "models_kits",
+          "fastfood_cereal",
+          "kawaii_other",
+          "vintage_toys",
+          "figpin",
+          "baby_and_kids_toys",
+          "sonny_angel_toys",
+          "slime_and_squishy_toys",
+          "remote_control_vehicles_and_toys",
+          "barbies_dolls",
+          "marbles",
+          "tabletop_games",
+          "slot_cars",
+          "plush",
+          "diecast_cars",
+          "legos",
+          "thrilljoy",
+          "littlest_pet_shop",
+          "funko_pop",
+          "action_figures"
+         ]
+        },
+        {
+         "displayValue": "Other Toys",
+         "displaySublabelValue": null,
+         "value": "toys_other",
+         "section": null,
+         "numResults": 8,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Comics & Manga",
+         "displaySublabelValue": null,
+         "value": "comic_books",
+         "section": null,
+         "numResults": 8,
+         "directDescendantValues": [
+          "bronze_age_comics",
+          "manga",
+          "modern_age_comics",
+          "pop_culture_memorabiliia",
+          "comic_art"
+         ]
+        },
+        {
+         "displayValue": "Vintage Comics",
+         "displaySublabelValue": null,
+         "value": "bronze_age_comics",
+         "section": null,
+         "numResults": 8,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Entertainment Cards",
+         "displaySublabelValue": null,
+         "value": "entertainment_cards",
+         "section": null,
+         "numResults": 8,
+         "directDescendantValues": [
+          "garbage_pail_kids",
+          "star_wars_cards",
+          "tv_and_movie_cards",
+          "other_entertainment_cards",
+          "marvel_cards",
+          "disney_cards"
+         ]
+        },
+        {
+         "displayValue": "Garbage Pail Kids",
+         "displaySublabelValue": null,
+         "value": "garbage_pail_kids",
+         "section": null,
+         "numResults": 8,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Baseball Cards",
+         "displaySublabelValue": null,
+         "value": "baseball",
+         "section": null,
+         "numResults": 4,
+         "directDescendantValues": [
+          "baseball_singles",
+          "baseball_breaks",
+          "baseball_mystery"
+         ]
+        },
+        {
+         "displayValue": "Labubu & Blindboxes",
+         "displaySublabelValue": null,
+         "value": "pop_mart_toys",
+         "section": null,
+         "numResults": 4,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Baseball Singles",
+         "displaySublabelValue": null,
+         "value": "baseball_singles",
+         "section": null,
+         "numResults": 4,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Action Figures",
+         "displaySublabelValue": null,
+         "value": "action_figures",
+         "section": null,
+         "numResults": 4,
+         "directDescendantValues": [
+          "other_action_figures",
+          "wrestling_figures",
+          "tmnt_figures",
+          "marvel_figures",
+          "gi_joe_figures",
+          "transformers_figures",
+          "anime_figures",
+          "hot_toys_figures",
+          "simpsons_figures",
+          "motu_figures",
+          "power_ranger_figures",
+          "dc_figures",
+          "star_wars_figures"
+         ]
+        },
+        {
+         "displayValue": "Basketball Cards",
+         "displaySublabelValue": null,
+         "value": "basketball_cards",
+         "section": null,
+         "numResults": 3,
+         "directDescendantValues": [
+          "basketball_singles",
+          "basketball_mystery",
+          "basketball_breaks"
+         ]
+        },
+        {
+         "displayValue": "Basketball Singles",
+         "displaySublabelValue": null,
+         "value": "basketball_singles",
+         "section": null,
+         "numResults": 3,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Other Action Figures",
+         "displaySublabelValue": null,
+         "value": "other_action_figures",
+         "section": null,
+         "numResults": 2,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Disneyana",
+         "displaySublabelValue": null,
+         "value": "disneyana",
+         "section": null,
+         "numResults": 2,
+         "directDescendantValues": [
+          "disneyana_clothing",
+          "disneyana_other",
+          "disneyana_art",
+          "disneyana_pins",
+          "loungefly",
+          "disneyana_accessories"
+         ]
+        },
+        {
+         "displayValue": "Diecast Cars",
+         "displaySublabelValue": null,
+         "value": "diecast_toys_cars",
+         "section": null,
+         "numResults": 2,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Diecast",
+         "displaySublabelValue": null,
+         "value": "diecast_cars",
+         "section": null,
+         "numResults": 2,
+         "directDescendantValues": [
+          "diecast_toys_cars",
+          "other_diecast"
+         ]
+        },
+        {
+         "displayValue": "Disney Clothing",
+         "displaySublabelValue": null,
+         "value": "disneyana_clothing",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Wrestling Figures",
+         "displaySublabelValue": null,
+         "value": "wrestling_figures",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Other Disneyana",
+         "displaySublabelValue": null,
+         "value": "disneyana_other",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Hockey Cards",
+         "displaySublabelValue": null,
+         "value": "hockey_cards",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": [
+          "hockey_singles",
+          "hockey_mystery",
+          "hockey_breaks"
+         ]
+        },
+        {
+         "displayValue": "Baseball Memorabilia",
+         "displaySublabelValue": null,
+         "value": "baseball_memorabilia",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": [
+          "baseball_mem_other",
+          "baseball_mem_jerseys",
+          "baseball_mem_photos",
+          "baseball_mem_bats",
+          "baseball_mem_baseballs"
+         ]
+        },
+        {
+         "displayValue": "TMNT Figures",
+         "displaySublabelValue": null,
+         "value": "tmnt_figures",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Puzzles",
+         "displaySublabelValue": null,
+         "value": "puzzles",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Tabletop Games",
+         "displaySublabelValue": null,
+         "value": "tabletop_games",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": [
+          "puzzles",
+          "boardgames",
+          "roleplaying_toys",
+          "other_tabletop_games",
+          "all_tabletop_games"
+         ]
+        },
+        {
+         "displayValue": "Hockey Singles",
+         "displaySublabelValue": null,
+         "value": "hockey_singles",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Football Cards",
+         "displaySublabelValue": null,
+         "value": "football",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": [
+          "football_singles",
+          "football_mystery",
+          "football_breaks"
+         ]
+        },
+        {
+         "displayValue": "Other Baseball Memorabilia",
+         "displaySublabelValue": null,
+         "value": "baseball_mem_other",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Football Singles",
+         "displaySublabelValue": null,
+         "value": "football_singles",
+         "section": null,
+         "numResults": 1,
+         "directDescendantValues": []
+        },
+        {
+         "displayValue": "Sports Memorabilia",
+         "displaySublabelValue": null,
+         "value": "sports_memorabilia",
+         "section": null,
+         "numResults": 0,
+         "directDescendantValues": [
+          "basketball_memorabilia",
+          "baseball_memorabilia",
+          "other_memorabilia",
+          "soccer_jerseys",
+          "football_memorabilia"
+         ]
+        },
+        {
+         "displayValue": "Sports Cards",
+         "displaySublabelValue": null,
+         "value": "sports_cards",
+         "section": null,
+         "numResults": 0,
+         "directDescendantValues": [
+          "baseball",
+          "basketball_cards",
+          "wrestling",
+          "hockey_cards",
+          "ufc",
+          "sports_other",
+          "motorsport",
+          "afl_cards",
+          "football",
+          "soccer",
+          "rugby_cards",
+          "tennis_cards"
+         ]
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "buyingFormat",
+      "displayField": "Buy Format",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Buy It Now",
+         "displaySublabelValue": null,
+         "value": "BUY_IT_NOW",
+         "section": null,
+         "numResults": 4499,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "priceCents",
+      "displayField": "Price",
+      "displayStyle": "LIST",
+      "selectionType": "PRICE_RANGE",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": null,
+       "allowedRange": {
+        "minimum": 200.0,
+        "maximum": 37500.0
+       }
+      }
+     },
+     {
+      "field": "stringAttributes.Condition",
+      "displayField": "Condition",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "New",
+         "displaySublabelValue": null,
+         "value": "New",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Near Mint",
+         "displaySublabelValue": null,
+         "value": "Near Mint",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Mint",
+         "displaySublabelValue": null,
+         "value": "Mint",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Light Played",
+         "displaySublabelValue": null,
+         "value": "Light Played",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Moderately Played",
+         "displaySublabelValue": null,
+         "value": "Moderately Played",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Raw - Near Mint or Better",
+         "displaySublabelValue": null,
+         "value": "Raw - Near Mint or Better",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Graded",
+         "displaySublabelValue": null,
+         "value": "Graded",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Good",
+         "displaySublabelValue": null,
+         "value": "Good",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Heavily Played",
+         "displaySublabelValue": null,
+         "value": "Heavily Played",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Poor",
+         "displaySublabelValue": null,
+         "value": "Poor",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Raw - Excellent",
+         "displaySublabelValue": null,
+         "value": "Raw - Excellent",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Raw - Poor",
+         "displaySublabelValue": null,
+         "value": "Raw - Poor",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Raw - Very Good",
+         "displaySublabelValue": null,
+         "value": "Raw - Very Good",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Set",
+      "displayField": "Set",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "CARD DATABASE HALLOWEEN 2026",
+         "displaySublabelValue": null,
+         "value": "CARD DATABASE HALLOWEEN 2026",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Lost Origin",
+         "displaySublabelValue": null,
+         "value": "Lost Origin",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Scarlet & Violet 151",
+         "displaySublabelValue": null,
+         "value": "Scarlet & Violet 151",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Steam Siege",
+         "displaySublabelValue": null,
+         "value": "Steam Siege",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "LETS GO EEVEE",
+         "displaySublabelValue": null,
+         "value": "LETS GO EEVEE",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Obsidian Flames",
+         "displaySublabelValue": null,
+         "value": "Obsidian Flames",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "SLAB PROTECTOR",
+         "displaySublabelValue": null,
+         "value": "SLAB PROTECTOR",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "BREAKthrough",
+         "displaySublabelValue": null,
+         "value": "BREAKthrough",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Electric card database",
+         "displaySublabelValue": null,
+         "value": "Electric card database",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POKEDERP ",
+         "displaySublabelValue": null,
+         "value": "POKEDERP ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Pokémon TCG: Pokémon GO",
+         "displaySublabelValue": null,
+         "value": "Pokémon TCG: Pokémon GO",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Topps",
+         "displaySublabelValue": null,
+         "value": "Topps",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Vivid Voltage",
+         "displaySublabelValue": null,
+         "value": "Vivid Voltage",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "BREAKpoint",
+         "displaySublabelValue": null,
+         "value": "BREAKpoint",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "CARD DATABASE SHINY",
+         "displaySublabelValue": null,
+         "value": "CARD DATABASE SHINY",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Crimson Invasion",
+         "displaySublabelValue": null,
+         "value": "Crimson Invasion",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Evolving Skies",
+         "displaySublabelValue": null,
+         "value": "Evolving Skies",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Roaring Skies",
+         "displaySublabelValue": null,
+         "value": "Roaring Skies",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "BOOK WORMS",
+         "displaySublabelValue": null,
+         "value": "BOOK WORMS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Base Set",
+         "displaySublabelValue": null,
+         "value": "Base Set",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Black Kanto",
+         "displaySublabelValue": null,
+         "value": "Black Kanto",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Chilling Reign",
+         "displaySublabelValue": null,
+         "value": "Chilling Reign",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Darkness Ablaze",
+         "displaySublabelValue": null,
+         "value": "Darkness Ablaze",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Fates Collide",
+         "displaySublabelValue": null,
+         "value": "Fates Collide",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Fusion Strike",
+         "displaySublabelValue": null,
+         "value": "Fusion Strike",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POKKEDO V3",
+         "displaySublabelValue": null,
+         "value": "POKKEDO V3",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Pokederp",
+         "displaySublabelValue": null,
+         "value": "Pokederp",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Shining Legends",
+         "displaySublabelValue": null,
+         "value": "Shining Legends",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Sun & Moon Base Set",
+         "displaySublabelValue": null,
+         "value": "Sun & Moon Base Set",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "ATTACKS CARD DATABASE",
+         "displaySublabelValue": null,
+         "value": "ATTACKS CARD DATABASE",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "BOOKWORMS",
+         "displaySublabelValue": null,
+         "value": "BOOKWORMS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Battle Styles",
+         "displaySublabelValue": null,
+         "value": "Battle Styles",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Celebrations",
+         "displaySublabelValue": null,
+         "value": "Celebrations",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Celestial Storm",
+         "displaySublabelValue": null,
+         "value": "Celestial Storm",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Guardians Rising",
+         "displaySublabelValue": null,
+         "value": "Guardians Rising",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POKKEDO V2",
+         "displaySublabelValue": null,
+         "value": "POKKEDO V2",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Ancient Origins",
+         "displaySublabelValue": null,
+         "value": "Ancient Origins",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Ascended Heroes",
+         "displaySublabelValue": null,
+         "value": "Ascended Heroes",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Astral Radiance",
+         "displaySublabelValue": null,
+         "value": "Astral Radiance",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Burning Shadows",
+         "displaySublabelValue": null,
+         "value": "Burning Shadows",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "CRYSTAL CARD COLLECTION",
+         "displaySublabelValue": null,
+         "value": "CRYSTAL CARD COLLECTION",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POKEDERP",
+         "displaySublabelValue": null,
+         "value": "POKEDERP",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POKI DOKI",
+         "displaySublabelValue": null,
+         "value": "POKI DOKI",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Rebel Clash",
+         "displaySublabelValue": null,
+         "value": "Rebel Clash",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Sword & Shield Base Set",
+         "displaySublabelValue": null,
+         "value": "Sword & Shield Base Set",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Unified Minds",
+         "displaySublabelValue": null,
+         "value": "Unified Minds",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": " CARD DATABASE",
+         "displaySublabelValue": null,
+         "value": " CARD DATABASE",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "152",
+         "displaySublabelValue": null,
+         "value": "152",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Ascended heroes",
+         "displaySublabelValue": null,
+         "value": "Ascended heroes",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "BLACK STAR PROMO",
+         "displaySublabelValue": null,
+         "value": "BLACK STAR PROMO",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "BOOKS WORMS",
+         "displaySublabelValue": null,
+         "value": "BOOKS WORMS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Brilliant Stars",
+         "displaySublabelValue": null,
+         "value": "Brilliant Stars",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Burger King Poke Trivia",
+         "displaySublabelValue": null,
+         "value": "Burger King Poke Trivia",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "CARD DATABASE",
+         "displaySublabelValue": null,
+         "value": "CARD DATABASE",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "CARD DATABASE ",
+         "displaySublabelValue": null,
+         "value": "CARD DATABASE ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "CHINESE GEM PACK",
+         "displaySublabelValue": null,
+         "value": "CHINESE GEM PACK",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "COLLECTOONS",
+         "displaySublabelValue": null,
+         "value": "COLLECTOONS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "CRYSTAL CARD COLLECTION 2024",
+         "displaySublabelValue": null,
+         "value": "CRYSTAL CARD COLLECTION 2024",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Card database ",
+         "displaySublabelValue": null,
+         "value": "Card database ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Champion's Path",
+         "displaySublabelValue": null,
+         "value": "Champion's Path",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Cosmic Eclipse",
+         "displaySublabelValue": null,
+         "value": "Cosmic Eclipse",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "DREAM COME TRUE HIDDEN FATES SUN & MOON",
+         "displaySublabelValue": null,
+         "value": "DREAM COME TRUE HIDDEN FATES SUN & MOON",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "EIF BABY",
+         "displaySublabelValue": null,
+         "value": "EIF BABY",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "EIF BABY V1",
+         "displaySublabelValue": null,
+         "value": "EIF BABY V1",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "ELECTRIC CARD DATABASE",
+         "displaySublabelValue": null,
+         "value": "ELECTRIC CARD DATABASE",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "EX Deoxys",
+         "displaySublabelValue": null,
+         "value": "EX Deoxys",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "EX Ruby & Sapphire",
+         "displaySublabelValue": null,
+         "value": "EX Ruby & Sapphire",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Emerging Powers",
+         "displaySublabelValue": null,
+         "value": "Emerging Powers",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Forbidden Light",
+         "displaySublabelValue": null,
+         "value": "Forbidden Light",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Furious Fists",
+         "displaySublabelValue": null,
+         "value": "Furious Fists",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "GAMEBOY COLOR",
+         "displaySublabelValue": null,
+         "value": "GAMEBOY COLOR",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "GEM PACK",
+         "displaySublabelValue": null,
+         "value": "GEM PACK",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Gym Heroes",
+         "displaySublabelValue": null,
+         "value": "Gym Heroes",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Journey Together",
+         "displaySublabelValue": null,
+         "value": "Journey Together",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "KANTO",
+         "displaySublabelValue": null,
+         "value": "KANTO",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "LETS GO EEVEE CARD DATABASE",
+         "displaySublabelValue": null,
+         "value": "LETS GO EEVEE CARD DATABASE",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "MOVIE PROMO",
+         "displaySublabelValue": null,
+         "value": "MOVIE PROMO",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POKEDERPS",
+         "displaySublabelValue": null,
+         "value": "POKEDERPS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POKEDOODLY",
+         "displaySublabelValue": null,
+         "value": "POKEDOODLY",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "POOKIEMOOT ",
+         "displaySublabelValue": null,
+         "value": "POOKIEMOOT ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "PRIZE PACK SERIES 3",
+         "displaySublabelValue": null,
+         "value": "PRIZE PACK SERIES 3",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Phantom Forces",
+         "displaySublabelValue": null,
+         "value": "Phantom Forces",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Pokemon",
+         "displaySublabelValue": null,
+         "value": "Pokemon",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Primal Clash",
+         "displaySublabelValue": null,
+         "value": "Primal Clash",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "SHINY INFINITY 2024",
+         "displaySublabelValue": null,
+         "value": "SHINY INFINITY 2024",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "SUN AND MOON",
+         "displaySublabelValue": null,
+         "value": "SUN AND MOON",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Safari ",
+         "displaySublabelValue": null,
+         "value": "Safari ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "TOPPS",
+         "displaySublabelValue": null,
+         "value": "TOPPS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Temporal Forces",
+         "displaySublabelValue": null,
+         "value": "Temporal Forces",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Trick or trade",
+         "displaySublabelValue": null,
+         "value": "Trick or trade",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Unbroken Bonds",
+         "displaySublabelValue": null,
+         "value": "Unbroken Bonds",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "WHO’S THAT POKEMON",
+         "displaySublabelValue": null,
+         "value": "WHO’S THAT POKEMON",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "WHO’S THAT POKEMON ",
+         "displaySublabelValue": null,
+         "value": "WHO’S THAT POKEMON ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "World Championships 2010",
+         "displaySublabelValue": null,
+         "value": "World Championships 2010",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "card database ",
+         "displaySublabelValue": null,
+         "value": "card database ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Product Type",
+      "displayField": "Product Type",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Card",
+         "displaySublabelValue": null,
+         "value": "Card",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Booster Pack",
+         "displaySublabelValue": null,
+         "value": "Booster Pack",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Singles",
+         "displaySublabelValue": null,
+         "value": "Singles",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Language",
+      "displayField": "Language",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "English",
+         "displaySublabelValue": null,
+         "value": "English",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Spanish",
+         "displaySublabelValue": null,
+         "value": "Spanish",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Japanese",
+         "displaySublabelValue": null,
+         "value": "Japanese",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Traditional Chinese",
+         "displaySublabelValue": null,
+         "value": "Traditional Chinese",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Portuguese",
+         "displaySublabelValue": null,
+         "value": "Portuguese",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Card Number",
+      "displayField": "Card Number",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "128",
+         "displaySublabelValue": null,
+         "value": "128",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "221",
+         "displaySublabelValue": null,
+         "value": "221",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "226",
+         "displaySublabelValue": null,
+         "value": "226",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "27",
+         "displaySublabelValue": null,
+         "value": "27",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "293",
+         "displaySublabelValue": null,
+         "value": "293",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "49",
+         "displaySublabelValue": null,
+         "value": "49",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "51",
+         "displaySublabelValue": null,
+         "value": "51",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "8",
+         "displaySublabelValue": null,
+         "value": "8",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "97",
+         "displaySublabelValue": null,
+         "value": "97",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "#???",
+         "displaySublabelValue": null,
+         "value": "#???",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "111",
+         "displaySublabelValue": null,
+         "value": "111",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "119",
+         "displaySublabelValue": null,
+         "value": "119",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "123",
+         "displaySublabelValue": null,
+         "value": "123",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "124",
+         "displaySublabelValue": null,
+         "value": "124",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "131/195",
+         "displaySublabelValue": null,
+         "value": "131/195",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "135",
+         "displaySublabelValue": null,
+         "value": "135",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "14",
+         "displaySublabelValue": null,
+         "value": "14",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "140",
+         "displaySublabelValue": null,
+         "value": "140",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "144",
+         "displaySublabelValue": null,
+         "value": "144",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "153",
+         "displaySublabelValue": null,
+         "value": "153",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "154",
+         "displaySublabelValue": null,
+         "value": "154",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "16",
+         "displaySublabelValue": null,
+         "value": "16",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "168",
+         "displaySublabelValue": null,
+         "value": "168",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "16b",
+         "displaySublabelValue": null,
+         "value": "16b",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "17",
+         "displaySublabelValue": null,
+         "value": "17",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "174",
+         "displaySublabelValue": null,
+         "value": "174",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "179",
+         "displaySublabelValue": null,
+         "value": "179",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "17b",
+         "displaySublabelValue": null,
+         "value": "17b",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "198",
+         "displaySublabelValue": null,
+         "value": "198",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "199",
+         "displaySublabelValue": null,
+         "value": "199",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "1b",
+         "displaySublabelValue": null,
+         "value": "1b",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "201",
+         "displaySublabelValue": null,
+         "value": "201",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "208",
+         "displaySublabelValue": null,
+         "value": "208",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "210",
+         "displaySublabelValue": null,
+         "value": "210",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "215",
+         "displaySublabelValue": null,
+         "value": "215",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "216",
+         "displaySublabelValue": null,
+         "value": "216",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "217",
+         "displaySublabelValue": null,
+         "value": "217",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "232",
+         "displaySublabelValue": null,
+         "value": "232",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "234",
+         "displaySublabelValue": null,
+         "value": "234",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "236",
+         "displaySublabelValue": null,
+         "value": "236",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "237",
+         "displaySublabelValue": null,
+         "value": "237",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "239",
+         "displaySublabelValue": null,
+         "value": "239",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "240",
+         "displaySublabelValue": null,
+         "value": "240",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "246",
+         "displaySublabelValue": null,
+         "value": "246",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "247",
+         "displaySublabelValue": null,
+         "value": "247",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "250",
+         "displaySublabelValue": null,
+         "value": "250",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "252",
+         "displaySublabelValue": null,
+         "value": "252",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "253",
+         "displaySublabelValue": null,
+         "value": "253",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "254",
+         "displaySublabelValue": null,
+         "value": "254",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "255",
+         "displaySublabelValue": null,
+         "value": "255",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "259",
+         "displaySublabelValue": null,
+         "value": "259",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "25b",
+         "displaySublabelValue": null,
+         "value": "25b",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "261",
+         "displaySublabelValue": null,
+         "value": "261",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "268",
+         "displaySublabelValue": null,
+         "value": "268",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "269",
+         "displaySublabelValue": null,
+         "value": "269",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "270",
+         "displaySublabelValue": null,
+         "value": "270",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "272",
+         "displaySublabelValue": null,
+         "value": "272",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "275",
+         "displaySublabelValue": null,
+         "value": "275",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "276",
+         "displaySublabelValue": null,
+         "value": "276",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "279",
+         "displaySublabelValue": null,
+         "value": "279",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "282",
+         "displaySublabelValue": null,
+         "value": "282",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "283",
+         "displaySublabelValue": null,
+         "value": "283",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "289",
+         "displaySublabelValue": null,
+         "value": "289",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "290",
+         "displaySublabelValue": null,
+         "value": "290",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "295",
+         "displaySublabelValue": null,
+         "value": "295",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "298",
+         "displaySublabelValue": null,
+         "value": "298",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "33",
+         "displaySublabelValue": null,
+         "value": "33",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "39a",
+         "displaySublabelValue": null,
+         "value": "39a",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "43",
+         "displaySublabelValue": null,
+         "value": "43",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "44",
+         "displaySublabelValue": null,
+         "value": "44",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "46",
+         "displaySublabelValue": null,
+         "value": "46",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "48",
+         "displaySublabelValue": null,
+         "value": "48",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "52",
+         "displaySublabelValue": null,
+         "value": "52",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "53",
+         "displaySublabelValue": null,
+         "value": "53",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "55",
+         "displaySublabelValue": null,
+         "value": "55",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "58",
+         "displaySublabelValue": null,
+         "value": "58",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "63",
+         "displaySublabelValue": null,
+         "value": "63",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "673",
+         "displaySublabelValue": null,
+         "value": "673",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "7",
+         "displaySublabelValue": null,
+         "value": "7",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "71",
+         "displaySublabelValue": null,
+         "value": "71",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "72",
+         "displaySublabelValue": null,
+         "value": "72",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "73",
+         "displaySublabelValue": null,
+         "value": "73",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "81a",
+         "displaySublabelValue": null,
+         "value": "81a",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "82",
+         "displaySublabelValue": null,
+         "value": "82",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "95b",
+         "displaySublabelValue": null,
+         "value": "95b",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "98/123",
+         "displaySublabelValue": null,
+         "value": "98/123",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "99",
+         "displaySublabelValue": null,
+         "value": "99",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "9b",
+         "displaySublabelValue": null,
+         "value": "9b",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "E9",
+         "displaySublabelValue": null,
+         "value": "E9",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "MDM-AR",
+         "displaySublabelValue": null,
+         "value": "MDM-AR",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "PSA 6",
+         "displaySublabelValue": null,
+         "value": "PSA 6",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "TG10",
+         "displaySublabelValue": null,
+         "value": "TG10",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "“009",
+         "displaySublabelValue": null,
+         "value": "“009",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Rarity",
+      "displayField": "Rarity",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Rare",
+         "displaySublabelValue": null,
+         "value": "Rare",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Common",
+         "displaySublabelValue": null,
+         "value": "Common",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Brand",
+      "displayField": "Brand",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Topps",
+         "displaySublabelValue": null,
+         "value": "Topps",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Panini",
+         "displaySublabelValue": null,
+         "value": "Panini",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "PANINI",
+         "displaySublabelValue": null,
+         "value": "PANINI",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Pinnacle",
+         "displaySublabelValue": null,
+         "value": "Pinnacle",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Year",
+      "displayField": "Year",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "2024",
+         "displaySublabelValue": null,
+         "value": "2024",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "1997",
+         "displaySublabelValue": null,
+         "value": "1997",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "2016",
+         "displaySublabelValue": null,
+         "value": "2016",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "2021",
+         "displaySublabelValue": null,
+         "value": "2021",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "2023",
+         "displaySublabelValue": null,
+         "value": "2023",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Features",
+      "displayField": "Features",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Vintage Paperback",
+         "displaySublabelValue": null,
+         "value": "Vintage Paperback",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "1st Edition",
+         "displaySublabelValue": null,
+         "value": "1st Edition",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Publisher",
+      "displayField": "Publisher",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Image Comics",
+         "displaySublabelValue": null,
+         "value": "Image Comics",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "JIM DAVIS",
+         "displaySublabelValue": null,
+         "value": "JIM DAVIS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Marvel Comics",
+         "displaySublabelValue": null,
+         "value": "Marvel Comics",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Type",
+      "displayField": "Type",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Other",
+         "displaySublabelValue": null,
+         "value": "Other",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Name",
+      "displayField": "Name",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "ALEX RODRIGUEZ",
+         "displaySublabelValue": null,
+         "value": "ALEX RODRIGUEZ",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "ILLUSIONS",
+         "displaySublabelValue": null,
+         "value": "ILLUSIONS",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "JALEN BRUNSON",
+         "displaySublabelValue": null,
+         "value": "JALEN BRUNSON",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Character",
+      "displayField": "Character",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Garfield",
+         "displaySublabelValue": null,
+         "value": "Garfield",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "Teenage mutant turtles",
+         "displaySublabelValue": null,
+         "value": "Teenage mutant turtles",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Color",
+      "displayField": "Color",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Yellow",
+         "displaySublabelValue": null,
+         "value": "Yellow",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Manufacturer",
+      "displayField": "Manufacturer",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Hot Wheels",
+         "displaySublabelValue": null,
+         "value": "Hot Wheels",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Series Title",
+      "displayField": "Series Title",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "BACKLASH",
+         "displaySublabelValue": null,
+         "value": "BACKLASH",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "The mutant misadventures of cloak and dagger",
+         "displaySublabelValue": null,
+         "value": "The mutant misadventures of cloak and dagger",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Athlete",
+      "displayField": "Athlete",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Willie Mays",
+         "displaySublabelValue": null,
+         "value": "Willie Mays",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Make",
+      "displayField": "Make",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "Other",
+         "displaySublabelValue": null,
+         "value": "Other",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "stringAttributes.Team",
+      "displayField": "Team",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "New York Giants",
+         "displaySublabelValue": null,
+         "value": "New York Giants",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "integerAttributes.Publication Year",
+      "displayField": "Publication Year",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "1994",
+         "displaySublabelValue": null,
+         "value": "1994",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "1978",
+         "displaySublabelValue": null,
+         "value": "1978",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "1988",
+         "displaySublabelValue": null,
+         "value": "1988",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     },
+     {
+      "field": "integerAttributes.Year",
+      "displayField": "Year",
+      "displayStyle": "LIST",
+      "selectionType": "MULTI_SELECT",
+      "options": {
+       "maxAllowedMultiselect": null,
+       "allowedValues": [
+        {
+         "displayValue": "1981",
+         "displaySublabelValue": null,
+         "value": "1981",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        },
+        {
+         "displayValue": "1994",
+         "displaySublabelValue": null,
+         "value": "1994",
+         "section": null,
+         "numResults": null,
+         "directDescendantValues": null
+        }
+       ],
+       "allowedRange": null
+      }
+     }
+    ],
+    "sorts": [
+     {
+      "displayField": "Best Match",
+      "field": null,
+      "direction": null
+     },
+     {
+      "displayField": "Lowest Price",
+      "field": "PRICE",
+      "direction": "ASC"
+     },
+     {
+      "displayField": "Highest Price",
+      "field": "PRICE",
+      "direction": "DESC"
+     },
+     {
+      "displayField": "Newly Listed",
+      "field": "CREATION_TIME",
+      "direction": "DESC"
+     }
+    ],
+    "defaultSort": {
+     "displayField": "Best Match",
+     "field": null,
+     "direction": null
+    }
+   }
+  }
+ }
+}

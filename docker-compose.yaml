@@ -1,0 +1,11 @@
+services:
+  whatnot-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Whatnot did not rate-limit in testing, so leave these unset.
+      # - WHATNOT_PROXY=http://user:pass@host:port
+      # - WHATNOT_FALLBACK_PROXY=http://user:pass@host:port

@@ -1,0 +1,6065 @@
+{
+ "search": {
+  "id": "PRODUCT_SEARCH_FEED:eyJzZWFyY2hfcXVlcnkiOiAiam9yZGFuIiwgInJlZmVycmluZ19zb3VyY2UiOiBudWxsLCAic2VhcmNoX2ZpbHRlcnMiOiBudWxsLCAic29ydF9maWVsZCI6IG51bGwsICJzb3J0X2RpcmVjdGlvbiI6IG51bGwsICJzZWxsZXJfdXNlcl9pZCI6IG51bGwsICJzZWFyY2hfbG9jYXRpb24iOiBudWxsLCAiY2F0ZWdvcnlfaWRzIjogbnVsbCwgInF1ZXJ5X3JlY29tbWVuZGF0aW9uX2lkIjogbnVsbCwgInVzZXNfY2F0ZWdvcml6YXRpb25fdGFncyI6IGZhbHNlLCAidmlld2luZ19mZWVkX2lkIjogbnVsbH0=",
+  "searchParams": {
+   "vertical": "PRODUCT",
+   "spellingCorrection": null
+  },
+  "filterAndSortOptions": {
+   "filters": [
+    {
+     "field": "category.keyword",
+     "displayField": "Category",
+     "displayStyle": "NESTED_LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Sneakers & Streetwear",
+        "displaySublabelValue": null,
+        "value": "sneakers_streetwear",
+        "section": null,
+        "numResults": 64677,
+        "directDescendantValues": [
+         "sneakers",
+         "streetwear"
+        ]
+       },
+       {
+        "displayValue": "Sneakers",
+        "displaySublabelValue": null,
+        "value": "sneakers",
+        "section": null,
+        "numResults": 62157,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Basketball Cards",
+        "displaySublabelValue": null,
+        "value": "basketball_cards",
+        "section": null,
+        "numResults": 14733,
+        "directDescendantValues": [
+         "basketball_singles",
+         "basketball_breaks",
+         "basketball_mystery"
+        ]
+       },
+       {
+        "displayValue": "Football Cards",
+        "displaySublabelValue": null,
+        "value": "football",
+        "section": null,
+        "numResults": 10496,
+        "directDescendantValues": [
+         "football_singles",
+         "football_breaks",
+         "football_mystery"
+        ]
+       },
+       {
+        "displayValue": "Basketball Singles",
+        "displaySublabelValue": null,
+        "value": "basketball_singles",
+        "section": null,
+        "numResults": 10150,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Sports Cards",
+        "displaySublabelValue": null,
+        "value": "sports_cards",
+        "section": null,
+        "numResults": 10115,
+        "directDescendantValues": [
+         "basketball_cards",
+         "football",
+         "sports_other",
+         "soccer",
+         "baseball",
+         "hockey_cards",
+         "wrestling",
+         "ufc",
+         "motorsport",
+         "afl_cards",
+         "rugby_cards",
+         "tennis_cards"
+        ]
+       },
+       {
+        "displayValue": "Baseball Cards",
+        "displaySublabelValue": null,
+        "value": "baseball",
+        "section": null,
+        "numResults": 7616,
+        "directDescendantValues": [
+         "baseball_singles",
+         "baseball_breaks",
+         "baseball_mystery"
+        ]
+       },
+       {
+        "displayValue": "Baseball Singles",
+        "displaySublabelValue": null,
+        "value": "baseball_singles",
+        "section": null,
+        "numResults": 7336,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Football Singles",
+        "displaySublabelValue": null,
+        "value": "football_singles",
+        "section": null,
+        "numResults": 6380,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Men's Fashion",
+        "displaySublabelValue": null,
+        "value": "mens_fashion",
+        "section": null,
+        "numResults": 5107,
+        "directDescendantValues": [
+         "mens_thrifting",
+         "sports_jerseys",
+         "mens_other_fashion",
+         "vintage_clothing",
+         "mens_formalwear"
+        ]
+       },
+       {
+        "displayValue": "Women's Fashion",
+        "displaySublabelValue": null,
+        "value": "womens_fashion",
+        "section": null,
+        "numResults": 3726,
+        "directDescendantValues": [
+         "thrifting",
+         "womens_activewear",
+         "fashion_other",
+         "womens_shoes",
+         "womens_vintage"
+        ]
+       },
+       {
+        "displayValue": "Baby & Kids",
+        "displaySublabelValue": null,
+        "value": "kids_clothing",
+        "section": null,
+        "numResults": 3260,
+        "directDescendantValues": [
+         "baby_and_kids_shoes",
+         "baby_and_kids_clothes",
+         "baby_and_kids_supplies"
+        ]
+       },
+       {
+        "displayValue": "Men's Modern",
+        "displaySublabelValue": null,
+        "value": "mens_thrifting",
+        "section": null,
+        "numResults": 2547,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Streetwear",
+        "displaySublabelValue": null,
+        "value": "streetwear",
+        "section": null,
+        "numResults": 2384,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "and Whatnot",
+        "displaySublabelValue": null,
+        "value": "and_whatnot",
+        "section": null,
+        "numResults": 1614,
+        "directDescendantValues": [
+         "other",
+         "breweriana"
+        ]
+       },
+       {
+        "displayValue": "Comics & Manga",
+        "displaySublabelValue": null,
+        "value": "comic_books",
+        "section": null,
+        "numResults": 1258,
+        "directDescendantValues": [
+         "modern_age_comics",
+         "bronze_age_comics",
+         "comic_art",
+         "manga",
+         "pop_culture_memorabiliia"
+        ]
+       },
+       {
+        "displayValue": "Modern Comics",
+        "displaySublabelValue": null,
+        "value": "modern_age_comics",
+        "section": null,
+        "numResults": 1050,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baby & Kids Shoes",
+        "displaySublabelValue": null,
+        "value": "baby_and_kids_shoes",
+        "section": null,
+        "numResults": 1014,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Funko",
+        "displaySublabelValue": null,
+        "value": "funko_pop",
+        "section": null,
+        "numResults": 997,
+        "directDescendantValues": [
+         "funko_pop_figures",
+         "funko_soda",
+         "other_funko"
+        ]
+       },
+       {
+        "displayValue": "Other Sports Cards",
+        "displaySublabelValue": null,
+        "value": "sports_other",
+        "section": null,
+        "numResults": 985,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Funko Pop!",
+        "displaySublabelValue": null,
+        "value": "funko_pop_figures",
+        "section": null,
+        "numResults": 938,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baby & Kids Clothes",
+        "displaySublabelValue": null,
+        "value": "baby_and_kids_clothes",
+        "section": null,
+        "numResults": 873,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Sports Jerseys",
+        "displaySublabelValue": null,
+        "value": "sports_jerseys",
+        "section": null,
+        "numResults": 852,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Trading Card Games",
+        "displaySublabelValue": null,
+        "value": "trading_card_games",
+        "section": null,
+        "numResults": 833,
+        "directDescendantValues": [
+         "union_arena",
+         "tcg_accessories",
+         "tcg_other",
+         "flesh_and_blood",
+         "dc_cards",
+         "dragonball_cards",
+         "akora",
+         "sorcery_contested_realm",
+         "lorcana_cards",
+         "veefriends",
+         "kryptik_cards",
+         "pokemon_cards",
+         "one_piece_cards",
+         "my_hero_academia",
+         "naruto_cards",
+         "metazoo",
+         "weiß_schwarz",
+         "digimon_cards",
+         "magic_cards",
+         "yugioh_cards",
+         "palworld",
+         "gundam_cards",
+         "riftbound_cards"
+        ]
+       },
+       {
+        "displayValue": "Women's Contemporary",
+        "displaySublabelValue": null,
+        "value": "thrifting",
+        "section": null,
+        "numResults": 803,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Basketball Memorabilia",
+        "displaySublabelValue": null,
+        "value": "basketball_memorabilia",
+        "section": null,
+        "numResults": 795,
+        "directDescendantValues": [
+         "basketball_mem_other",
+         "basketball_mem_jerseys",
+         "basketball_mem_photos",
+         "basketball_mem_basketballs"
+        ]
+       },
+       {
+        "displayValue": "Other Men's Fashion",
+        "displaySublabelValue": null,
+        "value": "mens_other_fashion",
+        "section": null,
+        "numResults": 757,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Women's Activewear",
+        "displaySublabelValue": null,
+        "value": "womens_activewear",
+        "section": null,
+        "numResults": 700,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Men's Vintage Clothing",
+        "displaySublabelValue": null,
+        "value": "vintage_clothing",
+        "section": null,
+        "numResults": 624,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Books",
+        "displaySublabelValue": null,
+        "value": "books",
+        "section": null,
+        "numResults": 594,
+        "directDescendantValues": [
+         "new_and_used_books",
+         "magazines",
+         "antiquarian_and_collectible_books",
+         "graphic_novels"
+        ]
+       },
+       {
+        "displayValue": "Soccer Cards",
+        "displaySublabelValue": null,
+        "value": "soccer",
+        "section": null,
+        "numResults": 512,
+        "directDescendantValues": [
+         "soccer_singles",
+         "soccer_mystery",
+         "soccer_breaks"
+        ]
+       },
+       {
+        "displayValue": "Other Women's Fashion",
+        "displaySublabelValue": null,
+        "value": "fashion_other",
+        "section": null,
+        "numResults": 486,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Hockey Cards",
+        "displaySublabelValue": null,
+        "value": "hockey_cards",
+        "section": null,
+        "numResults": 414,
+        "directDescendantValues": [
+         "hockey_singles",
+         "hockey_mystery",
+         "hockey_breaks"
+        ]
+       },
+       {
+        "displayValue": "Other Basketball Memorabilia",
+        "displaySublabelValue": null,
+        "value": "basketball_mem_other",
+        "section": null,
+        "numResults": 368,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Bags & Accessories",
+        "displaySublabelValue": null,
+        "value": "bags_jewelry_accessories",
+        "section": null,
+        "numResults": 346,
+        "directDescendantValues": [
+         "other_accessories",
+         "bags_fashion_thrift",
+         "sunglasses_eyewear",
+         "designer_bags"
+        ]
+       },
+       {
+        "displayValue": "Other",
+        "displaySublabelValue": null,
+        "value": "other",
+        "section": null,
+        "numResults": 326,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "New & Used Books",
+        "displaySublabelValue": null,
+        "value": "new_and_used_books",
+        "section": null,
+        "numResults": 318,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Movies",
+        "displaySublabelValue": null,
+        "value": "movies",
+        "section": null,
+        "numResults": 316,
+        "directDescendantValues": [
+         "dvds",
+         "blu_ray",
+         "vhs",
+         "movie_memorabilia"
+        ]
+       },
+       {
+        "displayValue": "Wrestling Cards",
+        "displaySublabelValue": null,
+        "value": "wrestling",
+        "section": null,
+        "numResults": 295,
+        "directDescendantValues": [
+         "wrestling_singles",
+         "wrestling_breaks",
+         "wrestling_mystery"
+        ]
+       },
+       {
+        "displayValue": "Toys & Hobbies",
+        "displaySublabelValue": null,
+        "value": "toys",
+        "section": null,
+        "numResults": 285,
+        "directDescendantValues": [
+         "toys_other",
+         "funko_pop",
+         "pop_mart_toys",
+         "vintage_toys",
+         "designer_toys",
+         "models_kits",
+         "fastfood_cereal",
+         "kawaii_other",
+         "figpin",
+         "baby_and_kids_toys",
+         "sonny_angel_toys",
+         "slime_and_squishy_toys",
+         "remote_control_vehicles_and_toys",
+         "barbies_dolls",
+         "marbles",
+         "tabletop_games",
+         "slot_cars",
+         "plush",
+         "diecast_cars",
+         "legos",
+         "thrilljoy",
+         "littlest_pet_shop",
+         "action_figures"
+        ]
+       },
+       {
+        "displayValue": "Sports Memorabilia",
+        "displaySublabelValue": null,
+        "value": "sports_memorabilia",
+        "section": null,
+        "numResults": 281,
+        "directDescendantValues": [
+         "other_memorabilia",
+         "basketball_memorabilia",
+         "baseball_memorabilia",
+         "soccer_jerseys",
+         "football_memorabilia"
+        ]
+       },
+       {
+        "displayValue": "Other Accessories",
+        "displaySublabelValue": null,
+        "value": "other_accessories",
+        "section": null,
+        "numResults": 276,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Hockey Singles",
+        "displaySublabelValue": null,
+        "value": "hockey_singles",
+        "section": null,
+        "numResults": 257,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Basketball Jerseys",
+        "displaySublabelValue": null,
+        "value": "basketball_mem_jerseys",
+        "section": null,
+        "numResults": 257,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Women's Shoes",
+        "displaySublabelValue": null,
+        "value": "womens_shoes",
+        "section": null,
+        "numResults": 255,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Soccer Singles",
+        "displaySublabelValue": null,
+        "value": "soccer_singles",
+        "section": null,
+        "numResults": 252,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Basketball Breaks",
+        "displaySublabelValue": null,
+        "value": "basketball_breaks",
+        "section": null,
+        "numResults": 242,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Wrestling Singles",
+        "displaySublabelValue": null,
+        "value": "wrestling_singles",
+        "section": null,
+        "numResults": 239,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Golf",
+        "displaySublabelValue": null,
+        "value": "golf_gear",
+        "section": null,
+        "numResults": 233,
+        "directDescendantValues": [
+         "golf_shoes",
+         "golf_apparel",
+         "golf_accessories",
+         "golf_clubs",
+         "golf_balls",
+         "other_golf_items",
+         "golf_bags"
+        ]
+       },
+       {
+        "displayValue": "Other Sports Memorabilia",
+        "displaySublabelValue": null,
+        "value": "other_memorabilia",
+        "section": null,
+        "numResults": 217,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Women's Vintage Clothing",
+        "displaySublabelValue": null,
+        "value": "womens_vintage",
+        "section": null,
+        "numResults": 210,
+        "directDescendantValues": [
+         "true_vintage",
+         "y2k"
+        ]
+       },
+       {
+        "displayValue": "Music",
+        "displaySublabelValue": null,
+        "value": "music",
+        "section": null,
+        "numResults": 207,
+        "directDescendantValues": [
+         "vinyl_records",
+         "cds_and_cassettes",
+         "other_music",
+         "music_memorabilia",
+         "instruments_and_accessories"
+        ]
+       },
+       {
+        "displayValue": "Football Memorabilia",
+        "displaySublabelValue": null,
+        "value": "football_memorabilia",
+        "section": null,
+        "numResults": 202,
+        "directDescendantValues": [
+         "football_mem_jerseys",
+         "football_mem_other",
+         "football_mem_helmets",
+         "football_mem_photos",
+         "football_mem_footballs"
+        ]
+       },
+       {
+        "displayValue": "DVDs",
+        "displaySublabelValue": null,
+        "value": "dvds",
+        "section": null,
+        "numResults": 198,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Vintage Comics",
+        "displaySublabelValue": null,
+        "value": "bronze_age_comics",
+        "section": null,
+        "numResults": 142,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Magazines",
+        "displaySublabelValue": null,
+        "value": "magazines",
+        "section": null,
+        "numResults": 134,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Golf Shoes",
+        "displaySublabelValue": null,
+        "value": "golf_shoes",
+        "section": null,
+        "numResults": 123,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Vinyl Records",
+        "displaySublabelValue": null,
+        "value": "vinyl_records",
+        "section": null,
+        "numResults": 120,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Home & Garden",
+        "displaySublabelValue": null,
+        "value": "home_and_garden",
+        "section": null,
+        "numResults": 111,
+        "directDescendantValues": [
+         "home_decor",
+         "kitchen_dining",
+         "holiday_decor",
+         "hydration",
+         "plants_garden",
+         "tools",
+         "other_home_garden",
+         "candles_and_aromatherapy"
+        ]
+       },
+       {
+        "displayValue": "Art & Prints",
+        "displaySublabelValue": null,
+        "value": "arts_crafts_crafts_not_other",
+        "section": null,
+        "numResults": 98,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Handmade Items",
+        "displaySublabelValue": null,
+        "value": "handmade_items",
+        "section": null,
+        "numResults": 98,
+        "directDescendantValues": [
+         "arts_crafts_crafts_not_other",
+         "crafts_crafts",
+         "handmade_fashion_accessories"
+        ]
+       },
+       {
+        "displayValue": "Football Breaks",
+        "displaySublabelValue": null,
+        "value": "football_breaks",
+        "section": null,
+        "numResults": 98,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Video Games",
+        "displaySublabelValue": null,
+        "value": "video_games_and_movies",
+        "section": null,
+        "numResults": 93,
+        "directDescendantValues": [
+         "modern_games",
+         "video_games",
+         "other_vg_and_movies",
+         "guides_and_manuals"
+        ]
+       },
+       {
+        "displayValue": "Arts & Handmade",
+        "displaySublabelValue": null,
+        "value": "arts_crafts",
+        "section": null,
+        "numResults": 90,
+        "directDescendantValues": [
+         "stickers",
+         "craft_supplies",
+         "heat_transfers_and_wraps",
+         "woodworking",
+         "handmade_items",
+         "resin_art",
+         "glass_art",
+         "3d_prints",
+         "stamp_blocks",
+         "scrapbooks",
+         "embroidery_and_needlework"
+        ]
+       },
+       {
+        "displayValue": "Entertainment Cards",
+        "displaySublabelValue": null,
+        "value": "entertainment_cards",
+        "section": null,
+        "numResults": 90,
+        "directDescendantValues": [
+         "other_entertainment_cards",
+         "garbage_pail_kids",
+         "star_wars_cards",
+         "tv_and_movie_cards",
+         "marvel_cards",
+         "disney_cards"
+        ]
+       },
+       {
+        "displayValue": "CDs & Cassettes",
+        "displaySublabelValue": null,
+        "value": "cds_and_cassettes",
+        "section": null,
+        "numResults": 87,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Toys",
+        "displaySublabelValue": null,
+        "value": "toys_other",
+        "section": null,
+        "numResults": 87,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Golf Apparel",
+        "displaySublabelValue": null,
+        "value": "golf_apparel",
+        "section": null,
+        "numResults": 86,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Sporting Gear",
+        "displaySublabelValue": null,
+        "value": "sports_equipment",
+        "section": null,
+        "numResults": 85,
+        "directDescendantValues": [
+         "other_sports_equipment",
+         "sporting_gear_football",
+         "disc_golf",
+         "sporting_gear_baseball",
+         "cycling",
+         "golf_gear",
+         "sporting_gear_soccer",
+         "sporting_gear_skateboarding",
+         "pickleball"
+        ]
+       },
+       {
+        "displayValue": "Women's True Vintage",
+        "displaySublabelValue": null,
+        "value": "true_vintage",
+        "section": null,
+        "numResults": 85,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Basketball Mystery",
+        "displaySublabelValue": null,
+        "value": "basketball_mystery",
+        "section": null,
+        "numResults": 84,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Craft Supplies",
+        "displaySublabelValue": null,
+        "value": "craft_supplies",
+        "section": null,
+        "numResults": 83,
+        "directDescendantValues": [
+         "crafts_customs",
+         "fiber_arts_and_sewing_supplies",
+         "crafts_art_prints",
+         "jewelry_making_supplies"
+        ]
+       },
+       {
+        "displayValue": "Football Jerseys",
+        "displaySublabelValue": null,
+        "value": "football_mem_jerseys",
+        "section": null,
+        "numResults": 82,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Football Memorabilia",
+        "displaySublabelValue": null,
+        "value": "football_mem_other",
+        "section": null,
+        "numResults": 81,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Home Decor",
+        "displaySublabelValue": null,
+        "value": "home_decor",
+        "section": null,
+        "numResults": 79,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Action Figures",
+        "displaySublabelValue": null,
+        "value": "action_figures",
+        "section": null,
+        "numResults": 77,
+        "directDescendantValues": [
+         "other_action_figures",
+         "dc_figures",
+         "marvel_figures",
+         "wrestling_figures",
+         "gi_joe_figures",
+         "transformers_figures",
+         "anime_figures",
+         "hot_toys_figures",
+         "simpsons_figures",
+         "tmnt_figures",
+         "motu_figures",
+         "power_ranger_figures",
+         "star_wars_figures"
+        ]
+       },
+       {
+        "displayValue": "Basketball Photos",
+        "displaySublabelValue": null,
+        "value": "basketball_mem_photos",
+        "section": null,
+        "numResults": 76,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Estate Sales & Storage Units",
+        "displaySublabelValue": null,
+        "value": "estate_sales_and_antiques",
+        "section": null,
+        "numResults": 75,
+        "directDescendantValues": [
+         "storage_units",
+         "estate_sales",
+         "liquidation_pallets",
+         "other_estate_sales",
+         "yard_sales"
+        ]
+       },
+       {
+        "displayValue": "Midrange & Fashion Bags",
+        "displaySublabelValue": null,
+        "value": "bags_fashion_thrift",
+        "section": null,
+        "numResults": 70,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Coins & Bullion",
+        "displaySublabelValue": null,
+        "value": "coins_and_bullion",
+        "section": null,
+        "numResults": 70,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Antiques, Vintage & Ephemera",
+        "displaySublabelValue": null,
+        "value": "antiques_vintage_ephemera",
+        "section": null,
+        "numResults": 70,
+        "directDescendantValues": [
+         "vintage_decor",
+         "ephemera_and_postcards",
+         "stamps",
+         "antiques"
+        ]
+       },
+       {
+        "displayValue": "Coins & Money",
+        "displaySublabelValue": null,
+        "value": "coins_and_money",
+        "section": null,
+        "numResults": 70,
+        "directDescendantValues": [
+         "coins_and_bullion",
+         "paper_money_and_currency"
+        ]
+       },
+       {
+        "displayValue": "Blu-ray",
+        "displaySublabelValue": null,
+        "value": "blu_ray",
+        "section": null,
+        "numResults": 66,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Men's Formalwear",
+        "displaySublabelValue": null,
+        "value": "mens_formalwear",
+        "section": null,
+        "numResults": 62,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Stickers",
+        "displaySublabelValue": null,
+        "value": "stickers",
+        "section": null,
+        "numResults": 62,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Y2K",
+        "displaySublabelValue": null,
+        "value": "y2k",
+        "section": null,
+        "numResults": 59,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Entertainment Cards",
+        "displaySublabelValue": null,
+        "value": "other_entertainment_cards",
+        "section": null,
+        "numResults": 58,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baseball Memorabilia",
+        "displaySublabelValue": null,
+        "value": "baseball_memorabilia",
+        "section": null,
+        "numResults": 56,
+        "directDescendantValues": [
+         "baseball_mem_other",
+         "baseball_mem_jerseys",
+         "baseball_mem_photos",
+         "baseball_mem_bats",
+         "baseball_mem_baseballs"
+        ]
+       },
+       {
+        "displayValue": "Beads, Pens & Keychains",
+        "displaySublabelValue": null,
+        "value": "crafts_customs",
+        "section": null,
+        "numResults": 55,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Storage Unit Finds",
+        "displaySublabelValue": null,
+        "value": "storage_units",
+        "section": null,
+        "numResults": 54,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "VHS",
+        "displaySublabelValue": null,
+        "value": "vhs",
+        "section": null,
+        "numResults": 52,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Action Figures",
+        "displaySublabelValue": null,
+        "value": "other_action_figures",
+        "section": null,
+        "numResults": 48,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Vintage Decor",
+        "displaySublabelValue": null,
+        "value": "vintage_decor",
+        "section": null,
+        "numResults": 48,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Labubu & Blindboxes",
+        "displaySublabelValue": null,
+        "value": "pop_mart_toys",
+        "section": null,
+        "numResults": 45,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Sporting Goods",
+        "displaySublabelValue": null,
+        "value": "other_sports_equipment",
+        "section": null,
+        "numResults": 45,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Fragrances",
+        "displaySublabelValue": null,
+        "value": "fragrances",
+        "section": null,
+        "numResults": 43,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Beauty",
+        "displaySublabelValue": null,
+        "value": "health_and_beauty",
+        "section": null,
+        "numResults": 43,
+        "directDescendantValues": [
+         "fragrances",
+         "other_beauty",
+         "bath_body_essentials",
+         "hair_products",
+         "nails",
+         "makeup",
+         "mens_grooming"
+        ]
+       },
+       {
+        "displayValue": "Football",
+        "displaySublabelValue": null,
+        "value": "sporting_gear_football",
+        "section": null,
+        "numResults": 40,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Helmets",
+        "displaySublabelValue": null,
+        "value": "football_mem_helmets",
+        "section": null,
+        "numResults": 39,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Rare & Vintage Books",
+        "displaySublabelValue": null,
+        "value": "antiquarian_and_collectible_books",
+        "section": null,
+        "numResults": 33,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Kitchen & Dining",
+        "displaySublabelValue": null,
+        "value": "kitchen_dining",
+        "section": null,
+        "numResults": 32,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Baseball Memorabilia",
+        "displaySublabelValue": null,
+        "value": "baseball_mem_other",
+        "section": null,
+        "numResults": 32,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Garbage Pail Kids",
+        "displaySublabelValue": null,
+        "value": "garbage_pail_kids",
+        "section": null,
+        "numResults": 32,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Football Mystery",
+        "displaySublabelValue": null,
+        "value": "football_mystery",
+        "section": null,
+        "numResults": 31,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Basketballs",
+        "displaySublabelValue": null,
+        "value": "basketball_mem_basketballs",
+        "section": null,
+        "numResults": 30,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "DC Figures",
+        "displaySublabelValue": null,
+        "value": "dc_figures",
+        "section": null,
+        "numResults": 29,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Comic Art",
+        "displaySublabelValue": null,
+        "value": "comic_art",
+        "section": null,
+        "numResults": 28,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Vintage Toys",
+        "displaySublabelValue": null,
+        "value": "vintage_toys",
+        "section": null,
+        "numResults": 27,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Modern Games",
+        "displaySublabelValue": null,
+        "value": "modern_games",
+        "section": null,
+        "numResults": 27,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Retro Games",
+        "displaySublabelValue": null,
+        "value": "video_games",
+        "section": null,
+        "numResults": 27,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baseball Breaks",
+        "displaySublabelValue": null,
+        "value": "baseball_breaks",
+        "section": null,
+        "numResults": 26,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "LEGO Minifigures",
+        "displaySublabelValue": null,
+        "value": "minifigures",
+        "section": null,
+        "numResults": 26,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "LEGO",
+        "displaySublabelValue": null,
+        "value": "legos",
+        "section": null,
+        "numResults": 26,
+        "directDescendantValues": [
+         "minifigures",
+         "lego_other_building_toys",
+         "lego_sets"
+        ]
+       },
+       {
+        "displayValue": "NASCAR Cards",
+        "displaySublabelValue": null,
+        "value": "nascar",
+        "section": null,
+        "numResults": 25,
+        "directDescendantValues": [
+         "nascar_singles",
+         "nascar_mystery",
+         "nascar_breaks"
+        ]
+       },
+       {
+        "displayValue": "NASCAR Singles",
+        "displaySublabelValue": null,
+        "value": "nascar_singles",
+        "section": null,
+        "numResults": 25,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baseball Jerseys",
+        "displaySublabelValue": null,
+        "value": "baseball_mem_jerseys",
+        "section": null,
+        "numResults": 24,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Golf Accessories",
+        "displaySublabelValue": null,
+        "value": "golf_accessories",
+        "section": null,
+        "numResults": 24,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Ephemera & Postcards",
+        "displaySublabelValue": null,
+        "value": "ephemera_and_postcards",
+        "section": null,
+        "numResults": 22,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Estate Sales",
+        "displaySublabelValue": null,
+        "value": "estate_sales",
+        "section": null,
+        "numResults": 21,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Motorsport Cards",
+        "displaySublabelValue": null,
+        "value": "motorsport",
+        "section": null,
+        "numResults": 0,
+        "directDescendantValues": [
+         "f1",
+         "nascar"
+        ]
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "buyingFormat",
+     "displayField": "Buy Format",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Buy It Now",
+        "displaySublabelValue": null,
+        "value": "BUY_IT_NOW",
+        "section": null,
+        "numResults": 104632,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Live Auction",
+        "displaySublabelValue": null,
+        "value": "LIVESTREAM_AUCTION",
+        "section": null,
+        "numResults": 17150,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "sellerRating",
+     "displayField": "Seller Rating",
+     "displayStyle": "LIST",
+     "selectionType": "SELLER_RATING",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "5 stars",
+        "displaySublabelValue": null,
+        "value": "5.0",
+        "section": null,
+        "numResults": 64168,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.5 & Up",
+        "displaySublabelValue": null,
+        "value": "4.5",
+        "section": null,
+        "numResults": 113562,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.0 & Up",
+        "displaySublabelValue": null,
+        "value": "4.0",
+        "section": null,
+        "numResults": 115127,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "isPremierShop",
+     "displayField": "Premier Shop",
+     "displayStyle": "TOP_LEVEL_CHECKBOX",
+     "selectionType": "SINGLE_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Premier Shop",
+        "displaySublabelValue": null,
+        "value": "true",
+        "section": null,
+        "numResults": 9791,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "sellerCountry.keyword",
+     "displayField": "Shipped From",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "United States",
+        "displaySublabelValue": null,
+        "value": "US",
+        "section": null,
+        "numResults": 116729,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "United Kingdom",
+        "displaySublabelValue": null,
+        "value": "GB",
+        "section": null,
+        "numResults": 2218,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Canada",
+        "displaySublabelValue": null,
+        "value": "CA",
+        "section": null,
+        "numResults": 1317,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Germany",
+        "displaySublabelValue": null,
+        "value": "DE",
+        "section": null,
+        "numResults": 684,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "France",
+        "displaySublabelValue": null,
+        "value": "FR",
+        "section": null,
+        "numResults": 659,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Australia",
+        "displaySublabelValue": null,
+        "value": "AU",
+        "section": null,
+        "numResults": 138,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Belgium",
+        "displaySublabelValue": null,
+        "value": "BE",
+        "section": null,
+        "numResults": 24,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Netherlands",
+        "displaySublabelValue": null,
+        "value": "NL",
+        "section": null,
+        "numResults": 7,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Austria",
+        "displaySublabelValue": null,
+        "value": "AT",
+        "section": null,
+        "numResults": 6,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "priceCents",
+     "displayField": "Price",
+     "displayStyle": "LIST",
+     "selectionType": "PRICE_RANGE",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": null,
+      "allowedRange": {
+       "minimum": 61.0,
+       "maximum": 99999904.0
+      }
+     }
+    },
+    {
+     "field": "stringAttributes.Condition",
+     "displayField": "Condition",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Used",
+        "displaySublabelValue": null,
+        "value": "Used",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New",
+        "displaySublabelValue": null,
+        "value": "New",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raw - Near Mint or Better",
+        "displaySublabelValue": null,
+        "value": "Raw - Near Mint or Better",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Graded",
+        "displaySublabelValue": null,
+        "value": "Graded",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New With Tags",
+        "displaySublabelValue": null,
+        "value": "New With Tags",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raw - Excellent",
+        "displaySublabelValue": null,
+        "value": "Raw - Excellent",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pre-owned - Good",
+        "displaySublabelValue": null,
+        "value": "Pre-owned - Good",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pre-owned - Excellent",
+        "displaySublabelValue": null,
+        "value": "Pre-owned - Excellent",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New With Defects",
+        "displaySublabelValue": null,
+        "value": "New With Defects",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Near Mint",
+        "displaySublabelValue": null,
+        "value": "Near Mint",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "used",
+        "displaySublabelValue": null,
+        "value": "used",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New without Tags",
+        "displaySublabelValue": null,
+        "value": "New without Tags",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Not Specified",
+        "displaySublabelValue": null,
+        "value": "Not Specified",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raw - Very Good",
+        "displaySublabelValue": null,
+        "value": "Raw - Very Good",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Good",
+        "displaySublabelValue": null,
+        "value": "Good",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mint",
+        "displaySublabelValue": null,
+        "value": "Mint",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Very Good",
+        "displaySublabelValue": null,
+        "value": "Very Good",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pre-owned - Fair",
+        "displaySublabelValue": null,
+        "value": "Pre-owned - Fair",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Very Fine",
+        "displaySublabelValue": null,
+        "value": "Very Fine",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Brand New",
+        "displaySublabelValue": null,
+        "value": "Brand New",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New with Tags",
+        "displaySublabelValue": null,
+        "value": "New with Tags",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "new",
+        "displaySublabelValue": null,
+        "value": "new",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Excellent",
+        "displaySublabelValue": null,
+        "value": "Excellent",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Like New",
+        "displaySublabelValue": null,
+        "value": "Like New",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fair",
+        "displaySublabelValue": null,
+        "value": "Fair",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New without box",
+        "displaySublabelValue": null,
+        "value": "New without box",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New Without Tags",
+        "displaySublabelValue": null,
+        "value": "New Without Tags",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "good",
+        "displaySublabelValue": null,
+        "value": "good",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "DS",
+        "displaySublabelValue": null,
+        "value": "DS",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fine",
+        "displaySublabelValue": null,
+        "value": "Fine",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raw - Poor",
+        "displaySublabelValue": null,
+        "value": "Raw - Poor",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mint (M)",
+        "displaySublabelValue": null,
+        "value": "Mint (M)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New with Defects",
+        "displaySublabelValue": null,
+        "value": "New with Defects",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New with box",
+        "displaySublabelValue": null,
+        "value": "New with box",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Excellent (EX)",
+        "displaySublabelValue": null,
+        "value": "Excellent (EX)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Very Good Plus (VG+)",
+        "displaySublabelValue": null,
+        "value": "Very Good Plus (VG+)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Complete in Box",
+        "displaySublabelValue": null,
+        "value": "Complete in Box",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Good - Extremely Fine",
+        "displaySublabelValue": null,
+        "value": "Good - Extremely Fine",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Good (G)",
+        "displaySublabelValue": null,
+        "value": "Good (G)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pre-owned - Damaged",
+        "displaySublabelValue": null,
+        "value": "Pre-owned - Damaged",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gem Mint",
+        "displaySublabelValue": null,
+        "value": "Gem Mint",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Near Mint (NM or M-)",
+        "displaySublabelValue": null,
+        "value": "Near Mint (NM or M-)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Uncirculated - Mint",
+        "displaySublabelValue": null,
+        "value": "Uncirculated - Mint",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Loose",
+        "displaySublabelValue": null,
+        "value": "Loose",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Near mint (NM)",
+        "displaySublabelValue": null,
+        "value": "Near mint (NM)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Poor",
+        "displaySublabelValue": null,
+        "value": "Poor",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Poor - Fair",
+        "displaySublabelValue": null,
+        "value": "Poor - Fair",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "VNDS",
+        "displaySublabelValue": null,
+        "value": "VNDS",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Very Good (VG)",
+        "displaySublabelValue": null,
+        "value": "Very Good (VG)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Light Played",
+        "displaySublabelValue": null,
+        "value": "Light Played",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New in box",
+        "displaySublabelValue": null,
+        "value": "New in box",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Open-box",
+        "displaySublabelValue": null,
+        "value": "Open-box",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Used - Like New",
+        "displaySublabelValue": null,
+        "value": "Used - Like New",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Damaged",
+        "displaySublabelValue": null,
+        "value": "Damaged",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New (sealed)",
+        "displaySublabelValue": null,
+        "value": "New (sealed)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Used - Good",
+        "displaySublabelValue": null,
+        "value": "Used - Good",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Good Plus (G+)",
+        "displaySublabelValue": null,
+        "value": "Good Plus (G+)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Missing Manual",
+        "displaySublabelValue": null,
+        "value": "Missing Manual",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Uncirculated",
+        "displaySublabelValue": null,
+        "value": "Uncirculated",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Very Good (VG), Good Plus (G+)",
+        "displaySublabelValue": null,
+        "value": "Very Good (VG), Good Plus (G+)",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "pre-owned - Excellent",
+        "displaySublabelValue": null,
+        "value": "pre-owned - Excellent",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Brand New, Factory Sealed",
+        "displaySublabelValue": null,
+        "value": "Brand New, Factory Sealed",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gem Uncirculated",
+        "displaySublabelValue": null,
+        "value": "Gem Uncirculated",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Heavily Played",
+        "displaySublabelValue": null,
+        "value": "Heavily Played",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New with defects",
+        "displaySublabelValue": null,
+        "value": "New with defects",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "fair",
+        "displaySublabelValue": null,
+        "value": "fair",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "stringAttributes.Size",
+     "displayField": "Size",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "L",
+        "displaySublabelValue": null,
+        "value": "L",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "M",
+        "displaySublabelValue": null,
+        "value": "M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "OS",
+        "displaySublabelValue": null,
+        "value": "OS",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "One Size",
+        "displaySublabelValue": null,
+        "value": "One Size",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "S",
+        "displaySublabelValue": null,
+        "value": "S",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "XL",
+        "displaySublabelValue": null,
+        "value": "XL",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "XS",
+        "displaySublabelValue": null,
+        "value": "XS",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "XXL",
+        "displaySublabelValue": null,
+        "value": "XXL",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "1Y",
+        "displaySublabelValue": null,
+        "value": "1Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "2",
+        "displaySublabelValue": null,
+        "value": "2",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "2T",
+        "displaySublabelValue": null,
+        "value": "2T",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "2XL",
+        "displaySublabelValue": null,
+        "value": "2XL",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "2Y",
+        "displaySublabelValue": null,
+        "value": "2Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "2.5Y",
+        "displaySublabelValue": null,
+        "value": "2.5Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "3",
+        "displaySublabelValue": null,
+        "value": "3",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "3C",
+        "displaySublabelValue": null,
+        "value": "3C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "3XL",
+        "displaySublabelValue": null,
+        "value": "3XL",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "3Y",
+        "displaySublabelValue": null,
+        "value": "3Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "3.5Y",
+        "displaySublabelValue": null,
+        "value": "3.5Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4",
+        "displaySublabelValue": null,
+        "value": "4",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4C",
+        "displaySublabelValue": null,
+        "value": "4C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4M",
+        "displaySublabelValue": null,
+        "value": "4M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4Y",
+        "displaySublabelValue": null,
+        "value": "4Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.5",
+        "displaySublabelValue": null,
+        "value": "4.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.5M",
+        "displaySublabelValue": null,
+        "value": "4.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.5Y",
+        "displaySublabelValue": null,
+        "value": "4.5Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.5y",
+        "displaySublabelValue": null,
+        "value": "4.5y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5",
+        "displaySublabelValue": null,
+        "value": "5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5C",
+        "displaySublabelValue": null,
+        "value": "5C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5M",
+        "displaySublabelValue": null,
+        "value": "5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5W",
+        "displaySublabelValue": null,
+        "value": "5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5Y",
+        "displaySublabelValue": null,
+        "value": "5Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5.5",
+        "displaySublabelValue": null,
+        "value": "5.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5.5M",
+        "displaySublabelValue": null,
+        "value": "5.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5.5W",
+        "displaySublabelValue": null,
+        "value": "5.5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5.5Y",
+        "displaySublabelValue": null,
+        "value": "5.5Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "5.5y",
+        "displaySublabelValue": null,
+        "value": "5.5y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6",
+        "displaySublabelValue": null,
+        "value": "6",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6C",
+        "displaySublabelValue": null,
+        "value": "6C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6M",
+        "displaySublabelValue": null,
+        "value": "6M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6W",
+        "displaySublabelValue": null,
+        "value": "6W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6Y",
+        "displaySublabelValue": null,
+        "value": "6Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6.5",
+        "displaySublabelValue": null,
+        "value": "6.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6.5M",
+        "displaySublabelValue": null,
+        "value": "6.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6.5W",
+        "displaySublabelValue": null,
+        "value": "6.5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6.5Y",
+        "displaySublabelValue": null,
+        "value": "6.5Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "6.5y",
+        "displaySublabelValue": null,
+        "value": "6.5y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7",
+        "displaySublabelValue": null,
+        "value": "7",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7C",
+        "displaySublabelValue": null,
+        "value": "7C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7M",
+        "displaySublabelValue": null,
+        "value": "7M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7W",
+        "displaySublabelValue": null,
+        "value": "7W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7Y",
+        "displaySublabelValue": null,
+        "value": "7Y",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7.5",
+        "displaySublabelValue": null,
+        "value": "7.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7.5M",
+        "displaySublabelValue": null,
+        "value": "7.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "7.5W",
+        "displaySublabelValue": null,
+        "value": "7.5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "8",
+        "displaySublabelValue": null,
+        "value": "8",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "8C",
+        "displaySublabelValue": null,
+        "value": "8C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "8M",
+        "displaySublabelValue": null,
+        "value": "8M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "8W",
+        "displaySublabelValue": null,
+        "value": "8W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "8.5",
+        "displaySublabelValue": null,
+        "value": "8.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "8.5M",
+        "displaySublabelValue": null,
+        "value": "8.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "8.5W",
+        "displaySublabelValue": null,
+        "value": "8.5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "9",
+        "displaySublabelValue": null,
+        "value": "9",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "9C",
+        "displaySublabelValue": null,
+        "value": "9C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "9M",
+        "displaySublabelValue": null,
+        "value": "9M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "9W",
+        "displaySublabelValue": null,
+        "value": "9W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "9.5",
+        "displaySublabelValue": null,
+        "value": "9.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "9.5M",
+        "displaySublabelValue": null,
+        "value": "9.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "9.5W",
+        "displaySublabelValue": null,
+        "value": "9.5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10",
+        "displaySublabelValue": null,
+        "value": "10",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10C",
+        "displaySublabelValue": null,
+        "value": "10C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10M",
+        "displaySublabelValue": null,
+        "value": "10M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10W",
+        "displaySublabelValue": null,
+        "value": "10W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10.5",
+        "displaySublabelValue": null,
+        "value": "10.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10.5M",
+        "displaySublabelValue": null,
+        "value": "10.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10.5W",
+        "displaySublabelValue": null,
+        "value": "10.5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "11",
+        "displaySublabelValue": null,
+        "value": "11",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "11C",
+        "displaySublabelValue": null,
+        "value": "11C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "11M",
+        "displaySublabelValue": null,
+        "value": "11M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "11W",
+        "displaySublabelValue": null,
+        "value": "11W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "11.5",
+        "displaySublabelValue": null,
+        "value": "11.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "11.5M",
+        "displaySublabelValue": null,
+        "value": "11.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "11.5W",
+        "displaySublabelValue": null,
+        "value": "11.5W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "12",
+        "displaySublabelValue": null,
+        "value": "12",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "12C",
+        "displaySublabelValue": null,
+        "value": "12C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "12M",
+        "displaySublabelValue": null,
+        "value": "12M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "12W",
+        "displaySublabelValue": null,
+        "value": "12W",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "12.5",
+        "displaySublabelValue": null,
+        "value": "12.5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "12.5M",
+        "displaySublabelValue": null,
+        "value": "12.5M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "13",
+        "displaySublabelValue": null,
+        "value": "13",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "13C",
+        "displaySublabelValue": null,
+        "value": "13C",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "13M",
+        "displaySublabelValue": null,
+        "value": "13M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "14",
+        "displaySublabelValue": null,
+        "value": "14",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "14M",
+        "displaySublabelValue": null,
+        "value": "14M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "15",
+        "displaySublabelValue": null,
+        "value": "15",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "15M",
+        "displaySublabelValue": null,
+        "value": "15M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "16",
+        "displaySublabelValue": null,
+        "value": "16",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "16M",
+        "displaySublabelValue": null,
+        "value": "16M",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "10/12",
+        "displaySublabelValue": null,
+        "value": "10/12",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "12/14",
+        "displaySublabelValue": null,
+        "value": "12/14",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "stringAttributes.Brand",
+     "displayField": "Brand",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Jordan",
+        "displaySublabelValue": null,
+        "value": "Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Nike",
+        "displaySublabelValue": null,
+        "value": "Nike",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Panini",
+        "displaySublabelValue": null,
+        "value": "Panini",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Topps",
+        "displaySublabelValue": null,
+        "value": "Topps",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Upper Deck",
+        "displaySublabelValue": null,
+        "value": "Upper Deck",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan",
+        "displaySublabelValue": null,
+        "value": "Air Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fleer",
+        "displaySublabelValue": null,
+        "value": "Fleer",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Bowman",
+        "displaySublabelValue": null,
+        "value": "Bowman",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordans",
+        "displaySublabelValue": null,
+        "value": "Jordans",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "SkyBox",
+        "displaySublabelValue": null,
+        "value": "SkyBox",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Donruss",
+        "displaySublabelValue": null,
+        "value": "Donruss",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Under Armour",
+        "displaySublabelValue": null,
+        "value": "Under Armour",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Brand",
+        "displaySublabelValue": null,
+        "value": "Jordan Brand",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Michael Jordan",
+        "displaySublabelValue": null,
+        "value": "Michael Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan ",
+        "displaySublabelValue": null,
+        "value": "Jordan ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Craig",
+        "displaySublabelValue": null,
+        "value": "Jordan Craig",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Nike Jordan",
+        "displaySublabelValue": null,
+        "value": "Nike Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Wild Card",
+        "displaySublabelValue": null,
+        "value": "Wild Card",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Leaf",
+        "displaySublabelValue": null,
+        "value": "Leaf",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Nike Air Jordan",
+        "displaySublabelValue": null,
+        "value": "Nike Air Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "NBA Hoops",
+        "displaySublabelValue": null,
+        "value": "NBA Hoops",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Legacy",
+        "displaySublabelValue": null,
+        "value": "Legacy",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Hoops",
+        "displaySublabelValue": null,
+        "value": "Hoops",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "MME Creations",
+        "displaySublabelValue": null,
+        "value": "MME Creations",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Julia Jordan",
+        "displaySublabelValue": null,
+        "value": "Julia Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "jordan",
+        "displaySublabelValue": null,
+        "value": "jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "The North Face",
+        "displaySublabelValue": null,
+        "value": "The North Face",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Travis Scott",
+        "displaySublabelValue": null,
+        "value": "Travis Scott",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Champion",
+        "displaySublabelValue": null,
+        "value": "Champion",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Hype beast customs",
+        "displaySublabelValue": null,
+        "value": "Hype beast customs",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Talbots",
+        "displaySublabelValue": null,
+        "value": "Talbots",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Banana Republic",
+        "displaySublabelValue": null,
+        "value": "Banana Republic",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Adidas",
+        "displaySublabelValue": null,
+        "value": "Adidas",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Laffy Kicks",
+        "displaySublabelValue": null,
+        "value": "Laffy Kicks",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "julia jordan",
+        "displaySublabelValue": null,
+        "value": "julia jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Taylor",
+        "displaySublabelValue": null,
+        "value": "Jordan Taylor",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Supreme",
+        "displaySublabelValue": null,
+        "value": "Supreme",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Calvin Klein",
+        "displaySublabelValue": null,
+        "value": "Calvin Klein",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Lauren Ralph Lauren",
+        "displaySublabelValue": null,
+        "value": "Lauren Ralph Lauren",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Panini Prizm",
+        "displaySublabelValue": null,
+        "value": "Panini Prizm",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Prizm",
+        "displaySublabelValue": null,
+        "value": "Prizm",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Custom",
+        "displaySublabelValue": null,
+        "value": "Custom",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "NIKE",
+        "displaySublabelValue": null,
+        "value": "NIKE",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "nike",
+        "displaySublabelValue": null,
+        "value": "nike",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan ",
+        "displaySublabelValue": null,
+        "value": "Air Jordan ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "NBA",
+        "displaySublabelValue": null,
+        "value": "NBA",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Select",
+        "displaySublabelValue": null,
+        "value": "Select",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Sports Stars USA",
+        "displaySublabelValue": null,
+        "value": "Sports Stars USA",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Arena Sports",
+        "displaySublabelValue": null,
+        "value": "Arena Sports",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "K. Jordan",
+        "displaySublabelValue": null,
+        "value": "K. Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mitchell & Ness",
+        "displaySublabelValue": null,
+        "value": "Mitchell & Ness",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Topps Chrome",
+        "displaySublabelValue": null,
+        "value": "Topps Chrome",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Skybox",
+        "displaySublabelValue": null,
+        "value": "Skybox",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Starter",
+        "displaySublabelValue": null,
+        "value": "Starter",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "adidas",
+        "displaySublabelValue": null,
+        "value": "adidas",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "National",
+        "displaySublabelValue": null,
+        "value": "National",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "NBA HOOPS",
+        "displaySublabelValue": null,
+        "value": "NBA HOOPS",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "NBA Hoops ",
+        "displaySublabelValue": null,
+        "value": "NBA Hoops ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Nike ",
+        "displaySublabelValue": null,
+        "value": "Nike ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Sports Edition",
+        "displaySublabelValue": null,
+        "value": "Sports Edition",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gloria Vanderbilt",
+        "displaySublabelValue": null,
+        "value": "Gloria Vanderbilt",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Other",
+        "displaySublabelValue": null,
+        "value": "Other",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Panini Select",
+        "displaySublabelValue": null,
+        "value": "Panini Select",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Panini Mosaic",
+        "displaySublabelValue": null,
+        "value": "Panini Mosaic",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air jordan",
+        "displaySublabelValue": null,
+        "value": "Air jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Brooks Brothers",
+        "displaySublabelValue": null,
+        "value": "Brooks Brothers",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Collegiate Collection",
+        "displaySublabelValue": null,
+        "value": "Collegiate Collection",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Failing To Do Good",
+        "displaySublabelValue": null,
+        "value": "Failing To Do Good",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "PGA TOUR",
+        "displaySublabelValue": null,
+        "value": "PGA TOUR",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Walter Hagen",
+        "displaySublabelValue": null,
+        "value": "Walter Hagen",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Alexander Jordan",
+        "displaySublabelValue": null,
+        "value": "Alexander Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Ali",
+        "displaySublabelValue": null,
+        "value": "Ali",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Athletic Works",
+        "displaySublabelValue": null,
+        "value": "Athletic Works",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Bowman Chrome",
+        "displaySublabelValue": null,
+        "value": "Bowman Chrome",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Liz Claiborne",
+        "displaySublabelValue": null,
+        "value": "Liz Claiborne",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Panini Donruss Optic",
+        "displaySublabelValue": null,
+        "value": "Panini Donruss Optic",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Columbia",
+        "displaySublabelValue": null,
+        "value": "Columbia",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mosaic",
+        "displaySublabelValue": null,
+        "value": "Mosaic",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "UPPER DECK. ",
+        "displaySublabelValue": null,
+        "value": "UPPER DECK. ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "air jordan",
+        "displaySublabelValue": null,
+        "value": "air jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Bowman Sapphire Edition Chrome Prospects",
+        "displaySublabelValue": null,
+        "value": "Bowman Sapphire Edition Chrome Prospects",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "J. Jill",
+        "displaySublabelValue": null,
+        "value": "J. Jill",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "L.L. Bean",
+        "displaySublabelValue": null,
+        "value": "L.L. Bean",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Liz Jordan",
+        "displaySublabelValue": null,
+        "value": "Liz Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New Era",
+        "displaySublabelValue": null,
+        "value": "New Era",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Unbranded",
+        "displaySublabelValue": null,
+        "value": "Unbranded",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Ballstreet",
+        "displaySublabelValue": null,
+        "value": "Ballstreet",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Croft & Barrow",
+        "displaySublabelValue": null,
+        "value": "Croft & Barrow",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Greatest Ever",
+        "displaySublabelValue": null,
+        "value": "Greatest Ever",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Optic",
+        "displaySublabelValue": null,
+        "value": "Optic",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Panini ",
+        "displaySublabelValue": null,
+        "value": "Panini ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Under armour",
+        "displaySublabelValue": null,
+        "value": "Under armour",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "WWE",
+        "displaySublabelValue": null,
+        "value": "WWE",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Free People",
+        "displaySublabelValue": null,
+        "value": "Free People",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gildan",
+        "displaySublabelValue": null,
+        "value": "Gildan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "NFL",
+        "displaySublabelValue": null,
+        "value": "NFL",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Upper Deck ",
+        "displaySublabelValue": null,
+        "value": "Upper Deck ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Carhartt",
+        "displaySublabelValue": null,
+        "value": "Carhartt",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Adrian Jordan",
+        "displaySublabelValue": null,
+        "value": "Adrian Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Ben Hogan",
+        "displaySublabelValue": null,
+        "value": "Ben Hogan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "stringAttributes.Silhouette",
+     "displayField": "Silhouette",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Air Jordan 1",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 4",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 4",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan",
+        "displaySublabelValue": null,
+        "value": "Air Jordan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 3",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 3",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 11",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 11",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 5",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 6",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 6",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 12",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 12",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 13",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 13",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 9",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 9",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 2",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 2",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 7",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 7",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 10",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 10",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 8",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 8",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 14",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 14",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Dunk",
+        "displaySublabelValue": null,
+        "value": "Dunk",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 Mid",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 Mid",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 Low",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 Low",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 4",
+        "displaySublabelValue": null,
+        "value": "Jordan 4",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 3",
+        "displaySublabelValue": null,
+        "value": "Jordan 3",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Spizike",
+        "displaySublabelValue": null,
+        "value": "Jordan Spizike",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 5",
+        "displaySublabelValue": null,
+        "value": "Jordan 5",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Force 1",
+        "displaySublabelValue": null,
+        "value": "Air Force 1",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 11",
+        "displaySublabelValue": null,
+        "value": "Jordan 11",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 6 Rings",
+        "displaySublabelValue": null,
+        "value": "Jordan 6 Rings",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 1 Mid",
+        "displaySublabelValue": null,
+        "value": "Jordan 1 Mid",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 4 RM",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 4 RM",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Max Aura",
+        "displaySublabelValue": null,
+        "value": "Jordan Max Aura",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Access",
+        "displaySublabelValue": null,
+        "value": "Jordan Access",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 1 Low",
+        "displaySublabelValue": null,
+        "value": "Jordan 1 Low",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 17",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 17",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 12",
+        "displaySublabelValue": null,
+        "value": "Jordan 12",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 23",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 23",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Authentic",
+        "displaySublabelValue": null,
+        "value": "Authentic",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 Retro High OG",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 Retro High OG",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 40",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 40",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 13",
+        "displaySublabelValue": null,
+        "value": "Jordan 13",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 4 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 4 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "High-Top Sneaker",
+        "displaySublabelValue": null,
+        "value": "High-Top Sneaker",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Lift Off",
+        "displaySublabelValue": null,
+        "value": "Jordan Lift Off",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 13 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 13 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 15",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 15",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 36",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 36",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 1 low",
+        "displaySublabelValue": null,
+        "value": "Jordan 1 low",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 High",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 High",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Dunk SB",
+        "displaySublabelValue": null,
+        "value": "Dunk SB",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 12 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 12 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 37",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 37",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan MVP 92",
+        "displaySublabelValue": null,
+        "value": "Jordan MVP 92",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 18",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 18",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 20",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 20",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 31",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 31",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 7",
+        "displaySublabelValue": null,
+        "value": "Jordan 7",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "SB Dunk Low",
+        "displaySublabelValue": null,
+        "value": "SB Dunk Low",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Stadium 90",
+        "displaySublabelValue": null,
+        "value": "Stadium 90",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 Mid SE",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 Mid SE",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 38",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 38",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Flight Court",
+        "displaySublabelValue": null,
+        "value": "Jordan Flight Court",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "jordan 4",
+        "displaySublabelValue": null,
+        "value": "jordan 4",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 Retro High",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 Retro High",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 High OG",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 High OG",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 3 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 3 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Flight Court",
+        "displaySublabelValue": null,
+        "value": "Flight Court",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 2",
+        "displaySublabelValue": null,
+        "value": "Jordan 2",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan True Flight",
+        "displaySublabelValue": null,
+        "value": "Jordan True Flight",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 Low SE",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 Low SE",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 21",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 21",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Basketball",
+        "displaySublabelValue": null,
+        "value": "Basketball",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "High Top",
+        "displaySublabelValue": null,
+        "value": "High Top",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Maxin 200",
+        "displaySublabelValue": null,
+        "value": "Jordan Maxin 200",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 1 low",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 1 low",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 11 Low",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 11 Low",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 11 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 11 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 33",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 33",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 35",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 35",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 4 RM Premium",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 4 RM Premium",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Blazer",
+        "displaySublabelValue": null,
+        "value": "Blazer",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 1 Flight",
+        "displaySublabelValue": null,
+        "value": "Jordan 1 Flight",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 4 ",
+        "displaySublabelValue": null,
+        "value": "Jordan 4 ",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan 6 Retro",
+        "displaySublabelValue": null,
+        "value": "Jordan 6 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Stay Loyal",
+        "displaySublabelValue": null,
+        "value": "Jordan Stay Loyal",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Zion 3",
+        "displaySublabelValue": null,
+        "value": "Zion 3",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "jordan 11",
+        "displaySublabelValue": null,
+        "value": "jordan 11",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 11 Retro Low",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 11 Retro Low",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 32",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 32",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 5 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 5 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 6 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 6 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 7 Retro",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 7 Retro",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Dub Zero",
+        "displaySublabelValue": null,
+        "value": "Dub Zero",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Jordan Tatum 1",
+        "displaySublabelValue": null,
+        "value": "Jordan Tatum 1",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mid-Top",
+        "displaySublabelValue": null,
+        "value": "Mid-Top",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 16",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 16",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 19",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 19",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 2/3",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 2/3",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 2011",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 2011",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 2012",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 2012",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Jordan 29",
+        "displaySublabelValue": null,
+        "value": "Air Jordan 29",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Air Max 1",
+        "displaySublabelValue": null,
+        "value": "Air Max 1",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "High-Top",
+        "displaySublabelValue": null,
+        "value": "High-Top",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "High-Top Sneakers",
+        "displaySublabelValue": null,
+        "value": "High-Top Sneakers",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "stringAttributes.Colorway",
+     "displayField": "Colorway",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Red/White",
+        "displaySublabelValue": null,
+        "value": "Red/White",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/White",
+        "displaySublabelValue": null,
+        "value": "Black/White",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black",
+        "displaySublabelValue": null,
+        "value": "Black",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Bred",
+        "displaySublabelValue": null,
+        "value": "Bred",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "White",
+        "displaySublabelValue": null,
+        "value": "White",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "White/Black",
+        "displaySublabelValue": null,
+        "value": "White/Black",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Cool Grey",
+        "displaySublabelValue": null,
+        "value": "Cool Grey",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "UNC",
+        "displaySublabelValue": null,
+        "value": "UNC",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Triple Black",
+        "displaySublabelValue": null,
+        "value": "Triple Black",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Triple White",
+        "displaySublabelValue": null,
+        "value": "Triple White",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Blue",
+        "displaySublabelValue": null,
+        "value": "Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Red",
+        "displaySublabelValue": null,
+        "value": "Red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "White Cement",
+        "displaySublabelValue": null,
+        "value": "White Cement",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Chicago",
+        "displaySublabelValue": null,
+        "value": "Chicago",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gray",
+        "displaySublabelValue": null,
+        "value": "Gray",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gym Red",
+        "displaySublabelValue": null,
+        "value": "Gym Red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Royal",
+        "displaySublabelValue": null,
+        "value": "Royal",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pine Green",
+        "displaySublabelValue": null,
+        "value": "Pine Green",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black Cement",
+        "displaySublabelValue": null,
+        "value": "Black Cement",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Infrared",
+        "displaySublabelValue": null,
+        "value": "Infrared",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Green",
+        "displaySublabelValue": null,
+        "value": "Green",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Metallic Gold",
+        "displaySublabelValue": null,
+        "value": "Metallic Gold",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Purple",
+        "displaySublabelValue": null,
+        "value": "Purple",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Yellow Ochre",
+        "displaySublabelValue": null,
+        "value": "Yellow Ochre",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Multi",
+        "displaySublabelValue": null,
+        "value": "Multi",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Brown",
+        "displaySublabelValue": null,
+        "value": "Brown",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Concord",
+        "displaySublabelValue": null,
+        "value": "Concord",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black Toe",
+        "displaySublabelValue": null,
+        "value": "Black Toe",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/Red",
+        "displaySublabelValue": null,
+        "value": "Black/Red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Olive",
+        "displaySublabelValue": null,
+        "value": "Olive",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Beige",
+        "displaySublabelValue": null,
+        "value": "Beige",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fire Red",
+        "displaySublabelValue": null,
+        "value": "Fire Red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pink",
+        "displaySublabelValue": null,
+        "value": "Pink",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Midnight Navy",
+        "displaySublabelValue": null,
+        "value": "Midnight Navy",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Yellow",
+        "displaySublabelValue": null,
+        "value": "Yellow",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gamma Blue",
+        "displaySublabelValue": null,
+        "value": "Gamma Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Metallic Silver",
+        "displaySublabelValue": null,
+        "value": "Metallic Silver",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Shadow",
+        "displaySublabelValue": null,
+        "value": "Shadow",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Hyper Royal",
+        "displaySublabelValue": null,
+        "value": "Hyper Royal",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/White/Gym Red",
+        "displaySublabelValue": null,
+        "value": "Black/White/Gym Red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Navy",
+        "displaySublabelValue": null,
+        "value": "Navy",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Shattered Backboard",
+        "displaySublabelValue": null,
+        "value": "Shattered Backboard",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "White/Red",
+        "displaySublabelValue": null,
+        "value": "White/Red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Sail",
+        "displaySublabelValue": null,
+        "value": "Sail",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Space Jam",
+        "displaySublabelValue": null,
+        "value": "Space Jam",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "White/Blue/Black",
+        "displaySublabelValue": null,
+        "value": "White/Blue/Black",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Cream",
+        "displaySublabelValue": null,
+        "value": "Cream",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Game Royal",
+        "displaySublabelValue": null,
+        "value": "Game Royal",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Orange",
+        "displaySublabelValue": null,
+        "value": "Orange",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Legend Blue",
+        "displaySublabelValue": null,
+        "value": "Legend Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Rust Pink",
+        "displaySublabelValue": null,
+        "value": "Rust Pink",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "University Blue",
+        "displaySublabelValue": null,
+        "value": "University Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fire red",
+        "displaySublabelValue": null,
+        "value": "Fire red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Cherry",
+        "displaySublabelValue": null,
+        "value": "Cherry",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Military Blue",
+        "displaySublabelValue": null,
+        "value": "Military Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Multicolor",
+        "displaySublabelValue": null,
+        "value": "Multicolor",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Obsidian",
+        "displaySublabelValue": null,
+        "value": "Obsidian",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Off-White",
+        "displaySublabelValue": null,
+        "value": "Off-White",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Oreo",
+        "displaySublabelValue": null,
+        "value": "Oreo",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "White/blue",
+        "displaySublabelValue": null,
+        "value": "White/blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Lucky Green",
+        "displaySublabelValue": null,
+        "value": "Lucky Green",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Red/Black",
+        "displaySublabelValue": null,
+        "value": "Red/Black",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Blue Tint",
+        "displaySublabelValue": null,
+        "value": "Blue Tint",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Green Glow",
+        "displaySublabelValue": null,
+        "value": "Green Glow",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Court Purple",
+        "displaySublabelValue": null,
+        "value": "Court Purple",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Taxi",
+        "displaySublabelValue": null,
+        "value": "Taxi",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mocha",
+        "displaySublabelValue": null,
+        "value": "Mocha",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Olympic",
+        "displaySublabelValue": null,
+        "value": "Olympic",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "White/Black/Gym Red",
+        "displaySublabelValue": null,
+        "value": "White/Black/Gym Red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Metallic Purple",
+        "displaySublabelValue": null,
+        "value": "Metallic Purple",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black red",
+        "displaySublabelValue": null,
+        "value": "Black red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/Grey",
+        "displaySublabelValue": null,
+        "value": "Black/Grey",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/Yellow",
+        "displaySublabelValue": null,
+        "value": "Black/Yellow",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Flint",
+        "displaySublabelValue": null,
+        "value": "Flint",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Playoff",
+        "displaySublabelValue": null,
+        "value": "Playoff",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/Blue",
+        "displaySublabelValue": null,
+        "value": "Black/Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/Gold",
+        "displaySublabelValue": null,
+        "value": "Black/Gold",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/gold",
+        "displaySublabelValue": null,
+        "value": "Black/gold",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/yellow",
+        "displaySublabelValue": null,
+        "value": "Black/yellow",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Blue/white",
+        "displaySublabelValue": null,
+        "value": "Blue/white",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Grape",
+        "displaySublabelValue": null,
+        "value": "Grape",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Racer Blue",
+        "displaySublabelValue": null,
+        "value": "Racer Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "True Blue",
+        "displaySublabelValue": null,
+        "value": "True Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black white",
+        "displaySublabelValue": null,
+        "value": "Black white",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Bordeaux",
+        "displaySublabelValue": null,
+        "value": "Bordeaux",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Elephant Print",
+        "displaySublabelValue": null,
+        "value": "Elephant Print",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Palomino",
+        "displaySublabelValue": null,
+        "value": "Palomino",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Aqua",
+        "displaySublabelValue": null,
+        "value": "Aqua",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Blue/White",
+        "displaySublabelValue": null,
+        "value": "Blue/White",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Easter",
+        "displaySublabelValue": null,
+        "value": "Easter",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Grey",
+        "displaySublabelValue": null,
+        "value": "Grey",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Red/black",
+        "displaySublabelValue": null,
+        "value": "Red/black",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/blue",
+        "displaySublabelValue": null,
+        "value": "Black/blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "French Blue",
+        "displaySublabelValue": null,
+        "value": "French Blue",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Tan",
+        "displaySublabelValue": null,
+        "value": "Tan",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "BLACK",
+        "displaySublabelValue": null,
+        "value": "BLACK",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black Cat",
+        "displaySublabelValue": null,
+        "value": "Black Cat",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/Metallic Gold",
+        "displaySublabelValue": null,
+        "value": "Black/Metallic Gold",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black/red",
+        "displaySublabelValue": null,
+        "value": "Black/red",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Georgetown",
+        "displaySublabelValue": null,
+        "value": "Georgetown",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "stringAttributes.MSRP",
+     "displayField": "MSRP",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "200",
+        "displaySublabelValue": null,
+        "value": "200",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "180",
+        "displaySublabelValue": null,
+        "value": "180",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "190",
+        "displaySublabelValue": null,
+        "value": "190",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "150",
+        "displaySublabelValue": null,
+        "value": "150",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "210",
+        "displaySublabelValue": null,
+        "value": "210",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "160",
+        "displaySublabelValue": null,
+        "value": "160",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "220",
+        "displaySublabelValue": null,
+        "value": "220",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "120",
+        "displaySublabelValue": null,
+        "value": "120",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "140",
+        "displaySublabelValue": null,
+        "value": "140",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "225",
+        "displaySublabelValue": null,
+        "value": "225",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "170",
+        "displaySublabelValue": null,
+        "value": "170",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$180",
+        "displaySublabelValue": null,
+        "value": "$180",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "250",
+        "displaySublabelValue": null,
+        "value": "250",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "0",
+        "displaySublabelValue": null,
+        "value": "0",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "100",
+        "displaySublabelValue": null,
+        "value": "100",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "125",
+        "displaySublabelValue": null,
+        "value": "125",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "130",
+        "displaySublabelValue": null,
+        "value": "130",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$200",
+        "displaySublabelValue": null,
+        "value": "$200",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "110",
+        "displaySublabelValue": null,
+        "value": "110",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "60",
+        "displaySublabelValue": null,
+        "value": "60",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$140",
+        "displaySublabelValue": null,
+        "value": "$140",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$150",
+        "displaySublabelValue": null,
+        "value": "$150",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "90",
+        "displaySublabelValue": null,
+        "value": "90",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "175",
+        "displaySublabelValue": null,
+        "value": "175",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "300",
+        "displaySublabelValue": null,
+        "value": "300",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$220",
+        "displaySublabelValue": null,
+        "value": "$220",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "215",
+        "displaySublabelValue": null,
+        "value": "215",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "185",
+        "displaySublabelValue": null,
+        "value": "185",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$120",
+        "displaySublabelValue": null,
+        "value": "$120",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$160",
+        "displaySublabelValue": null,
+        "value": "$160",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$190",
+        "displaySublabelValue": null,
+        "value": "$190",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$225",
+        "displaySublabelValue": null,
+        "value": "$225",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "230",
+        "displaySublabelValue": null,
+        "value": "230",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "115",
+        "displaySublabelValue": null,
+        "value": "115",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "135",
+        "displaySublabelValue": null,
+        "value": "135",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$25",
+        "displaySublabelValue": null,
+        "value": "$25",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "350",
+        "displaySublabelValue": null,
+        "value": "350",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "50",
+        "displaySublabelValue": null,
+        "value": "50",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "65",
+        "displaySublabelValue": null,
+        "value": "65",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "80",
+        "displaySublabelValue": null,
+        "value": "80",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$170",
+        "displaySublabelValue": null,
+        "value": "$170",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "70",
+        "displaySublabelValue": null,
+        "value": "70",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$40",
+        "displaySublabelValue": null,
+        "value": "$40",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "75",
+        "displaySublabelValue": null,
+        "value": "75",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$100",
+        "displaySublabelValue": null,
+        "value": "$100",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$250",
+        "displaySublabelValue": null,
+        "value": "$250",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "165",
+        "displaySublabelValue": null,
+        "value": "165",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$125",
+        "displaySublabelValue": null,
+        "value": "$125",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "55",
+        "displaySublabelValue": null,
+        "value": "55",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$130",
+        "displaySublabelValue": null,
+        "value": "$130",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "145",
+        "displaySublabelValue": null,
+        "value": "145",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "45",
+        "displaySublabelValue": null,
+        "value": "45",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "155",
+        "displaySublabelValue": null,
+        "value": "155",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$50",
+        "displaySublabelValue": null,
+        "value": "$50",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$75",
+        "displaySublabelValue": null,
+        "value": "$75",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "280",
+        "displaySublabelValue": null,
+        "value": "280",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$300",
+        "displaySublabelValue": null,
+        "value": "$300",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$80",
+        "displaySublabelValue": null,
+        "value": "$80",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "40",
+        "displaySublabelValue": null,
+        "value": "40",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$175",
+        "displaySublabelValue": null,
+        "value": "$175",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "139",
+        "displaySublabelValue": null,
+        "value": "139",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "35",
+        "displaySublabelValue": null,
+        "value": "35",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$350",
+        "displaySublabelValue": null,
+        "value": "$350",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$60",
+        "displaySublabelValue": null,
+        "value": "$60",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$90",
+        "displaySublabelValue": null,
+        "value": "$90",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "149",
+        "displaySublabelValue": null,
+        "value": "149",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "200.00",
+        "displaySublabelValue": null,
+        "value": "200.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "240",
+        "displaySublabelValue": null,
+        "value": "240",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "99",
+        "displaySublabelValue": null,
+        "value": "99",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$110",
+        "displaySublabelValue": null,
+        "value": "$110",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$85",
+        "displaySublabelValue": null,
+        "value": "$85",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "129",
+        "displaySublabelValue": null,
+        "value": "129",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "400",
+        "displaySublabelValue": null,
+        "value": "400",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$210",
+        "displaySublabelValue": null,
+        "value": "$210",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$230",
+        "displaySublabelValue": null,
+        "value": "$230",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "160.00",
+        "displaySublabelValue": null,
+        "value": "160.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "85",
+        "displaySublabelValue": null,
+        "value": "85",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "999",
+        "displaySublabelValue": null,
+        "value": "999",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$65",
+        "displaySublabelValue": null,
+        "value": "$65",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "199",
+        "displaySublabelValue": null,
+        "value": "199",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "450",
+        "displaySublabelValue": null,
+        "value": "450",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "95",
+        "displaySublabelValue": null,
+        "value": "95",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$70",
+        "displaySublabelValue": null,
+        "value": "$70",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "500",
+        "displaySublabelValue": null,
+        "value": "500",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$115",
+        "displaySublabelValue": null,
+        "value": "$115",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "170.00",
+        "displaySublabelValue": null,
+        "value": "170.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "190.00",
+        "displaySublabelValue": null,
+        "value": "190.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "275",
+        "displaySublabelValue": null,
+        "value": "275",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$20",
+        "displaySublabelValue": null,
+        "value": "$20",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$200+",
+        "displaySublabelValue": null,
+        "value": "$200+",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "159",
+        "displaySublabelValue": null,
+        "value": "159",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "180.00",
+        "displaySublabelValue": null,
+        "value": "180.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "235",
+        "displaySublabelValue": null,
+        "value": "235",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$105",
+        "displaySublabelValue": null,
+        "value": "$105",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$140.00",
+        "displaySublabelValue": null,
+        "value": "$140.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$185",
+        "displaySublabelValue": null,
+        "value": "$185",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$200.00",
+        "displaySublabelValue": null,
+        "value": "$200.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "100.00",
+        "displaySublabelValue": null,
+        "value": "100.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "105",
+        "displaySublabelValue": null,
+        "value": "105",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "150.00",
+        "displaySublabelValue": null,
+        "value": "150.00",
+        "section": null,
+        "numResults": null,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    }
+   ],
+   "sorts": [
+    {
+     "displayField": "Best Match",
+     "field": null,
+     "direction": null
+    },
+    {
+     "displayField": "Lowest Price",
+     "field": "PRICE",
+     "direction": "ASC"
+    },
+    {
+     "displayField": "Highest Price",
+     "field": "PRICE",
+     "direction": "DESC"
+    },
+    {
+     "displayField": "Newly Listed",
+     "field": "CREATION_TIME",
+     "direction": "DESC"
+    }
+   ],
+   "defaultSort": {
+    "displayField": "Best Match",
+    "field": null,
+    "direction": null
+   }
+  }
+ }
+}

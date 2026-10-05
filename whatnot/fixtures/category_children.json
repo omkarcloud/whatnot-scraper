@@ -1,0 +1,397 @@
+{
+ "livestreamTaxonomyDirectDescendants": [
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MTA3MzU=",
+   "name": "union_arena",
+   "label": "Union Arena",
+   "description": "",
+   "tagType": null,
+   "viewerCount": null,
+   "livestreamCount": null,
+   "deeplink": "tag/union_arena",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvdW5pb25fYXJlbmEtLTI2NWE4ZDBhLTUxYTUtNGVlZS1iOGZjLTcyMjgwYzc1OTI0ZC5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiA2MzIsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=1305635178dd7c2c74d89724e758d26fa3006eae099b9a690a431a1b704b8c45"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTg3",
+   "name": "yugioh_cards",
+   "label": "Yu-Gi-Oh! Cards",
+   "description": "",
+   "tagType": null,
+   "viewerCount": 63,
+   "livestreamCount": 5,
+   "deeplink": "tag/yugioh_cards",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MveXVnaW9oX2NhcmRzLS1kMmJhZGI4Ni02MDI1LTQzNmYtYjFhMy03YTEyZmU3MDBkOWQucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=bc236d7782dea6e8ab9f96ee7e1bf46fe310f849bcaeddc79d33140969a4a9f3"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTY4",
+   "name": "one_piece_cards",
+   "label": "One Piece Cards",
+   "description": "",
+   "tagType": null,
+   "viewerCount": 568,
+   "livestreamCount": 29,
+   "deeplink": "tag/one_piece_cards",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3Mvb25lX3BpZWNlX2NhcmRzLS02Y2U5NTQ2ZS0yNjE0LTQwODQtODkyYy00ZmMxMTdjOGYwMjEucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=280b82be2fe1dba97211e62cf607f7db5ea82da686efcdbc10910c8c25af0ad8"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTEz",
+   "name": "dragonball_cards",
+   "label": "Dragon Ball Cards",
+   "description": "",
+   "tagType": null,
+   "viewerCount": 131,
+   "livestreamCount": 8,
+   "deeplink": "tag/dragonball_cards",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvZHJhZ29uYmFsbF9jYXJkcy0tMzQzMTMzMGItZWFkNC00OTdmLWJmYmMtYTEwZTAwNDA1NmE4LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=a5787a26512dcdf261fab475e494c3e86c0b45e1e80f80f71705bfebe80df752"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6Mjk2MDI=",
+   "name": "bo_jackson_battle_arena_category",
+   "label": "Bo Jackson Battle Arena",
+   "description": "",
+   "tagType": "LIVESTREAM_CATEGORY",
+   "viewerCount": null,
+   "livestreamCount": null,
+   "deeplink": "tag/bo_jackson_battle_arena_category",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvYm9famFja3Nvbl9iYXR0bGVfYXJlbmFfY2F0ZWdvcnktLTU3ODViZGZmLTllNGYtNGZmYS1hYThhLTY3ZGNjOWE4NDIyNC5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiA2MzIsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=78806483d1722e9c79f56776b027d509b1cdd52d30bbd3ff7f8f6293591e65fb"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MTA3Mg==",
+    "name": "sports_cards",
+    "label": "Sports Cards"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MTAzOQ==",
+   "name": "naruto_cards",
+   "label": "Naruto Cards",
+   "description": "",
+   "tagType": null,
+   "viewerCount": null,
+   "livestreamCount": null,
+   "deeplink": "tag/naruto_cards",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvbmFydXRvX2NhcmRzLS1jNTI1OGRlYS02MGY3LTQ5ZTUtOTA2Mi0wM2FjYWU3MTRlOGMucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=c09f6299a4ad52a3478e1583bd24089956eeb6c9837eb7502657e29f7112707d"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTQw",
+   "name": "magic_cards",
+   "label": "Magic: The Gathering",
+   "description": "",
+   "tagType": null,
+   "viewerCount": 398,
+   "livestreamCount": 11,
+   "deeplink": "tag/magic_cards",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvbWFnaWNfY2FyZHMtLTZjOWNiYWI2LTk5ZGEtNDZlZC04MGViLWNhMjE3M2QyMzExZi5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiA2MzIsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=e4789aa5c2af29ed383c7f522725fa1893e01f8157578af595954e7b80104a7b"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MzM1Njg=",
+   "name": "palworld",
+   "label": "Palworld",
+   "description": "",
+   "tagType": "LIVESTREAM_CATEGORY",
+   "viewerCount": null,
+   "livestreamCount": null,
+   "deeplink": "tag/palworld",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvcGFsd29ybGQtLTNlZTI0YmNkLTViNGUtNGNjYy1hNzEyLWU3ZGE3ZDExNTIzNi5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiA2MzIsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=3ad689b2e8a960d8a3d563a233e7cf6c0e1adff13c609d204e2d53cebf3a3c3a"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjQxNDg=",
+   "name": "riftbound_category",
+   "label": "Riftbound",
+   "description": "",
+   "tagType": "LIVESTREAM_CATEGORY",
+   "viewerCount": 23,
+   "livestreamCount": 2,
+   "deeplink": "tag/riftbound_category",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvcmlmdGJvdW5kX2NhdGVnb3J5LS1hYjQwZWI2NS0xY2Y4LTQ1N2EtYjJlOS1lYjJmYjE0YTg1MTkucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=aa0e0b138ec747e72920547669c68741acc4eb845bfcb7a894d9618b10b954f0"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+   "name": "tcg_other",
+   "label": "Other TCG",
+   "description": "",
+   "tagType": null,
+   "viewerCount": 38,
+   "livestreamCount": 3,
+   "deeplink": "tag/tcg_other",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvdGNnX290aGVyLS1lZWFhZTJiZS03MmE0LTQzNjktYjE0NC0yOGUyMDdhNzU4MDEucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=c17f61a42fe1a60f2f98cd114c0c274897fd6528efac5990f0f5b7b1e6e22946"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": [
+    {
+     "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTE2",
+     "name": "my_hero_academia",
+     "label": "UniVersus",
+     "description": "",
+     "tagType": null,
+     "viewerCount": null,
+     "livestreamCount": null,
+     "deeplink": "tag/my_hero_academia",
+     "image": {
+      "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvbXlfaGVyb19hY2FkZW1pYS0tYWVlODU1YWUtZWExNi00MThmLWI1MGYtYTczN2NjMzMwYTNhLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=6d01742d51e6002d35929f39fc6f64e93ed0f820640720d738317ee03fac93a3"
+     },
+     "parent": {
+      "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+      "name": "tcg_other",
+      "label": "Other TCG"
+     }
+    },
+    {
+     "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MTAwMjQ=",
+     "name": "sorcery_contested_realm",
+     "label": "Sorcery: Contested Realm",
+     "description": "",
+     "tagType": null,
+     "viewerCount": null,
+     "livestreamCount": null,
+     "deeplink": "tag/sorcery_contested_realm",
+     "image": {
+      "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3Mvc29yY2VyeV9jb250ZXN0ZWRfcmVhbG0tLTQ1YWYzZGIyLTgwNTQtNDllNS05NGU1LTYxYTMyZDI2MjJiOC5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiA2MzIsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=e136fb4e53a22bf6bd6c6e9eed2d180add595a98d0b1636bb4943f77c3d6015d"
+     },
+     "parent": {
+      "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+      "name": "tcg_other",
+      "label": "Other TCG"
+     }
+    },
+    {
+     "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTIz",
+     "name": "metazoo",
+     "label": "MetaZoo",
+     "description": "",
+     "tagType": null,
+     "viewerCount": null,
+     "livestreamCount": null,
+     "deeplink": "tag/metazoo",
+     "image": {
+      "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvbWV0YXpvby0tYTY0NTEwMTAtNTJkNy00ZTA2LWFkYTktNzcxZjcwZjJmNjQ2LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=ca54701e2a4feacd41ba8176d8f7e5b60d7e23c6669f5665b7719ef177ee5b72"
+     },
+     "parent": {
+      "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+      "name": "tcg_other",
+      "label": "Other TCG"
+     }
+    },
+    {
+     "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjQxNDY=",
+     "name": "gundam_category",
+     "label": "Gundam Cards",
+     "description": "",
+     "tagType": "LIVESTREAM_CATEGORY",
+     "viewerCount": 23,
+     "livestreamCount": 2,
+     "deeplink": "tag/gundam_category",
+     "image": {
+      "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvZ3VuZGFtX2NhdGVnb3J5LS1hYTg2YzI4ZC0wYTZlLTRmNWItYmI2OC02MGU4MjIyYzFlNDIucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=9fccb79029249b3d24eea46943a89759c0b9679f917a2cc1b2d9319871a705bc"
+     },
+     "parent": {
+      "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+      "name": "tcg_other",
+      "label": "Other TCG"
+     }
+    },
+    {
+     "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTI3",
+     "name": "flesh_and_blood",
+     "label": "Flesh & Blood",
+     "description": "",
+     "tagType": null,
+     "viewerCount": null,
+     "livestreamCount": null,
+     "deeplink": "tag/flesh_and_blood",
+     "image": {
+      "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvZmxlc2hfYW5kX2Jsb29kLS1mZTJiMGM1NS1hNjgwLTQyMDUtYTBkMC03MDEyYzdhMDcxY2UucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=2e57ff79acc9904500920fd1e81023f431dfabdb98c15f65bf964918d52590bf"
+     },
+     "parent": {
+      "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+      "name": "tcg_other",
+      "label": "Other TCG"
+     }
+    },
+    {
+     "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MTAyMA==",
+     "name": "kryptik_cards",
+     "label": "Kryptik",
+     "description": "",
+     "tagType": null,
+     "viewerCount": null,
+     "livestreamCount": null,
+     "deeplink": "tag/kryptik_cards",
+     "image": {
+      "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3Mva3J5cHRpa19jYXJkcy0tMTJjZDI1NzgtMWFhNy00N2U1LTg5ZDktZTFlMTdkMzExMjhhLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=37be80cc6310f8742d77790d9d7e4ca392834a2292925a84afedd0dfe4a99d39"
+     },
+     "parent": {
+      "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+      "name": "tcg_other",
+      "label": "Other TCG"
+     }
+    },
+    {
+     "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk2",
+     "name": "digimon_cards",
+     "label": "Digimon Cards",
+     "description": "",
+     "tagType": null,
+     "viewerCount": null,
+     "livestreamCount": null,
+     "deeplink": "tag/digimon_cards",
+     "image": {
+      "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvZGlnaW1vbl9jYXJkcy0tZjAwODU5MTUtYzI3Mi00Njk3LWFkMzQtM2VlYjBlYWExMjc4LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=03923ce30fc8819549f81d7e77c3b41a65adde6ccddbe24bea4110b5472837b8"
+     },
+     "parent": {
+      "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA2",
+      "name": "tcg_other",
+      "label": "Other TCG"
+     }
+    }
+   ]
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTE0",
+   "name": "weiß_schwarz",
+   "label": "Weiß Schwarz",
+   "description": "",
+   "tagType": null,
+   "viewerCount": 21,
+   "livestreamCount": 1,
+   "deeplink": "tag/weiß_schwarz",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3Mvd2VpXHUwMGRmX3NjaHdhcnotLTkyNDJmZjdjLTMyODMtNGU2Yi1hOGYyLTg5NjBjNGY5MGRlMi5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiA2MzIsICJoZWlnaHQiOiBudWxsLCAiZml0IjogImNvdmVyIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fSwgIm91dHB1dEZvcm1hdCI6ICJ3ZWJwIn0=?signature=40640a460d48946b3988af5f5e274dff619bf630737295b6a244c16f793df768"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODg2NQ==",
+   "name": "veefriends",
+   "label": "VeeFriends",
+   "description": "Welcome to VeeFriends—a collectible universe of over 250 characters. Discover and collect them all with cards, TCG, comics, plush, apparel, and more!",
+   "tagType": "BRAND",
+   "viewerCount": null,
+   "livestreamCount": null,
+   "deeplink": "tag/veefriends",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvdmVlZnJpZW5kcy0tNWRlMjllNGYtMDk1YS00MTQ5LWE3Y2EtMTc1YWI5OTNhYjE2LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=75c55d044ed5e854004fb30a77dfddc4cd88c0ce9fb6de22d3e6beee706c8c86"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+   "name": "pokemon_cards",
+   "label": "Pokémon Cards",
+   "description": "",
+   "tagType": null,
+   "viewerCount": 10682,
+   "livestreamCount": 270,
+   "deeplink": "tag/pokemon_cards",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvcG9rZW1vbl9jYXJkcy0tZTk1NDU1Y2YtOGZiZi00NDRiLWFlMDItOTIyMmViNzhlNGY5LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=43fed969484aab4500cdf8508932416665d36f371e7b478a5b2fcf847a35b62a"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  },
+  {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjQxNDU=",
+   "name": "lorcana",
+   "label": "Lorcana",
+   "description": "",
+   "tagType": "LIVESTREAM_CATEGORY",
+   "viewerCount": 17,
+   "livestreamCount": 2,
+   "deeplink": "tag/lorcana",
+   "image": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvbG9yY2FuYS0tNDJiOTJjNGItYzkyZC00ZGI1LWFlMTMtZDYzZmMyNjU2ZWMyLnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=94886ea9ad0995e46e3f516c178ac799fa89523d93569a40cc43c321e20cbfc2"
+   },
+   "parent": {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+    "name": "trading_card_games",
+    "label": "Trading Card Games"
+   },
+   "refinements": []
+  }
+ ]
+}

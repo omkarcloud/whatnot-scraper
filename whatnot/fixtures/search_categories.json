@@ -1,0 +1,63 @@
+{
+ "search": {
+  "searchParams": {
+   "vertical": "CATEGORY",
+   "spellingCorrection": null
+  },
+  "id": "CATEGORY_SEARCH_FEED:eyJzZWFyY2hfcXVlcnkiOiAicG9rZW1vbiIsICJyZWZlcnJpbmdfc291cmNlIjogbnVsbCwgInNlYXJjaF9maWx0ZXJzIjogbnVsbCwgInNvcnRfZmllbGQiOiBudWxsLCAic29ydF9kaXJlY3Rpb24iOiBudWxsLCAic2VsbGVyX3VzZXJfaWQiOiBudWxsLCAic2VhcmNoX2xvY2F0aW9uIjogbnVsbCwgImNhdGVnb3J5X2lkcyI6IG51bGwsICJxdWVyeV9yZWNvbW1lbmRhdGlvbl9pZCI6IG51bGwsICJ1c2VzX2NhdGVnb3JpemF0aW9uX3RhZ3MiOiBmYWxzZSwgInZpZXdpbmdfZmVlZF9pZCI6IG51bGx9",
+  "title": "Categories",
+  "objects": {
+   "totalCount": 2,
+   "pageInfo": {
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjc=",
+    "hasNextPage": true
+   },
+   "edges": [
+    {
+     "node": {
+      "__typename": "FeedEntity",
+      "object": {
+       "__typename": "LivestreamTagNode",
+       "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+       "name": "pokemon_cards",
+       "label": "Pokémon Cards",
+       "description": "",
+       "tagType": null,
+       "viewerCount": 10710,
+       "livestreamCount": 273,
+       "deeplink": "tag/pokemon_cards",
+       "image": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvcG9rZW1vbl9jYXJkcy0tZTk1NDU1Y2YtOGZiZi00NDRiLWFlMDItOTIyMmViNzhlNGY5LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=43fed969484aab4500cdf8508932416665d36f371e7b478a5b2fcf847a35b62a"
+       },
+       "parent": {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+        "name": "trading_card_games",
+        "label": "Trading Card Games"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "__typename": "FeedEntity",
+      "object": {
+       "__typename": "LivestreamTagNode",
+       "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+       "name": "trading_card_games",
+       "label": "Trading Card Games",
+       "description": "",
+       "tagType": null,
+       "viewerCount": 11971,
+       "livestreamCount": 335,
+       "deeplink": "tag/trading_card_games",
+       "image": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvdHJhZGluZ19jYXJkX2dhbWVzLS04OTQzYjIwZC0zOWJjLTRiODYtODczZC1hZDhmNjVmNjBlZjIucG5nIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogNjMyLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=c6379c52ddad9f75dbf9bf6418cd52371b93d82b3186c999fe42045b36c2bbcf"
+       },
+       "parent": null
+      }
+     }
+    }
+   ]
+  }
+ }
+}

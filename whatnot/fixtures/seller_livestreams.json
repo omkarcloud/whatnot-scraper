@@ -1,0 +1,471 @@
+{
+ "getUser": {
+  "id": "UHVibGljVXNlck5vZGU6MTE4NDg0OTU=",
+  "username": "pokemonsuperstore",
+  "livestreams": {
+   "totalCount": 30,
+   "pageInfo": {
+    "hasNextPage": true,
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjU="
+   },
+   "edges": [
+    {
+     "node": {
+      "id": "a3024d79-5e7a-49fc-8ff8-b051b204bfc4",
+      "title": "🇺🇸 🎉30TH CELEBRATION🎉RIP TILL YOU HIT!!! $1 STARTS!!!",
+      "status": "CREATED",
+      "startTime": 1791198000000.0,
+      "endTime": null,
+      "activeViewers": 0,
+      "totalWatchlistUsers": 39,
+      "isHiddenBySeller": false,
+      "explicitContent": false,
+      "livestreamLabels": null,
+      "streamService": null,
+      "trailerUrl": null,
+      "trailerThumbnailUrl": null,
+      "shippingSourceCountryCode": "US",
+      "isFreeShippingEnabled": null,
+      "buyerPaysMaxAmountForShipping": null,
+      "thumbnail": {
+       "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy83NjAxMjMzOC05NzM1LTRiMjMtODVhNC0zYjAxMzg3NjAzZjMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogODI4LCAiaGVpZ2h0IjogMTI4MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=02f13e4af17ff0f7a93842a1fe81efabd66a2223371eb8511d3d903a24de576b"
+      },
+      "livestreamCategories": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+        "name": "pokemon_cards",
+        "label": "Pokémon Cards",
+        "deeplink": "tag/pokemon_cards"
+       }
+      ],
+      "categoryNodes": [
+       {
+        "id": "Q2F0ZWdvcnlOb2RlOjI=",
+        "type": "pokemon_cards",
+        "label": "Pokémon Cards"
+       }
+      ],
+      "tags": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjYwNTY=",
+        "name": "ascended_heroes",
+        "label": "Ascended Heroes"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTc=",
+        "name": "pokemon",
+        "label": "Pokémon"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MzMxMjQ=",
+        "name": "30th_anniversary_pokemon",
+        "label": "Pokemon 30th Anniversary"
+       }
+      ],
+      "sellerLanguage": {
+       "languageCode": "en",
+       "displayName": "English"
+      },
+      "user": {
+       "id": "11848495",
+       "username": "pokemonsuperstore",
+       "isLive": false,
+       "isVerifiedSeller": false,
+       "sellerRating": {
+        "overall": 4.9,
+        "numReviews": 38006
+       },
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExODQ4NDk1LzlkZDg2MmY0LTAyNDItNDMwNy1iZDBkLTk2MDU2OTI4OTU4Ni5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiBudWxsLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fX0=?signature=2037a92ed75688afa953e781664d300e0127b51b5e01cb5435384f812bd6a4ef"
+       },
+       "premierShopStatus": {
+        "isPremierShop": true
+       },
+       "sellerBadges": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "cac8b32a-bcb6-4d77-8e3e-a43d4b284b0e",
+      "title": "🇺🇸 🎉30TH CELEBRATION🎉RIP TILL YOU HIT!!! $1 STARTS!!!",
+      "status": "CREATED",
+      "startTime": 1791311510000.0,
+      "endTime": null,
+      "activeViewers": 0,
+      "totalWatchlistUsers": 35,
+      "isHiddenBySeller": false,
+      "explicitContent": false,
+      "livestreamLabels": null,
+      "streamService": null,
+      "trailerUrl": null,
+      "trailerThumbnailUrl": null,
+      "shippingSourceCountryCode": "US",
+      "isFreeShippingEnabled": null,
+      "buyerPaysMaxAmountForShipping": null,
+      "thumbnail": {
+       "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84M2E4NzNiNi04YTUzLTQ1Y2YtYWE1Mi04MTE0Yzk4OTA0ZDUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogODI4LCAiaGVpZ2h0IjogMTI4MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=bc34be9fa764f29c6c6ef2adbe5c773c722198ce58bec07aba9f6fccd90802a5"
+      },
+      "livestreamCategories": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+        "name": "pokemon_cards",
+        "label": "Pokémon Cards",
+        "deeplink": "tag/pokemon_cards"
+       }
+      ],
+      "categoryNodes": [
+       {
+        "id": "Q2F0ZWdvcnlOb2RlOjI=",
+        "type": "pokemon_cards",
+        "label": "Pokémon Cards"
+       }
+      ],
+      "tags": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjYwNTY=",
+        "name": "ascended_heroes",
+        "label": "Ascended Heroes"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTc=",
+        "name": "pokemon",
+        "label": "Pokémon"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MzMxMjQ=",
+        "name": "30th_anniversary_pokemon",
+        "label": "Pokemon 30th Anniversary"
+       }
+      ],
+      "sellerLanguage": {
+       "languageCode": "en",
+       "displayName": "English"
+      },
+      "user": {
+       "id": "11848495",
+       "username": "pokemonsuperstore",
+       "isLive": false,
+       "isVerifiedSeller": false,
+       "sellerRating": {
+        "overall": 4.9,
+        "numReviews": 38006
+       },
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExODQ4NDk1LzlkZDg2MmY0LTAyNDItNDMwNy1iZDBkLTk2MDU2OTI4OTU4Ni5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiBudWxsLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fX0=?signature=2037a92ed75688afa953e781664d300e0127b51b5e01cb5435384f812bd6a4ef"
+       },
+       "premierShopStatus": {
+        "isPremierShop": true
+       },
+       "sellerBadges": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "77a8a712-5186-44d1-9645-f5200d6e086c",
+      "title": "🇺🇸 🎉30TH CELEBRATION🎉RIP TILL YOU HIT!!! $1 STARTS!!!",
+      "status": "CREATED",
+      "startTime": 1791397910000.0,
+      "endTime": null,
+      "activeViewers": 0,
+      "totalWatchlistUsers": 33,
+      "isHiddenBySeller": false,
+      "explicitContent": false,
+      "livestreamLabels": null,
+      "streamService": null,
+      "trailerUrl": null,
+      "trailerThumbnailUrl": null,
+      "shippingSourceCountryCode": "US",
+      "isFreeShippingEnabled": null,
+      "buyerPaysMaxAmountForShipping": null,
+      "thumbnail": {
+       "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9kMzRkMjg1ZS03YWRkLTQ0MzQtOGQ0My0zYzJlOTZmZWI5YzkuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogODI4LCAiaGVpZ2h0IjogMTI4MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=200f2ed580b6d6009b1368900862fca13e85e5ae8cf69ade4081950582d15023"
+      },
+      "livestreamCategories": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+        "name": "pokemon_cards",
+        "label": "Pokémon Cards",
+        "deeplink": "tag/pokemon_cards"
+       }
+      ],
+      "categoryNodes": [
+       {
+        "id": "Q2F0ZWdvcnlOb2RlOjI=",
+        "type": "pokemon_cards",
+        "label": "Pokémon Cards"
+       }
+      ],
+      "tags": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjYwNTY=",
+        "name": "ascended_heroes",
+        "label": "Ascended Heroes"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTc=",
+        "name": "pokemon",
+        "label": "Pokémon"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MzMxMjQ=",
+        "name": "30th_anniversary_pokemon",
+        "label": "Pokemon 30th Anniversary"
+       }
+      ],
+      "sellerLanguage": {
+       "languageCode": "en",
+       "displayName": "English"
+      },
+      "user": {
+       "id": "11848495",
+       "username": "pokemonsuperstore",
+       "isLive": false,
+       "isVerifiedSeller": false,
+       "sellerRating": {
+        "overall": 4.9,
+        "numReviews": 38006
+       },
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExODQ4NDk1LzlkZDg2MmY0LTAyNDItNDMwNy1iZDBkLTk2MDU2OTI4OTU4Ni5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiBudWxsLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fX0=?signature=2037a92ed75688afa953e781664d300e0127b51b5e01cb5435384f812bd6a4ef"
+       },
+       "premierShopStatus": {
+        "isPremierShop": true
+       },
+       "sellerBadges": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "db195471-8ad5-4fc2-998f-f05eea3220fb",
+      "title": "🇺🇸 🎉30TH CELEBRATION🎉RIP TILL YOU HIT!!! $1 STARTS!!!",
+      "status": "CREATED",
+      "startTime": 1791484310000.0,
+      "endTime": null,
+      "activeViewers": 0,
+      "totalWatchlistUsers": 29,
+      "isHiddenBySeller": false,
+      "explicitContent": false,
+      "livestreamLabels": null,
+      "streamService": null,
+      "trailerUrl": null,
+      "trailerThumbnailUrl": null,
+      "shippingSourceCountryCode": "US",
+      "isFreeShippingEnabled": null,
+      "buyerPaysMaxAmountForShipping": null,
+      "thumbnail": {
+       "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9lYmFlYmU0Yy1hZWJhLTQ4ZjQtOGY3Mi1iYTc5NThjNzFiNDQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogODI4LCAiaGVpZ2h0IjogMTI4MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=551c3ed68c9e88e60bd89f8103bd989aeccd07820fd1d5e7bc490d4f160c13e4"
+      },
+      "livestreamCategories": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+        "name": "pokemon_cards",
+        "label": "Pokémon Cards",
+        "deeplink": "tag/pokemon_cards"
+       }
+      ],
+      "categoryNodes": [
+       {
+        "id": "Q2F0ZWdvcnlOb2RlOjI=",
+        "type": "pokemon_cards",
+        "label": "Pokémon Cards"
+       }
+      ],
+      "tags": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjYwNTY=",
+        "name": "ascended_heroes",
+        "label": "Ascended Heroes"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTc=",
+        "name": "pokemon",
+        "label": "Pokémon"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MzMxMjQ=",
+        "name": "30th_anniversary_pokemon",
+        "label": "Pokemon 30th Anniversary"
+       }
+      ],
+      "sellerLanguage": {
+       "languageCode": "en",
+       "displayName": "English"
+      },
+      "user": {
+       "id": "11848495",
+       "username": "pokemonsuperstore",
+       "isLive": false,
+       "isVerifiedSeller": false,
+       "sellerRating": {
+        "overall": 4.9,
+        "numReviews": 38006
+       },
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExODQ4NDk1LzlkZDg2MmY0LTAyNDItNDMwNy1iZDBkLTk2MDU2OTI4OTU4Ni5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiBudWxsLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fX0=?signature=2037a92ed75688afa953e781664d300e0127b51b5e01cb5435384f812bd6a4ef"
+       },
+       "premierShopStatus": {
+        "isPremierShop": true
+       },
+       "sellerBadges": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "48249388-419b-4593-9db8-cded486f3e09",
+      "title": "🇺🇸 🎉30TH CELEBRATION🎉RIP TILL YOU HIT!!! $1 STARTS!!!",
+      "status": "CREATED",
+      "startTime": 1791570710000.0,
+      "endTime": null,
+      "activeViewers": 0,
+      "totalWatchlistUsers": 27,
+      "isHiddenBySeller": false,
+      "explicitContent": false,
+      "livestreamLabels": null,
+      "streamService": null,
+      "trailerUrl": null,
+      "trailerThumbnailUrl": null,
+      "shippingSourceCountryCode": "US",
+      "isFreeShippingEnabled": null,
+      "buyerPaysMaxAmountForShipping": null,
+      "thumbnail": {
+       "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy84ZDgwNWIxMi0zMmNiLTRhMTQtOTE3Yi00ZjM3MTc0MzJjNGMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogODI4LCAiaGVpZ2h0IjogMTI4MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=171ecc393fe75f51f92f80baa7aea12bc3f1394447f42eda309454a4b0a7719a"
+      },
+      "livestreamCategories": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+        "name": "pokemon_cards",
+        "label": "Pokémon Cards",
+        "deeplink": "tag/pokemon_cards"
+       }
+      ],
+      "categoryNodes": [
+       {
+        "id": "Q2F0ZWdvcnlOb2RlOjI=",
+        "type": "pokemon_cards",
+        "label": "Pokémon Cards"
+       }
+      ],
+      "tags": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjYwNTY=",
+        "name": "ascended_heroes",
+        "label": "Ascended Heroes"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTc=",
+        "name": "pokemon",
+        "label": "Pokémon"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MzMxMjQ=",
+        "name": "30th_anniversary_pokemon",
+        "label": "Pokemon 30th Anniversary"
+       }
+      ],
+      "sellerLanguage": {
+       "languageCode": "en",
+       "displayName": "English"
+      },
+      "user": {
+       "id": "11848495",
+       "username": "pokemonsuperstore",
+       "isLive": false,
+       "isVerifiedSeller": false,
+       "sellerRating": {
+        "overall": 4.9,
+        "numReviews": 38006
+       },
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExODQ4NDk1LzlkZDg2MmY0LTAyNDItNDMwNy1iZDBkLTk2MDU2OTI4OTU4Ni5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiBudWxsLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fX0=?signature=2037a92ed75688afa953e781664d300e0127b51b5e01cb5435384f812bd6a4ef"
+       },
+       "premierShopStatus": {
+        "isPremierShop": true
+       },
+       "sellerBadges": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "d325f8f2-98bd-4fd7-828f-b036d96faeb4",
+      "title": "🇺🇸 🎉30TH CELEBRATION🎉RIP TILL YOU HIT!!! $1 STARTS!!!",
+      "status": "CREATED",
+      "startTime": 1791657110000.0,
+      "endTime": null,
+      "activeViewers": 0,
+      "totalWatchlistUsers": 27,
+      "isHiddenBySeller": false,
+      "explicitContent": false,
+      "livestreamLabels": null,
+      "streamService": null,
+      "trailerUrl": null,
+      "trailerThumbnailUrl": null,
+      "shippingSourceCountryCode": "US",
+      "isFreeShippingEnabled": null,
+      "buyerPaysMaxAmountForShipping": null,
+      "thumbnail": {
+       "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy9hMmUwZDM4Zi1jNTE4LTQ1ZDYtYThiMS0wNGM5YjNhYTUzMTAuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogODI4LCAiaGVpZ2h0IjogMTI4MCwgImZpdCI6ICJjb3ZlciIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX0sICJvdXRwdXRGb3JtYXQiOiAid2VicCJ9?signature=814c443f7a2a403b047425c3eb58d2f4977688c0f3710a4f6a44bd0890df6eb4"
+      },
+      "livestreamCategories": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+        "name": "pokemon_cards",
+        "label": "Pokémon Cards",
+        "deeplink": "tag/pokemon_cards"
+       }
+      ],
+      "categoryNodes": [
+       {
+        "id": "Q2F0ZWdvcnlOb2RlOjI=",
+        "type": "pokemon_cards",
+        "label": "Pokémon Cards"
+       }
+      ],
+      "tags": [
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjYwNTY=",
+        "name": "ascended_heroes",
+        "label": "Ascended Heroes"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTc=",
+        "name": "pokemon",
+        "label": "Pokémon"
+       },
+       {
+        "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MzMxMjQ=",
+        "name": "30th_anniversary_pokemon",
+        "label": "Pokemon 30th Anniversary"
+       }
+      ],
+      "sellerLanguage": {
+       "languageCode": "en",
+       "displayName": "English"
+      },
+      "user": {
+       "id": "11848495",
+       "username": "pokemonsuperstore",
+       "isLive": false,
+       "isVerifiedSeller": false,
+       "sellerRating": {
+        "overall": 4.9,
+        "numReviews": 38006
+       },
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExODQ4NDk1LzlkZDg2MmY0LTAyNDItNDMwNy1iZDBkLTk2MDU2OTI4OTU4Ni5wbmciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiBudWxsLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fX0=?signature=2037a92ed75688afa953e781664d300e0127b51b5e01cb5435384f812bd6a4ef"
+       },
+       "premierShopStatus": {
+        "isPremierShop": true
+       },
+       "sellerBadges": null
+      }
+     }
+    }
+   ]
+  }
+ }
+}

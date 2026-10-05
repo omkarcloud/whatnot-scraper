@@ -1,0 +1,290 @@
+{
+ "liveShop": {
+  "feed": {
+   "id": "LIVE_SHOP_FEED:eyJsaXZlc3RyZWFtX2lkIjogIjdlNjIyN2M1LWI5NDctNGJiMS1iNDcyLWE4MGJiZWQ3MGJkMCIsICJzZWFyY2hfcXVlcnkiOiBudWxsLCAiZmlsdGVycyI6IG51bGwsICJzb3J0IjogbnVsbCwgInNlbGxlcl9pZCI6IDExMzE1ODY2fQ==",
+   "objects": {
+    "totalCount": 1,
+    "pageInfo": {
+     "hasNextPage": false,
+     "endCursor": "NTo="
+    },
+    "edges": [
+     {
+      "node": {
+       "__typename": "Section",
+       "id": "HEADER_SECTION:PRODUCTS:7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+       "title": "Products",
+       "sectionType": "SHOP_PRODUCTS",
+       "contents": {
+        "totalCount": 1,
+        "edges": []
+       }
+      }
+     },
+     {
+      "node": {
+       "__typename": "FeedEntity",
+       "object": {
+        "__typename": "ListingNode",
+        "id": "TGlzdGluZ05vZGU6MTU2MTM5MTUxMQ==",
+        "title": "Article premium vu en live ! Taille en épinglé",
+        "subtitle": "",
+        "description": "Envois 24h - article authentique",
+        "publicStatus": "ACTIVE",
+        "transactionType": "AUCTION",
+        "quantity": 513,
+        "price": {
+         "amount": 100,
+         "currency": "EUR"
+        },
+        "compareAtPrice": null,
+        "currentBid": null,
+        "currentBidCount": null,
+        "isLive": true,
+        "livestreamStartTime": 1791185530822.235,
+        "activeLivestreamId": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+        "pendingPayment": false,
+        "shippingDetails": null,
+        "listingLabels": null,
+        "totalBookmarks": null,
+        "createdAt": "Tue, 10 Mar 2026 19:01:23 GMT",
+        "updatedAtMs": 1791194975167.0,
+        "images": [
+         {
+          "id": "UHJvZHVjdEltYWdlOjEwOTc2ODM5MTk=",
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpc3RpbmdzLzAtMjA0NTc5MjktN2Y4Zi00N2FlLTliYzUtMDExMjlmMGJkN2FhLTM1NTZjZTYzLWZkYWUtNGJkMS1iZGIyLWI5MGI5MDE0OTJjMC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=1f44a5f5280e3ccc050afc7056d25da9f108136c5b43898ad9c26779b4479d26",
+          "label": "20457929-7f8f-47ae-9bc5-01129f0bd7aa"
+         }
+        ],
+        "user": {
+         "id": "UHVibGljVXNlck5vZGU6MTEzMTU4NjY=",
+         "username": "saw2hands",
+         "isLive": true,
+         "isVerifiedSeller": false,
+         "sellerRating": {
+          "overall": 4.7,
+          "numReviews": 32078
+         },
+         "profileImage": {
+          "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExMzE1ODY2LzVhNmM4MjBlLTIwMWMtNDdhMy05NDZkLWI5Y2NmNTY4OWNiMy5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=c60fe10e9a7b2e2443e273f766bc5c47b924cf7821d4d1b648686ce8e4eb0f68"
+         },
+         "premierShopStatus": {
+          "isPremierShop": false
+         },
+         "sellerBadges": null
+        },
+        "product": {
+         "id": "UHJvZHVjdE5vZGU6NDA2MDY5NTY4",
+         "priceRange": null
+        },
+        "break": null,
+        "variants": null,
+        "activeTimedListingEvent": null,
+        "upcomingTimedListingEvent": null,
+        "salesChannels": [
+         {
+          "id": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+          "channelId": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+          "meta": {
+           "id": "4a548817-9c08-49a9-8afa-d1052731a5a2",
+           "type": "LIVESTREAM_PRODUCT_ID"
+          }
+         }
+        ],
+        "productId": "406069568",
+        "structure": "INDIVIDUAL_ITEM",
+        "videos": [],
+        "transactionProps": {
+         "isOfferable": false,
+         "offers": null,
+         "auction": null,
+         "giveaway": {
+          "onlyFollowers": false,
+          "onlyDomestic": true,
+          "buyerAppreciation": false
+         }
+        },
+        "liveAuction": null,
+        "breakSpot": null,
+        "sellingMechanic": null
+       }
+      }
+     },
+     {
+      "node": {
+       "__typename": "Section",
+       "id": "GIVEAWAYS_SECTION:7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+       "title": "Upcoming Giveaways",
+       "sectionType": "SHOP_GIVEAWAYS",
+       "contents": {
+        "totalCount": 2,
+        "edges": [
+         {
+          "node": {
+           "__typename": "ListingNode",
+           "id": "TGlzdGluZ05vZGU6MjM5NDM1OTQ4MQ==",
+           "title": "GIVE ABO",
+           "subtitle": "",
+           "description": "",
+           "publicStatus": "ACTIVE",
+           "transactionType": "GIVEAWAY",
+           "quantity": 11,
+           "price": {
+            "amount": 0,
+            "currency": "EUR"
+           },
+           "compareAtPrice": null,
+           "currentBid": null,
+           "currentBidCount": null,
+           "isLive": true,
+           "livestreamStartTime": 1791185530822.235,
+           "activeLivestreamId": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+           "pendingPayment": false,
+           "shippingDetails": null,
+           "listingLabels": null,
+           "totalBookmarks": null,
+           "createdAt": "Mon, 05 Oct 2026 06:07:51 GMT",
+           "updatedAtMs": 1791194799339.0,
+           "images": [],
+           "user": {
+            "id": "UHVibGljVXNlck5vZGU6MTEzMTU4NjY=",
+            "username": "saw2hands",
+            "isLive": true,
+            "isVerifiedSeller": false,
+            "sellerRating": {
+             "overall": 4.7,
+             "numReviews": 32078
+            },
+            "profileImage": {
+             "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExMzE1ODY2LzVhNmM4MjBlLTIwMWMtNDdhMy05NDZkLWI5Y2NmNTY4OWNiMy5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=c60fe10e9a7b2e2443e273f766bc5c47b924cf7821d4d1b648686ce8e4eb0f68"
+            },
+            "premierShopStatus": {
+             "isPremierShop": false
+            },
+            "sellerBadges": null
+           },
+           "product": {
+            "id": "UHJvZHVjdE5vZGU6NjI3MDY2OTk2",
+            "priceRange": null
+           },
+           "break": null,
+           "variants": null,
+           "activeTimedListingEvent": null,
+           "upcomingTimedListingEvent": null,
+           "salesChannels": [
+            {
+             "id": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+             "channelId": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+             "meta": {
+              "id": "627bb01b-cc6e-4df9-bef0-6569acc062c8",
+              "type": "LIVESTREAM_PRODUCT_ID"
+             }
+            }
+           ],
+           "productId": "627066996",
+           "structure": "INDIVIDUAL_ITEM",
+           "videos": [],
+           "transactionProps": {
+            "isOfferable": null,
+            "offers": null,
+            "auction": null,
+            "giveaway": {
+             "onlyFollowers": true,
+             "onlyDomestic": false,
+             "buyerAppreciation": false
+            }
+           },
+           "liveAuction": null,
+           "breakSpot": null,
+           "sellingMechanic": null
+          }
+         },
+         {
+          "node": {
+           "__typename": "ListingNode",
+           "id": "TGlzdGluZ05vZGU6MjM5NDM2MDA0Ng==",
+           "title": "GIVE ACHETEUR",
+           "subtitle": "",
+           "description": "",
+           "publicStatus": "ACTIVE",
+           "transactionType": "GIVEAWAY",
+           "quantity": 1,
+           "price": {
+            "amount": 0,
+            "currency": "EUR"
+           },
+           "compareAtPrice": null,
+           "currentBid": null,
+           "currentBidCount": null,
+           "isLive": true,
+           "livestreamStartTime": 1791185530822.235,
+           "activeLivestreamId": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+           "pendingPayment": false,
+           "shippingDetails": null,
+           "listingLabels": null,
+           "totalBookmarks": null,
+           "createdAt": "Mon, 05 Oct 2026 06:08:12 GMT",
+           "updatedAtMs": 1791180492418.0,
+           "images": [],
+           "user": {
+            "id": "UHVibGljVXNlck5vZGU6MTEzMTU4NjY=",
+            "username": "saw2hands",
+            "isLive": true,
+            "isVerifiedSeller": false,
+            "sellerRating": {
+             "overall": 4.7,
+             "numReviews": 32078
+            },
+            "profileImage": {
+             "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzExMzE1ODY2LzVhNmM4MjBlLTIwMWMtNDdhMy05NDZkLWI5Y2NmNTY4OWNiMy5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=c60fe10e9a7b2e2443e273f766bc5c47b924cf7821d4d1b648686ce8e4eb0f68"
+            },
+            "premierShopStatus": {
+             "isPremierShop": false
+            },
+            "sellerBadges": null
+           },
+           "product": {
+            "id": "UHJvZHVjdE5vZGU6NjI3MDY3MTg0",
+            "priceRange": null
+           },
+           "break": null,
+           "variants": null,
+           "activeTimedListingEvent": null,
+           "upcomingTimedListingEvent": null,
+           "salesChannels": [
+            {
+             "id": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+             "channelId": "7e6227c5-b947-4bb1-b472-a80bbed70bd0",
+             "meta": {
+              "id": "2d30530e-4ab9-42f4-92eb-434531235589",
+              "type": "LIVESTREAM_PRODUCT_ID"
+             }
+            }
+           ],
+           "productId": "627067184",
+           "structure": "INDIVIDUAL_ITEM",
+           "videos": [],
+           "transactionProps": {
+            "isOfferable": null,
+            "offers": null,
+            "auction": null,
+            "giveaway": {
+             "onlyFollowers": false,
+             "onlyDomestic": false,
+             "buyerAppreciation": true
+            }
+           },
+           "liveAuction": null,
+           "breakSpot": null,
+           "sellingMechanic": null
+          }
+         }
+        ]
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

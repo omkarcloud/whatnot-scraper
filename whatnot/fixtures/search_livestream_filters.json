@@ -1,0 +1,2151 @@
+{
+ "search": {
+  "id": "LIVESTREAM_SEARCH_FEED:eyJzZWFyY2hfcXVlcnkiOiAicG9rZW1vbiIsICJyZWZlcnJpbmdfc291cmNlIjogbnVsbCwgInNlYXJjaF9maWx0ZXJzIjogbnVsbCwgInNvcnRfZmllbGQiOiBudWxsLCAic29ydF9kaXJlY3Rpb24iOiBudWxsLCAic2VsbGVyX3VzZXJfaWQiOiBudWxsLCAic2VhcmNoX2xvY2F0aW9uIjogbnVsbCwgImNhdGVnb3J5X2lkcyI6IG51bGwsICJxdWVyeV9yZWNvbW1lbmRhdGlvbl9pZCI6IG51bGwsICJ1c2VzX2NhdGVnb3JpemF0aW9uX3RhZ3MiOiBmYWxzZSwgInZpZXdpbmdfZmVlZF9pZCI6IG51bGx9",
+  "searchParams": {
+   "vertical": "LIVESTREAM",
+   "spellingCorrection": null
+  },
+  "filterAndSortOptions": {
+   "filters": [
+    {
+     "field": "categories.keyword",
+     "displayField": "Category",
+     "displayStyle": "NESTED_LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Trading Card Games",
+        "displaySublabelValue": null,
+        "value": "t__899",
+        "section": null,
+        "numResults": 101370,
+        "directDescendantValues": [
+         "t__907",
+         "t__968",
+         "t__913",
+         "t__24149",
+         "t__24145",
+         "t__987",
+         "t__940",
+         "t__1039",
+         "t__914",
+         "t__906",
+         "t__24148",
+         "t__8865",
+         "t__24146",
+         "t__10735",
+         "t__33568",
+         "t__916",
+         "t__896",
+         "t__927",
+         "t__1020",
+         "t__10024",
+         "t__923"
+        ]
+       },
+       {
+        "displayValue": "Pokémon Cards",
+        "displaySublabelValue": null,
+        "value": "t__907",
+        "section": null,
+        "numResults": 100265,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Estate Sales & Storage Units",
+        "displaySublabelValue": null,
+        "value": "t__1100",
+        "section": null,
+        "numResults": 2316,
+        "directDescendantValues": [
+         "t__944",
+         "t__921",
+         "t__1026",
+         "t__1012"
+        ]
+       },
+       {
+        "displayValue": "Storage Unit Finds",
+        "displaySublabelValue": null,
+        "value": "t__944",
+        "section": null,
+        "numResults": 2106,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Arts & Handmade",
+        "displaySublabelValue": null,
+        "value": "t__1113",
+        "section": null,
+        "numResults": 925,
+        "directDescendantValues": [
+         "t__1060",
+         "t__26579",
+         "t__26583",
+         "t__902",
+         "t__1071",
+         "t__982",
+         "t__1112",
+         "t__26581",
+         "t__27213",
+         "t__1314",
+         "t__26578",
+         "t__26580",
+         "t__27214",
+         "t__4075",
+         "t__26584",
+         "t__27212"
+        ]
+       },
+       {
+        "displayValue": "Sports Cards",
+        "displaySublabelValue": null,
+        "value": "t__1072",
+        "section": null,
+        "numResults": 760,
+        "directDescendantValues": [
+         "t__960",
+         "t__939",
+         "t__908",
+         "t__947",
+         "t__1040",
+         "t__953",
+         "t__112",
+         "t__941",
+         "t__29602",
+         "t__1067",
+         "t__35241",
+         "t__32590",
+         "t__17211",
+         "t__901",
+         "t__900"
+        ]
+       },
+       {
+        "displayValue": "Toys & Hobbies",
+        "displaySublabelValue": null,
+        "value": "t__58",
+        "section": null,
+        "numResults": 717,
+        "directDescendantValues": [
+         "t__1768",
+         "t__56",
+         "t__959",
+         "t__903",
+         "t__1065",
+         "t__920",
+         "t__13201",
+         "t__957",
+         "t__1099",
+         "t__986",
+         "t__988",
+         "t__57",
+         "t__26126",
+         "t__1108",
+         "t__1104",
+         "t__911",
+         "t__3756",
+         "t__13609",
+         "t__1023",
+         "t__26129",
+         "t__35613",
+         "t__23549",
+         "t__1080",
+         "t__958",
+         "t__28901",
+         "t__1107",
+         "t__1086"
+        ]
+       },
+       {
+        "displayValue": "Anime & Manga",
+        "displaySublabelValue": null,
+        "value": "t__938",
+        "section": null,
+        "numResults": 708,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Art & Prints",
+        "displaySublabelValue": null,
+        "value": "t__1060",
+        "section": null,
+        "numResults": 590,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Football Cards",
+        "displaySublabelValue": null,
+        "value": "t__960",
+        "section": null,
+        "numResults": 520,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "One Piece Cards",
+        "displaySublabelValue": null,
+        "value": "t__968",
+        "section": null,
+        "numResults": 478,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Entertainment Cards",
+        "displaySublabelValue": null,
+        "value": "t__24150",
+        "section": null,
+        "numResults": 430,
+        "directDescendantValues": [
+         "t__24152",
+         "t__979",
+         "t__1317",
+         "t__925",
+         "t__985",
+         "t__24151"
+        ]
+       },
+       {
+        "displayValue": "Other Entertainment Cards",
+        "displaySublabelValue": null,
+        "value": "t__24152",
+        "section": null,
+        "numResults": 317,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "3D Prints",
+        "displaySublabelValue": null,
+        "value": "t__26579",
+        "section": null,
+        "numResults": 205,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Dragon Ball Cards",
+        "displaySublabelValue": null,
+        "value": "t__913",
+        "section": null,
+        "numResults": 169,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Slime & Squishy Toys",
+        "displaySublabelValue": null,
+        "value": "t__1768",
+        "section": null,
+        "numResults": 163,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other TCG",
+        "displaySublabelValue": null,
+        "value": "t__906",
+        "section": null,
+        "numResults": 146,
+        "directDescendantValues": [
+         "t__24149",
+         "t__24146",
+         "t__923",
+         "t__916",
+         "t__927",
+         "t__1020",
+         "t__10024",
+         "t__896"
+        ]
+       },
+       {
+        "displayValue": "Wholesale & Deals",
+        "displaySublabelValue": null,
+        "value": "t__16725",
+        "section": null,
+        "numResults": 143,
+        "directDescendantValues": [
+         "t__897",
+         "t__16726",
+         "t__13541"
+        ]
+       },
+       {
+        "displayValue": "Other TCG",
+        "displaySublabelValue": null,
+        "value": "t__24149",
+        "section": null,
+        "numResults": 132,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Lorcana",
+        "displaySublabelValue": null,
+        "value": "t__24145",
+        "section": null,
+        "numResults": 120,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Video Games",
+        "displaySublabelValue": null,
+        "value": "t__965",
+        "section": null,
+        "numResults": 114,
+        "directDescendantValues": [
+         "t__991",
+         "t__1004",
+         "t__1009",
+         "t__971"
+        ]
+       },
+       {
+        "displayValue": "Electronics",
+        "displaySublabelValue": null,
+        "value": "t__942",
+        "section": null,
+        "numResults": 111,
+        "directDescendantValues": [
+         "t__524",
+         "t__25380",
+         "t__1028",
+         "t__974",
+         "t__28138"
+        ]
+       },
+       {
+        "displayValue": "Plush",
+        "displaySublabelValue": null,
+        "value": "t__56",
+        "section": null,
+        "numResults": 102,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Estate Sales & Storage Units",
+        "displaySublabelValue": null,
+        "value": "t__921",
+        "section": null,
+        "numResults": 101,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Retro Games",
+        "displaySublabelValue": null,
+        "value": "t__991",
+        "section": null,
+        "numResults": 96,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Deal Hunting",
+        "displaySublabelValue": null,
+        "value": "t__897",
+        "section": null,
+        "numResults": 90,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Tools",
+        "displaySublabelValue": null,
+        "value": "t__524",
+        "section": null,
+        "numResults": 88,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Toys",
+        "displaySublabelValue": null,
+        "value": "t__959",
+        "section": null,
+        "numResults": 81,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Garage Sales",
+        "displaySublabelValue": null,
+        "value": "t__1026",
+        "section": null,
+        "numResults": 76,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Funko",
+        "displaySublabelValue": null,
+        "value": "t__903",
+        "section": null,
+        "numResults": 75,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Yu-Gi-Oh! Cards",
+        "displaySublabelValue": null,
+        "value": "t__987",
+        "section": null,
+        "numResults": 71,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Coins & Money",
+        "displaySublabelValue": null,
+        "value": "t__966",
+        "section": null,
+        "numResults": 69,
+        "directDescendantValues": [
+         "t__905",
+         "t__955",
+         "t__26972",
+         "t__26971"
+        ]
+       },
+       {
+        "displayValue": "Coins & Bullion",
+        "displaySublabelValue": null,
+        "value": "t__905",
+        "section": null,
+        "numResults": 64,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "and Whatnot",
+        "displaySublabelValue": null,
+        "value": "t__936",
+        "section": null,
+        "numResults": 64,
+        "directDescendantValues": [
+         "t__915",
+         "t__5512",
+         "t__31406"
+        ]
+       },
+       {
+        "displayValue": "Other Sports Cards",
+        "displaySublabelValue": null,
+        "value": "t__939",
+        "section": null,
+        "numResults": 61,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Action Figures",
+        "displaySublabelValue": null,
+        "value": "t__1065",
+        "section": null,
+        "numResults": 61,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Books & Movies",
+        "displaySublabelValue": null,
+        "value": "t__20688",
+        "section": null,
+        "numResults": 60,
+        "directDescendantValues": [
+         "t__28140",
+         "t__1022",
+         "t__1111"
+        ]
+       },
+       {
+        "displayValue": "Baseball Cards",
+        "displaySublabelValue": null,
+        "value": "t__908",
+        "section": null,
+        "numResults": 57,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Movie Memorabilia",
+        "displaySublabelValue": null,
+        "value": "t__28140",
+        "section": null,
+        "numResults": 57,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Everything Else",
+        "displaySublabelValue": null,
+        "value": "t__915",
+        "section": null,
+        "numResults": 54,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Stickers",
+        "displaySublabelValue": null,
+        "value": "t__26583",
+        "section": null,
+        "numResults": 53,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Beads, Pens & Keychains",
+        "displaySublabelValue": null,
+        "value": "t__902",
+        "section": null,
+        "numResults": 51,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Disney",
+        "displaySublabelValue": null,
+        "value": "t__920",
+        "section": null,
+        "numResults": 47,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Case Packs & Bundles",
+        "displaySublabelValue": null,
+        "value": "t__16726",
+        "section": null,
+        "numResults": 47,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Basketball Cards",
+        "displaySublabelValue": null,
+        "value": "t__947",
+        "section": null,
+        "numResults": 46,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Labubu & Blind Boxes",
+        "displaySublabelValue": null,
+        "value": "t__13201",
+        "section": null,
+        "numResults": 39,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Garbage Pail Kids",
+        "displaySublabelValue": null,
+        "value": "t__979",
+        "section": null,
+        "numResults": 35,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Magic: The Gathering",
+        "displaySublabelValue": null,
+        "value": "t__940",
+        "section": null,
+        "numResults": 34,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "NASCAR Cards",
+        "displaySublabelValue": null,
+        "value": "t__1040",
+        "section": null,
+        "numResults": 34,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Motorsport Cards",
+        "displaySublabelValue": null,
+        "value": "t__1067",
+        "section": null,
+        "numResults": 34,
+        "directDescendantValues": [
+         "t__1040",
+         "t__900"
+        ]
+       },
+       {
+        "displayValue": "Estate Sales",
+        "displaySublabelValue": null,
+        "value": "t__1012",
+        "section": null,
+        "numResults": 33,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Models & Kits",
+        "displaySublabelValue": null,
+        "value": "t__957",
+        "section": null,
+        "numResults": 32,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Men's Fashion",
+        "displaySublabelValue": null,
+        "value": "t__937",
+        "section": null,
+        "numResults": 31,
+        "directDescendantValues": [
+         "t__1098",
+         "t__1045",
+         "t__1076",
+         "t__14191",
+         "t__990",
+         "t__28491",
+         "t__23620",
+         "t__27379"
+        ]
+       },
+       {
+        "displayValue": "LEGO",
+        "displaySublabelValue": null,
+        "value": "t__1099",
+        "section": null,
+        "numResults": 31,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Kawaii",
+        "displaySublabelValue": null,
+        "value": "t__986",
+        "section": null,
+        "numResults": 30,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Marvel Cards",
+        "displaySublabelValue": null,
+        "value": "t__925",
+        "section": null,
+        "numResults": 28,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Streetwear",
+        "displaySublabelValue": null,
+        "value": "t__1098",
+        "section": null,
+        "numResults": 28,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Disney Cards",
+        "displaySublabelValue": null,
+        "value": "t__1317",
+        "section": null,
+        "numResults": 28,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Crystals & Gems",
+        "displaySublabelValue": null,
+        "value": "t__119",
+        "section": null,
+        "numResults": 27,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Rocks & Crystals",
+        "displaySublabelValue": null,
+        "value": "t__984",
+        "section": null,
+        "numResults": 27,
+        "directDescendantValues": [
+         "t__119",
+         "t__1041",
+         "t__983",
+         "t__30995"
+        ]
+       },
+       {
+        "displayValue": "Nails",
+        "displaySublabelValue": null,
+        "value": "t__542",
+        "section": null,
+        "numResults": 21,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Beauty",
+        "displaySublabelValue": null,
+        "value": "t__946",
+        "section": null,
+        "numResults": 21,
+        "directDescendantValues": [
+         "t__542",
+         "t__26974",
+         "t__1316",
+         "t__540",
+         "t__26973",
+         "t__29735",
+         "t__543",
+         "t__1036"
+        ]
+       },
+       {
+        "displayValue": "Comics",
+        "displaySublabelValue": null,
+        "value": "t__4900",
+        "section": null,
+        "numResults": 21,
+        "directDescendantValues": [
+         "t__21555",
+         "t__21556"
+        ]
+       },
+       {
+        "displayValue": "Vintage Toys",
+        "displaySublabelValue": null,
+        "value": "t__988",
+        "section": null,
+        "numResults": 20,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Sneakers",
+        "displaySublabelValue": null,
+        "value": "t__1035",
+        "section": null,
+        "numResults": 19,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Sneakers & Shoes",
+        "displaySublabelValue": null,
+        "value": "t__956",
+        "section": null,
+        "numResults": 19,
+        "directDescendantValues": [
+         "t__1035"
+        ]
+       },
+       {
+        "displayValue": "Naruto Cards",
+        "displaySublabelValue": null,
+        "value": "t__1039",
+        "section": null,
+        "numResults": 19,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Arts & Handmade",
+        "displaySublabelValue": null,
+        "value": "t__1071",
+        "section": null,
+        "numResults": 19,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Soccer Cards",
+        "displaySublabelValue": null,
+        "value": "t__953",
+        "section": null,
+        "numResults": 18,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Modern Games",
+        "displaySublabelValue": null,
+        "value": "t__1004",
+        "section": null,
+        "numResults": 18,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Weiß Schwarz",
+        "displaySublabelValue": null,
+        "value": "t__914",
+        "section": null,
+        "numResults": 16,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Modern Comics",
+        "displaySublabelValue": null,
+        "value": "t__21555",
+        "section": null,
+        "numResults": 16,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Antiques & Vintage Decor",
+        "displaySublabelValue": null,
+        "value": "t__1032",
+        "section": null,
+        "numResults": 13,
+        "directDescendantValues": [
+         "t__948",
+         "t__1027",
+         "t__165",
+         "t__22381"
+        ]
+       },
+       {
+        "displayValue": "Star Wars Cards",
+        "displaySublabelValue": null,
+        "value": "t__985",
+        "section": null,
+        "numResults": 13,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Wrestling Cards",
+        "displaySublabelValue": null,
+        "value": "t__112",
+        "section": null,
+        "numResults": 12,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Hockey Cards",
+        "displaySublabelValue": null,
+        "value": "t__941",
+        "section": null,
+        "numResults": 12,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Laptops, Phones & Tablets",
+        "displaySublabelValue": null,
+        "value": "t__25380",
+        "section": null,
+        "numResults": 12,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Everyday Electronics",
+        "displaySublabelValue": null,
+        "value": "t__1028",
+        "section": null,
+        "numResults": 11,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Bags & Accessories",
+        "displaySublabelValue": null,
+        "value": "t__1038",
+        "section": null,
+        "numResults": 10,
+        "directDescendantValues": [
+         "t__1096",
+         "t__969",
+         "t__931",
+         "t__25919",
+         "t__28868"
+        ]
+       },
+       {
+        "displayValue": "Outdoors",
+        "displaySublabelValue": null,
+        "value": "t__16724",
+        "section": null,
+        "numResults": 10,
+        "directDescendantValues": [
+         "t__1359",
+         "t__1097",
+         "t__16517",
+         "t__1075"
+        ]
+       },
+       {
+        "displayValue": "Community",
+        "displaySublabelValue": null,
+        "value": "t__5512",
+        "section": null,
+        "numResults": 10,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Handcrafted Jewelry",
+        "displaySublabelValue": null,
+        "value": "t__1025",
+        "section": null,
+        "numResults": 9,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Jewelry & Watches",
+        "displaySublabelValue": null,
+        "value": "t__488",
+        "section": null,
+        "numResults": 9,
+        "directDescendantValues": [
+         "t__1025",
+         "t__1010",
+         "t__1007",
+         "t__27381",
+         "t__590",
+         "t__277",
+         "t__1024",
+         "t__27621",
+         "t__27380"
+        ]
+       },
+       {
+        "displayValue": "Knives & EDC",
+        "displaySublabelValue": null,
+        "value": "t__1359",
+        "section": null,
+        "numResults": 9,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "TV & Movie Cards",
+        "displaySublabelValue": null,
+        "value": "t__24151",
+        "section": null,
+        "numResults": 9,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Music Memorabilia",
+        "displaySublabelValue": null,
+        "value": "t__930",
+        "section": null,
+        "numResults": 8,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Music",
+        "displaySublabelValue": null,
+        "value": "t__976",
+        "section": null,
+        "numResults": 8,
+        "directDescendantValues": [
+         "t__930",
+         "t__963",
+         "t__970",
+         "t__973",
+         "t__929"
+        ]
+       },
+       {
+        "displayValue": "Ephemera",
+        "displaySublabelValue": null,
+        "value": "t__948",
+        "section": null,
+        "numResults": 8,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Sports Memorabilia",
+        "displaySublabelValue": null,
+        "value": "t__918",
+        "section": null,
+        "numResults": 8,
+        "directDescendantValues": [
+         "t__1017",
+         "t__1013",
+         "t__926",
+         "t__1016",
+         "t__1594"
+        ]
+       },
+       {
+        "displayValue": "Luxury Bags & Accessories",
+        "displaySublabelValue": null,
+        "value": "t__1096",
+        "section": null,
+        "numResults": 8,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baseball Memorabilia",
+        "displaySublabelValue": null,
+        "value": "t__1017",
+        "section": null,
+        "numResults": 7,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Loungefly",
+        "displaySublabelValue": null,
+        "value": "t__57",
+        "section": null,
+        "numResults": 6,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Home Decor",
+        "displaySublabelValue": null,
+        "value": "t__490",
+        "section": null,
+        "numResults": 6,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Home & Garden",
+        "displaySublabelValue": null,
+        "value": "t__1029",
+        "section": null,
+        "numResults": 6,
+        "directDescendantValues": [
+         "t__490",
+         "t__1021",
+         "t__4074",
+         "t__9556",
+         "t__3688",
+         "t__1102",
+         "t__1042"
+        ]
+       },
+       {
+        "displayValue": "Pallets",
+        "displaySublabelValue": null,
+        "value": "t__13541",
+        "section": null,
+        "numResults": 6,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Paper Money & Currency",
+        "displaySublabelValue": null,
+        "value": "t__955",
+        "section": null,
+        "numResults": 5,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Knitting & Crochet",
+        "displaySublabelValue": null,
+        "value": "t__982",
+        "section": null,
+        "numResults": 5,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Vintage Comics",
+        "displaySublabelValue": null,
+        "value": "t__21556",
+        "section": null,
+        "numResults": 5,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Riftbound",
+        "displaySublabelValue": null,
+        "value": "t__24148",
+        "section": null,
+        "numResults": 5,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Coffee & Tea",
+        "displaySublabelValue": null,
+        "value": "t__25916",
+        "section": null,
+        "numResults": 5,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Food & Drink",
+        "displaySublabelValue": null,
+        "value": "t__18239",
+        "section": null,
+        "numResults": 5,
+        "directDescendantValues": [
+         "t__25916",
+         "t__22827",
+         "t__919",
+         "t__29990",
+         "t__24529",
+         "t__26195",
+         "t__22826",
+         "t__26508",
+         "t__26507",
+         "t__26506"
+        ]
+       },
+       {
+        "displayValue": "VeeFriends",
+        "displaySublabelValue": null,
+        "value": "t__8865",
+        "section": null,
+        "numResults": 4,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Gundam Cards",
+        "displaySublabelValue": null,
+        "value": "t__24146",
+        "section": null,
+        "numResults": 4,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Movies",
+        "displaySublabelValue": null,
+        "value": "t__1022",
+        "section": null,
+        "numResults": 3,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Vintage Decor",
+        "displaySublabelValue": null,
+        "value": "t__1027",
+        "section": null,
+        "numResults": 3,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baby & Kids Toys",
+        "displaySublabelValue": null,
+        "value": "t__26126",
+        "section": null,
+        "numResults": 3,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baby & Kids Clothes",
+        "displaySublabelValue": null,
+        "value": "t__26502",
+        "section": null,
+        "numResults": 3,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Baby & Kids",
+        "displaySublabelValue": null,
+        "value": "t__1110",
+        "section": null,
+        "numResults": 3,
+        "directDescendantValues": [
+         "t__26502",
+         "t__26504",
+         "t__26503"
+        ]
+       },
+       {
+        "displayValue": "Antiques",
+        "displaySublabelValue": null,
+        "value": "t__165",
+        "section": null,
+        "numResults": 2,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Designer Toys",
+        "displaySublabelValue": null,
+        "value": "t__911",
+        "section": null,
+        "numResults": 2,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Bags & Accessories",
+        "displaySublabelValue": null,
+        "value": "t__969",
+        "section": null,
+        "numResults": 2,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Men's Fashion",
+        "displaySublabelValue": null,
+        "value": "t__1045",
+        "section": null,
+        "numResults": 2,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Dolls",
+        "displaySublabelValue": null,
+        "value": "t__1104",
+        "section": null,
+        "numResults": 2,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Diecast",
+        "displaySublabelValue": null,
+        "value": "t__1108",
+        "section": null,
+        "numResults": 2,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Star Wars Toys",
+        "displaySublabelValue": null,
+        "value": "t__3756",
+        "section": null,
+        "numResults": 2,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Other Sports Memorabilia",
+        "displaySublabelValue": null,
+        "value": "t__1013",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "FigPin",
+        "displaySublabelValue": null,
+        "value": "t__1023",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Men's Vintage Clothing",
+        "displaySublabelValue": null,
+        "value": "t__1076",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Hunting & Fishing",
+        "displaySublabelValue": null,
+        "value": "t__1097",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Quilting, Sewing & Fabrics",
+        "displaySublabelValue": null,
+        "value": "t__1112",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Union Arena",
+        "displaySublabelValue": null,
+        "value": "t__10735",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Sonny Angels & Smiskis",
+        "displaySublabelValue": null,
+        "value": "t__13609",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Littlest Pet Shop",
+        "displaySublabelValue": null,
+        "value": "t__26129",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       },
+       {
+        "displayValue": "Scrapbook & Journaling",
+        "displaySublabelValue": null,
+        "value": "t__26581",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": []
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "status",
+     "displayField": "Time of Show",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Live",
+        "displaySublabelValue": null,
+        "value": "PLAYING",
+        "section": null,
+        "numResults": 305,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Upcoming",
+        "displaySublabelValue": null,
+        "value": "CREATED",
+        "section": null,
+        "numResults": 107688,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "showFormats.keyword",
+     "displayField": "Show Format",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Auction",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_auction",
+        "section": null,
+        "numResults": 4429,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Breaks",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_breaks",
+        "section": null,
+        "numResults": 21517,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Buy It Now",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_buy_it_now",
+        "section": null,
+        "numResults": 891,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Graded",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_graded",
+        "section": null,
+        "numResults": 1,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Singles",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_singles",
+        "section": null,
+        "numResults": 66288,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Surprise Sets",
+        "displaySublabelValue": null,
+        "value": "primary_show_format_mystery_bags",
+        "section": null,
+        "numResults": 14844,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "inferredAndExplicitTagIds",
+     "displayField": "Tag",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Pokémon",
+        "displaySublabelValue": null,
+        "value": "97",
+        "section": null,
+        "numResults": 51369,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "$1 Starts",
+        "displaySublabelValue": null,
+        "value": "2290",
+        "section": null,
+        "numResults": 41364,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Vintage",
+        "displaySublabelValue": null,
+        "value": "33",
+        "section": null,
+        "numResults": 27565,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Sudden Death",
+        "displaySublabelValue": null,
+        "value": "2659",
+        "section": null,
+        "numResults": 26524,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Graded Cards",
+        "displaySublabelValue": null,
+        "value": "16",
+        "section": null,
+        "numResults": 14541,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pokemon 30th Anniversary",
+        "displaySublabelValue": null,
+        "value": "33124",
+        "section": null,
+        "numResults": 12107,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pokemon 151",
+        "displaySublabelValue": null,
+        "value": "1403",
+        "section": null,
+        "numResults": 10418,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Ascended Heroes",
+        "displaySublabelValue": null,
+        "value": "26056",
+        "section": null,
+        "numResults": 7944,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Slabs",
+        "displaySublabelValue": null,
+        "value": "1",
+        "section": null,
+        "numResults": 7328,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fan Art",
+        "displaySublabelValue": null,
+        "value": "637",
+        "section": null,
+        "numResults": 6160,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Prismatic Evolutions",
+        "displaySublabelValue": null,
+        "value": "19488",
+        "section": null,
+        "numResults": 5012,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Destined Rivals",
+        "displaySublabelValue": null,
+        "value": "19487",
+        "section": null,
+        "numResults": 3492,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Rip Till You Hit",
+        "displaySublabelValue": null,
+        "value": "13194",
+        "section": null,
+        "numResults": 2164,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "One Piece",
+        "displaySublabelValue": null,
+        "value": "4514",
+        "section": null,
+        "numResults": 1614,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Whatnot Card Show 9",
+        "displaySublabelValue": null,
+        "value": "2717",
+        "section": null,
+        "numResults": 1601,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Elite Trainer Box",
+        "displaySublabelValue": null,
+        "value": "20365",
+        "section": null,
+        "numResults": 1380,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Japanese",
+        "displaySublabelValue": null,
+        "value": "312",
+        "section": null,
+        "numResults": 1345,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "New Release",
+        "displaySublabelValue": null,
+        "value": "2661",
+        "section": null,
+        "numResults": 1134,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raw Cards",
+        "displaySublabelValue": null,
+        "value": "11",
+        "section": null,
+        "numResults": 1031,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Anime",
+        "displaySublabelValue": null,
+        "value": "4",
+        "section": null,
+        "numResults": 985,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pitch Black",
+        "displaySublabelValue": null,
+        "value": "31809",
+        "section": null,
+        "numResults": 984,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Grails",
+        "displaySublabelValue": null,
+        "value": "6",
+        "section": null,
+        "numResults": 876,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Black Bolt & White Flare",
+        "displaySublabelValue": null,
+        "value": "20074",
+        "section": null,
+        "numResults": 670,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Chaos Rising",
+        "displaySublabelValue": null,
+        "value": "29802",
+        "section": null,
+        "numResults": 592,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Shop from Japan",
+        "displaySublabelValue": null,
+        "value": "32693",
+        "section": null,
+        "numResults": 568,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gaming",
+        "displaySublabelValue": null,
+        "value": "3199",
+        "section": null,
+        "numResults": 545,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Playing Cards",
+        "displaySublabelValue": null,
+        "value": "33849",
+        "section": null,
+        "numResults": 504,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Dragon Ball",
+        "displaySublabelValue": null,
+        "value": "2822",
+        "section": null,
+        "numResults": 502,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Stickers",
+        "displaySublabelValue": null,
+        "value": "5926",
+        "section": null,
+        "numResults": 436,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Marvel",
+        "displaySublabelValue": null,
+        "value": "5",
+        "section": null,
+        "numResults": 401,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Coins",
+        "displaySublabelValue": null,
+        "value": "64",
+        "section": null,
+        "numResults": 396,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pop Music",
+        "displaySublabelValue": null,
+        "value": "72",
+        "section": null,
+        "numResults": 395,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "PSA",
+        "displaySublabelValue": null,
+        "value": "21060",
+        "section": null,
+        "numResults": 375,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Halloween",
+        "displaySublabelValue": null,
+        "value": "2292",
+        "section": null,
+        "numResults": 372,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gemstones",
+        "displaySublabelValue": null,
+        "value": "223",
+        "section": null,
+        "numResults": 370,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Lorcana",
+        "displaySublabelValue": null,
+        "value": "1769",
+        "section": null,
+        "numResults": 368,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pikachu",
+        "displaySublabelValue": null,
+        "value": "21773",
+        "section": null,
+        "numResults": 346,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Disney",
+        "displaySublabelValue": null,
+        "value": "9",
+        "section": null,
+        "numResults": 342,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Flash Sale",
+        "displaySublabelValue": null,
+        "value": "14226",
+        "section": null,
+        "numResults": 331,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mystery & Thriller",
+        "displaySublabelValue": null,
+        "value": "2403",
+        "section": null,
+        "numResults": 329,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Storm Emeralda",
+        "displaySublabelValue": null,
+        "value": "33023",
+        "section": null,
+        "numResults": 328,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Phantasmal Flames",
+        "displaySublabelValue": null,
+        "value": "24462",
+        "section": null,
+        "numResults": 318,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Charizard",
+        "displaySublabelValue": null,
+        "value": "21058",
+        "section": null,
+        "numResults": 318,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Star Wars",
+        "displaySublabelValue": null,
+        "value": "7",
+        "section": null,
+        "numResults": 312,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mega Evolution",
+        "displaySublabelValue": null,
+        "value": "22863",
+        "section": null,
+        "numResults": 307,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Repacks",
+        "displaySublabelValue": null,
+        "value": "60",
+        "section": null,
+        "numResults": 301,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Live Unboxing",
+        "displaySublabelValue": null,
+        "value": "1251",
+        "section": null,
+        "numResults": 284,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Perfect Order",
+        "displaySublabelValue": null,
+        "value": "28060",
+        "section": null,
+        "numResults": 272,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Handmade",
+        "displaySublabelValue": null,
+        "value": "282",
+        "section": null,
+        "numResults": 263,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Pokemon First Partner",
+        "displaySublabelValue": null,
+        "value": "28381",
+        "section": null,
+        "numResults": 242,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Raid Train",
+        "displaySublabelValue": null,
+        "value": "2664",
+        "section": null,
+        "numResults": 215,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Naruto",
+        "displaySublabelValue": null,
+        "value": "20280",
+        "section": null,
+        "numResults": 189,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Mega Dream",
+        "displaySublabelValue": null,
+        "value": "25274",
+        "section": null,
+        "numResults": 184,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Antique",
+        "displaySublabelValue": null,
+        "value": "280",
+        "section": null,
+        "numResults": 181,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "My Little Pony",
+        "displaySublabelValue": null,
+        "value": "27179",
+        "section": null,
+        "numResults": 174,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "90s",
+        "displaySublabelValue": null,
+        "value": "2665",
+        "section": null,
+        "numResults": 171,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Needoh",
+        "displaySublabelValue": null,
+        "value": "27481",
+        "section": null,
+        "numResults": 164,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Comic Art",
+        "displaySublabelValue": null,
+        "value": "6075",
+        "section": null,
+        "numResults": 157,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "3D Printers",
+        "displaySublabelValue": null,
+        "value": "24010",
+        "section": null,
+        "numResults": 156,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "DC Universe",
+        "displaySublabelValue": null,
+        "value": "10",
+        "section": null,
+        "numResults": 155,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Case Breaks",
+        "displaySublabelValue": null,
+        "value": "2767",
+        "section": null,
+        "numResults": 154,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Blind Boxes",
+        "displaySublabelValue": null,
+        "value": "1436",
+        "section": null,
+        "numResults": 152,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Squishy Dumplings",
+        "displaySublabelValue": null,
+        "value": "28382",
+        "section": null,
+        "numResults": 148,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fidget Toys",
+        "displaySublabelValue": null,
+        "value": "28524",
+        "section": null,
+        "numResults": 147,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Movies",
+        "displaySublabelValue": null,
+        "value": "5937",
+        "section": null,
+        "numResults": 145,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Live Demo",
+        "displaySublabelValue": null,
+        "value": "625",
+        "section": null,
+        "numResults": 143,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Little People",
+        "displaySublabelValue": null,
+        "value": "19962",
+        "section": null,
+        "numResults": 135,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Home Decor",
+        "displaySublabelValue": null,
+        "value": "523",
+        "section": null,
+        "numResults": 131,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Wrestling",
+        "displaySublabelValue": null,
+        "value": "5929",
+        "section": null,
+        "numResults": 126,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Kawaii",
+        "displaySublabelValue": null,
+        "value": "411",
+        "section": null,
+        "numResults": 123,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Gengar",
+        "displaySublabelValue": null,
+        "value": "21062",
+        "section": null,
+        "numResults": 120,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Smushers",
+        "displaySublabelValue": null,
+        "value": "30161",
+        "section": null,
+        "numResults": 119,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Baby",
+        "displaySublabelValue": null,
+        "value": "517",
+        "section": null,
+        "numResults": 119,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "OP-17",
+        "displaySublabelValue": null,
+        "value": "33713",
+        "section": null,
+        "numResults": 118,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Demon Slayer",
+        "displaySublabelValue": null,
+        "value": "21068",
+        "section": null,
+        "numResults": 107,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Riftbound",
+        "displaySublabelValue": null,
+        "value": "23548",
+        "section": null,
+        "numResults": 104,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Nintendo 3DS",
+        "displaySublabelValue": null,
+        "value": "19495",
+        "section": null,
+        "numResults": 103,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Horror",
+        "displaySublabelValue": null,
+        "value": "8",
+        "section": null,
+        "numResults": 103,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Hot Wheels",
+        "displaySublabelValue": null,
+        "value": "515",
+        "section": null,
+        "numResults": 102,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Fine Art",
+        "displaySublabelValue": null,
+        "value": "636",
+        "section": null,
+        "numResults": 102,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "sellerRating",
+     "displayField": "Seller Rating",
+     "displayStyle": "LIST",
+     "selectionType": "SELLER_RATING",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "5 stars",
+        "displaySublabelValue": null,
+        "value": "5.0",
+        "section": null,
+        "numResults": 66705,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.5 & Up",
+        "displaySublabelValue": null,
+        "value": "4.5",
+        "section": null,
+        "numResults": 97627,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "4.0 & Up",
+        "displaySublabelValue": null,
+        "value": "4.0",
+        "section": null,
+        "numResults": 97839,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "isPremierShop",
+     "displayField": "Premier Shop",
+     "displayStyle": "TOP_LEVEL_CHECKBOX",
+     "selectionType": "SINGLE_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "Premier Shop",
+        "displaySublabelValue": null,
+        "value": "true",
+        "section": null,
+        "numResults": 14658,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    },
+    {
+     "field": "userCountry.keyword",
+     "displayField": "Shipped From",
+     "displayStyle": "LIST",
+     "selectionType": "MULTI_SELECT",
+     "options": {
+      "maxAllowedMultiselect": null,
+      "allowedValues": [
+       {
+        "displayValue": "United States",
+        "displaySublabelValue": null,
+        "value": "US",
+        "section": null,
+        "numResults": 75170,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "United Kingdom",
+        "displaySublabelValue": null,
+        "value": "GB",
+        "section": null,
+        "numResults": 16782,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Australia",
+        "displaySublabelValue": null,
+        "value": "AU",
+        "section": null,
+        "numResults": 5105,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "France",
+        "displaySublabelValue": null,
+        "value": "FR",
+        "section": null,
+        "numResults": 4337,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Canada",
+        "displaySublabelValue": null,
+        "value": "CA",
+        "section": null,
+        "numResults": 2460,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Netherlands",
+        "displaySublabelValue": null,
+        "value": "NL",
+        "section": null,
+        "numResults": 1614,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Germany",
+        "displaySublabelValue": null,
+        "value": "DE",
+        "section": null,
+        "numResults": 1519,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Japan",
+        "displaySublabelValue": null,
+        "value": "JP",
+        "section": null,
+        "numResults": 570,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Belgium",
+        "displaySublabelValue": null,
+        "value": "BE",
+        "section": null,
+        "numResults": 356,
+        "directDescendantValues": null
+       },
+       {
+        "displayValue": "Austria",
+        "displaySublabelValue": null,
+        "value": "AT",
+        "section": null,
+        "numResults": 79,
+        "directDescendantValues": null
+       }
+      ],
+      "allowedRange": null
+     }
+    }
+   ],
+   "sorts": [
+    {
+     "displayField": "Recommended",
+     "field": null,
+     "direction": null
+    },
+    {
+     "displayField": "Viewers: high to low",
+     "field": "VIEWER_COUNT",
+     "direction": "DESC"
+    },
+    {
+     "displayField": "Viewers: low to high",
+     "field": "VIEWER_COUNT",
+     "direction": "ASC"
+    }
+   ],
+   "defaultSort": {
+    "displayField": "Recommended",
+    "field": null,
+    "direction": null
+   }
+  }
+ }
+}

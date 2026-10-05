@@ -1,0 +1,106 @@
+{
+ "liveStream": {
+  "id": "e99b6525-46bd-4f63-9f9b-553d8d6060f3",
+  "title": "🇺🇸 $1 STARTS 🔥 BIG GIVVYS 🍀 FREE HEAT",
+  "status": "PLAYING",
+  "startTime": 1791179153071.0,
+  "endTime": null,
+  "activeViewers": 280,
+  "totalWatchlistUsers": 48,
+  "isHiddenBySeller": false,
+  "explicitContent": false,
+  "livestreamLabels": null,
+  "streamService": "agora",
+  "trailerUrl": null,
+  "trailerThumbnailUrl": null,
+  "shippingSourceCountryCode": "US",
+  "isFreeShippingEnabled": null,
+  "buyerPaysMaxAmountForShipping": null,
+  "thumbnail": {
+   "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogImxpdmVzdHJlYW1fdGh1bWJuYWlscy8zYTgxNWE5Yy1lY2VmLTRiYjktYjgwZi1iYTNlMmQ0YWFjYjYuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDgyOCwgImhlaWdodCI6IDEyODAsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=384854e877c2ac7a5542fa7f8535e02ba79755ad2f9cab1c0b0c17a467dac9ce"
+  },
+  "livestreamCategories": [
+   {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+    "name": "pokemon_cards",
+    "label": "Pokémon Cards",
+    "deeplink": "tag/pokemon_cards"
+   }
+  ],
+  "categoryNodes": [
+   {
+    "id": "Q2F0ZWdvcnlOb2RlOjI=",
+    "type": "pokemon_cards",
+    "label": "Pokémon Cards"
+   }
+  ],
+  "tags": [
+   {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjI5MA==",
+    "name": "one_dollar_starts",
+    "label": "$1 Starts"
+   },
+   {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6MjY1OQ==",
+    "name": "sudden_death",
+    "label": "Sudden Death"
+   },
+   {
+    "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTc=",
+    "name": "pokemon",
+    "label": "Pokémon"
+   }
+  ],
+  "sellerLanguage": {
+   "languageCode": "en",
+   "displayName": "English"
+  },
+  "user": {
+   "id": "20946588",
+   "username": "fantomtrading",
+   "isLive": true,
+   "isVerifiedSeller": false,
+   "sellerRating": {
+    "overall": 4.9,
+    "numReviews": 6101
+   },
+   "profileImage": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzIwOTQ2NTg4LzhiOWFjMmJjLTUzZTYtNDc5ZC1iYTkxLTdkMjdlNzMwNWNiYi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=654d3e2ee003205a16788a9a8c083d21df0831a12ff804e649c47ec14dc47286"
+   },
+   "premierShopStatus": {
+    "isPremierShop": false
+   },
+   "sellerBadges": null,
+   "displayName": "FANTOM",
+   "bio": "",
+   "followerCount": 67408,
+   "followingCount": 85,
+   "soldCount": 54908,
+   "averageShipDays": 3,
+   "storeImage": {
+    "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzIwOTQ2NTg4L3N0b3JlLzM1OWU5MTYzLWU3ZDctNDU0OS04M2M5LWIyY2RmNWRlYzFmMS5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=8b339085fd2004468fd6d3e250d270316589fbe47677d77ac5f0578287ad9760"
+   }
+  },
+  "description": "",
+  "pinnedProductId": "1ea89e0e-78b0-4485-9c59-e071b0c1be04",
+  "buyerShopEnabled": true,
+  "prebidsDisabled": false,
+  "captionsEnabled": true,
+  "isAutoplayEnabled": true,
+  "categories": [
+   "t__907"
+  ],
+  "showNotes": [],
+  "nominatedModerators": [
+   {
+    "id": "UHVibGljVXNlck5vZGU6MTgzNTAxMTU=",
+    "username": "jclizzy"
+   },
+   {
+    "id": "UHVibGljVXNlck5vZGU6MjA3MzM4MDQ=",
+    "username": "edgelordfarquaad"
+   }
+  ],
+  "localPickupSettings": null
+ }
+}

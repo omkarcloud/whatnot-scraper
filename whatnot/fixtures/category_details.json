@@ -1,0 +1,26 @@
+{
+ "getLivestreamTagByName": {
+  "id": "TGl2ZXN0cmVhbVRhZ05vZGU6OTA3",
+  "name": "pokemon_cards",
+  "label": "Pokémon Cards",
+  "description": "",
+  "tagType": null,
+  "viewerCount": 10682,
+  "livestreamCount": 270,
+  "deeplink": "tag/pokemon_cards",
+  "image": {
+   "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInRhZ3MvcG9rZW1vbl9jYXJkcy0tZTk1NDU1Y2YtOGZiZi00NDRiLWFlMDItOTIyMmViNzhlNGY5LnBuZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJ3aWR0aCI6IDYzMiwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY292ZXIiLCAiYmFja2dyb3VuZCI6IHsiciI6IDI1NSwgImciOiAyNTUsICJiIjogMjU1LCAiYWxwaGEiOiAxfX19LCAib3V0cHV0Rm9ybWF0IjogIndlYnAifQ==?signature=43fed969484aab4500cdf8508932416665d36f371e7b478a5b2fcf847a35b62a"
+  },
+  "parent": {
+   "id": "TGl2ZXN0cmVhbVRhZ05vZGU6ODk5",
+   "name": "trading_card_games",
+   "label": "Trading Card Games"
+  },
+  "isFollowable": true,
+  "canScheduleLive": false,
+  "feed": {
+   "id": "CATEGORY_FEED_V2:TGl2ZXN0cmVhbVRhZ05vZGU6OTA3"
+  },
+  "refinements": []
+ }
+}

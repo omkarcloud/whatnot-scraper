@@ -1,0 +1,274 @@
+{
+ "getUser": {
+  "id": "UHVibGljVXNlck5vZGU6MTE4NDg0OTU=",
+  "username": "pokemonsuperstore",
+  "sellerRating": {
+   "overall": 4.9,
+   "numReviews": 38006,
+   "shipping": 5.0,
+   "packaging": 5.0,
+   "accuracy": 5.0
+  },
+  "sellerReviews": {
+   "totalCount": 38006,
+   "pageInfo": {
+    "hasNextPage": true,
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjc="
+   },
+   "edges": [
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0Nzg1NzM1NTM6MTE4NDg0OTU6NTU2Mjg4NA==",
+      "averageRating": 5.0,
+      "overallReview": "phenomenal experience!",
+      "sellerResponse": null,
+      "reviewedOn": "Sun, 04 Oct 2026 21:13:31 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6NTU2Mjg4NA==",
+       "username": "wolfofwutnot",
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzU1NjI4ODQvY2M2NThhNzQtNmUwMC00ZDIxLWExOTYtODI0MzQyOTk3M2FhLmpwZWciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiBudWxsLCAiaGVpZ2h0IjogbnVsbCwgImZpdCI6ICJjb250YWluIiwgImJhY2tncm91bmQiOiB7InIiOiAyNTUsICJnIjogMjU1LCAiYiI6IDI1NSwgImFscGhhIjogMX19fX0=?signature=c0d320334f3a6beb1806b511fc29478b02e21bf5ed22470cf0484be39437690b"
+       }
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "phenomenal experience!"
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0ODkwMjk3NTA6MTE4NDg0OTU6NTg3MzE2MjA=",
+      "averageRating": 5.0,
+      "overallReview": "fun to rip and receive quick",
+      "sellerResponse": null,
+      "reviewedOn": "Sun, 04 Oct 2026 03:22:02 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6NTg3MzE2MjA=",
+       "username": "lealara2023",
+       "profileImage": null
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "fun to rip and receive quick"
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0ODg3MzAwNzg6MTE4NDg0OTU6MzA2Njc4NzM=",
+      "averageRating": 5.0,
+      "overallReview": "Perfect package ",
+      "sellerResponse": null,
+      "reviewedOn": "Sat, 03 Oct 2026 23:02:27 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6MzA2Njc4NzM=",
+       "username": "fc29",
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzMwNjY3ODczLzViNGQxZjRmLTQ0NTQtNDAzOS05OWI0LWM1MDM4MGM2MjcwZi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=17be82b0ca7e24f70c4c706c2a04e66c94f8f79559818fad84b6606530c519d2"
+       }
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "Perfect package "
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0ODg3ODI3MDE6MTE4NDg0OTU6NzMxNjI4NDk=",
+      "averageRating": 5.0,
+      "overallReview": "Positive time. Everything arrived beautifully and in great condition. Stream was enjoyable and energy was great from the host! Thank you! ",
+      "sellerResponse": null,
+      "reviewedOn": "Sat, 03 Oct 2026 21:39:46 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6NzMxNjI4NDk=",
+       "username": "gracesmi05921",
+       "profileImage": null
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "Positive time. Everything arrived beautifully and in great condition. Stream was enjoyable and energy was great from the host! Thank you! "
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0OTM5MDY2NjA6MTE4NDg0OTU6MjMwNTI4MDU=",
+      "averageRating": 5.0,
+      "overallReview": "Thank you!",
+      "sellerResponse": null,
+      "reviewedOn": "Sat, 03 Oct 2026 18:14:53 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6MjMwNTI4MDU=",
+       "username": "xosorio13",
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzIzMDUyODA1LzBlZjMxYzQyLTNkNmMtNGM0Ny04YzBmLTU4NDdmNzNmNDRiNC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=a25438e0984efa3b9e4be29362463453ce5468229dad38497ef641cb77c92e0f"
+       }
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "Thank you!"
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0OTMxMTMyMjc6MTE4NDg0OTU6MjMwNTI4MDU=",
+      "averageRating": 5.0,
+      "overallReview": "Thank you",
+      "sellerResponse": null,
+      "reviewedOn": "Sat, 03 Oct 2026 18:14:37 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6MjMwNTI4MDU=",
+       "username": "xosorio13",
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzIzMDUyODA1LzBlZjMxYzQyLTNkNmMtNGM0Ny04YzBmLTU4NDdmNzNmNDRiNC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=a25438e0984efa3b9e4be29362463453ce5468229dad38497ef641cb77c92e0f"
+       }
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "Thank you"
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0OTE1MTMyMzc6MTE4NDg0OTU6MjMwNTI4MDU=",
+      "averageRating": 5.0,
+      "overallReview": "Thanks yet again!! Shipping is fast!",
+      "sellerResponse": null,
+      "reviewedOn": "Sat, 03 Oct 2026 17:13:06 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6MjMwNTI4MDU=",
+       "username": "xosorio13",
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzIzMDUyODA1LzBlZjMxYzQyLTNkNmMtNGM0Ny04YzBmLTU4NDdmNzNmNDRiNC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=a25438e0984efa3b9e4be29362463453ce5468229dad38497ef641cb77c92e0f"
+       }
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "Thanks yet again!! Shipping is fast!"
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "U2VsbGVyUmV2aWV3Tm9kZTo0ODU3Mjk4MDU6MTE4NDg0OTU6MTUwMTIzMzM=",
+      "averageRating": 5.0,
+      "overallReview": "Amazing RTH Pokémon show, very entertaining. All my packages arrive carefully packaged! 🤘😎",
+      "sellerResponse": null,
+      "reviewedOn": "Sat, 03 Oct 2026 15:48:54 GMT",
+      "reviewedBy": {
+       "id": "UHVibGljVXNlck5vZGU6MTUwMTIzMzM=",
+       "username": "doughdeebird",
+       "profileImage": {
+        "url": "https://images.whatnot.com/eyJidWNrZXQiOiAid2hhdG5vdC1pbWFnZXMiLCAia2V5IjogInVzZXJzLzE1MDEyMzMzLzBmYTJmZjJhLThkOTUtNGUwMi1hMWE4LTMzZWYzNGIwOTRiMi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7IndpZHRoIjogbnVsbCwgImhlaWdodCI6IG51bGwsICJmaXQiOiAiY29udGFpbiIsICJiYWNrZ3JvdW5kIjogeyJyIjogMjU1LCAiZyI6IDI1NSwgImIiOiAyNTUsICJhbHBoYSI6IDF9fX19?signature=f4bfdf2d61e25ba625eac75399301b1e7824eef63927959b83369c482f06be0c"
+       }
+      },
+      "ratingOverall": {
+       "value": 5,
+       "explanation": "Amazing RTH Pokémon show, very entertaining. All my packages arrive carefully packaged! 🤘😎"
+      },
+      "ratingShipping": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingPackaging": {
+       "value": 5,
+       "explanation": null
+      },
+      "ratingAccuracy": {
+       "value": 5,
+       "explanation": null
+      }
+     }
+    }
+   ]
+  }
+ }
+}
