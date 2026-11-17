@@ -28,5 +28,15 @@ def whatnot_proxy():
     return os.environ.get("WHATNOT_PROXY") or None
 
 
-def whatnot_fallback_proxy():
+def whatnot_fallback_proxy(*args, **kwargs):
     return os.environ.get("WHATNOT_FALLBACK_PROXY") or None
+
+
+# ---- added by the sync: defaults for a direct run ----
+def gateway_exit(exit=None):
+    return None
+
+
+def whatnot_fallback_exits():
+    return ()
+

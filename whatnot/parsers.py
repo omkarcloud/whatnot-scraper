@@ -44,6 +44,8 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
 from whatnot import refs
+from scraper_utils.values import as_dict, as_list, bool_or_none as boolean, num as to_float, to_int
+from scraper_utils.text import stripped as text
 
 # Currencies whose `amount` is already in major units (no cents).
 _ZERO_DECIMAL = {"JPY", "KRW", "VND", "CLP", "ISK", "HUF", "TWD", "IDR"}
@@ -94,50 +96,10 @@ SHOW_FORMAT_PREFIX = "primary_show_format_"
 
 # ---- value helpers ---------------------------------------------------------------------
 
-def to_int(value):
-    if isinstance(value, bool):
-        return None
-    try:
-        return int(value) if value not in (None, "") else None
-    except (TypeError, ValueError):
-        try:
-            return int(float(value))
-        except (TypeError, ValueError):
-            return None
-
-
-def to_float(value):
-    if isinstance(value, bool):
-        return None
-    try:
-        return float(value) if value not in (None, "") else None
-    except (TypeError, ValueError):
-        return None
-
-
-def text(value):
-    """Trimmed string, or None for empty / non-string."""
-    if not isinstance(value, str):
-        return None
-    value = value.strip()
-    return value or None
-
-
-def boolean(value):
-    return value if isinstance(value, bool) else None
-
 
 def lower(value):
     value = text(value)
     return value.lower() if value else None
-
-
-def as_dict(value):
-    return value if isinstance(value, dict) else {}
-
-
-def as_list(value):
-    return value if isinstance(value, list) else []
 
 
 def iso_from_ms(value):
